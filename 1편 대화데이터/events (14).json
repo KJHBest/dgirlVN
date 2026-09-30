@@ -1,0 +1,687 @@
+﻿{
+    "sourceFolder":  "Used\\BattleEvent",
+    "eventCount":  14,
+    "events":  [
+                   {
+                       "sourceFile":  "fortress_ambush_01.asset",
+                       "eventName":  "숨겨진 위협",
+                       "eventNameEng":  "Hidden Threat",
+                       "eventDescription":  "숨겨진 위협",
+                       "eventID":  "fortress_ambush_01",
+                       "dialogues":  [
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "복도를 따라 이동하던 중, 크라노시아가 갑자기 당신의 앞을 막아섰다.",
+                                                               "마스터님, 잠시만요. 공기의 흐름이 부자연스럽습니다. 양쪽 환풍구에 적이 매복해 있을 확률 97.4%입니다.",
+                                                               "그녀의 말대로, 천장의 환풍구 덮개 너머로 희미한 기계음이 들려온다.",
+                                                               "제가 한쪽을 맡아 시선을 끄는 사이, 마스터님께서 다른 쪽을 기습하는 것이 가장 효율적인 전술로 판단됩니다. 명령을 내려주십시오."
+                                                           ],
+                                             "choices":  [
+                                                             "알겠다, 네 판단을 믿는다.",
+                                                             "정면으로 돌파한다.",
+                                                             "일단 후퇴해서 다른 길을 찾자."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "네. 마스터님의 신호에 맞춰 움직이겠습니다. 3, 2, 1… 지금입니다!",
+                                                                   "…알겠습니다. 정면 돌파 시 피해율이 15% 상승하지만, 마스터님의 명령이라면 따르겠습니다.",
+                                                                   "현명한 판단입니다. 불필요한 위험을 감수할 필요는 없죠."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "While moving along the corridor, Chronosia suddenly blocked your path.",
+                                                                  "Master, please wait a moment. The airflow is unnatural. There is a 97.4% probability",
+                                                                  "Just as she said, a faint mechanical sound can be heard from beyond the vent",
+                                                                  "I judge that the most efficient tactic is for me to take one side to draw their"
+                                                              ],
+                                                "choices":  [
+                                                                "I understand. I trust your judgment.",
+                                                                "Break through the front.",
+                                                                "Let\u0027s retreat for now and find another path."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Yes. I will move according to your signal, Master. 3, 2, 1... Now!",
+                                                                      "...Understood. A frontal breakthrough increases the damage rate by 15%, but",
+                                                                      "A wise decision. There is no need to take unnecessary risks."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "fortress_berserk_01.asset",
+                       "eventName":  "분노의 불꽃",
+                       "eventNameEng":  "Flames of Fury",
+                       "eventDescription":  "분노의 불꽃",
+                       "eventID":  "fortress_berserk_01",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "복도 끝에서, 붉은색 장갑을 두른 전갈 형태의 메탈리온이 나타났다.",
+                                                               "(그 모습을 보고 숨을 멈춘다) \"…저 녀석은.",
+                                                               "그녀의 눈에, 과거 자신의 고향을 불태우던 똑같이 생긴 메탈리온의 모습이 스쳐 지나간다.",
+                                                               "(이를 갈며) \"…용서 못 해. 마스터, 저 녀석만큼은… 내게 맡겨줘! 내 가족을, 내 모든 것을 빼앗아간 놈들이야!\""
+                                                           ],
+                                             "choices":  [
+                                                             "맡길게. 하지만 이성을 잃지 마.",
+                                                             "복수심은 널 위험하게 할 뿐이야.",
+                                                             "함께 싸우자, 인페르니아."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "…고마워, 마스터. 걱정 마. 이 분노는… 전부 저 녀석에게 쏟아부을 테니까!",
+                                                                   "위험해도 상관없어! 저 녀석을 쓰러뜨릴 수만 있다면!",
+                                                                   "…응. 함께라면… 더 확실하게 복수할 수 있겠지. 가자, 마스터!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "At the end of the corridor, a scorpion-shaped Metalion clad in red armor appeared.",
+                                                                  "(She stops breathing upon seeing it) \u0027...That thing.\u0027",
+                                                                  "The image of a Metalion identical to the one that burned down her hometown",
+                                                                  "(Gritting her teeth) \u0027...I can\u0027t forgive it. Master, leave this one... to me!"
+                                                              ],
+                                                "choices":  [
+                                                                "I\u0027ll leave it to you. But don\u0027t lose your mind.",
+                                                                "Vengeance will only put you in danger.",
+                                                                "Let\u0027s fight together, Infernia."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "...Thanks, Master. Don\u0027t worry. This rage... I\u0027ll pour all of it into that",
+                                                                      "I don\u0027t care if it\u0027s dangerous! As long as I can take that thing down!\u0027",
+                                                                      "...Right. If we\u0027re together... I can surely get my revenge. Let\u0027s go, Master!\u0027"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "fortress_cerberus_01.asset",
+                       "eventName":  "지옥의 파수견",
+                       "eventNameEng":  "Hound of Hell",
+                       "eventDescription":  "지옥의 파수견",
+                       "eventID":  "fortress_cerberus_01",
+                       "dialogues":  [
+                                         {
+                                             "character":  "글래이시아",
+                                             "sentences":  [
+                                                               "다음 구역으로 가는 게이트 앞을, 세 개의 머리를 가진 늑대 형태의 고기동 메탈리온 이 지키고 있었다.",
+                                                               "맹렬하게 으르렁거리며, 우리가 게이트에 접근하지 못하도록 위협하고 있다.",
+                                                               "마스터님… 저 개체, 엄청나게 빨라요. 정면으로 싸우면… 피해가 클 거예요. 하지만… ",
+                                                               "저렇게 한자리를 지키고 있다는 건… 무언가를 지키고 있다는 뜻이겠죠.",
+                                                               "제가… 제 능력으로 저 녀석의 발을 잠시 얼려볼게요. 완벽하게 막지는 못하겠지만… 마",
+                                                               "스터님께서 게이트를 해킹할 시간 정도는… 벌 수 있을지도 몰라요!"
+                                                           ],
+                                             "choices":  [
+                                                             "좋아, 시간을 벌어줘!",
+                                                             "위험해. 그냥 싸우자.",
+                                                             "자신 있겠어, 글래이시아?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "네! 마스터님을 위해서라면… 해볼게요! 아니, 해내겠어요!",
+                                                                   ". 정면 전투가 더 안전할 수도 있겠네요. 알겠습니다.",
+                                                                   "조금… 무섭지만, 마스터님이 지켜봐 주신다면… 할 수 있어요!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Glacia",
+                                                "sentences":  [
+
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "fortress_charge_01.asset",
+                       "eventName":  "정면 돌파",
+                       "eventNameEng":  "Frontal Assault",
+                       "eventDescription":  "정면 돌파",
+                       "eventID":  "fortress_charge_01",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "넓은 홀 중앙에, 순찰 중인 메탈리온 무리가 보인다.",
+                                                               "마스터! 저기 멍청이들이 모여있어! 내가 한가운데로 뛰어들어서 엉망으로 만드는 동안, 마스터는 뒤에서 지원해 줘! 어때, 완벽한 작전이지?",
+                                                               "그녀는 당장이라도 뛰쳐나갈 듯, 검 손잡이에 손을 올리고 맹렬한 눈빛으로 적을 노려보고 있다.",
+                                                               "빨리! 저 녀석들, 우리가 여기 있는 걸 눈치채기 전에 해치워야 해!"
+                                                           ],
+                                             "choices":  [
+                                                             "돌격! 내가 뒤를 맡을게!",
+                                                             "기다려, 너무 무모해.",
+                                                             "저격할 만한 위치는 없나?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "역시 마스터는 말이 통한다니까! 간다! 저 고철 덩어리들, 전부 녹여주겠어!",
+                                                                   "무모하다고? 내 힘을 못 믿는 거야? 흥, 마스터가 그렇게 말한다면… 일단은 기다려볼게.",
+                                                                   "숨어서 공격하는 건 내 방식이 아니지만… 마스터의 작전이라면 따라야지."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "fortress_elite_analysis_01.asset",
+                       "eventName":  "적의 분석",
+                       "eventNameEng":  "Enemy Analysis",
+                       "eventDescription":  "적의 분석",
+                       "eventID":  "fortress_elite_analysis_01",
+                       "dialogues":  [
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "강력한 엘리트 메탈리온을 힘겹게 쓰러뜨렸다.",
+                                                               "마스터님, 잠시 시간을 주십시오. 적의 잔해를 분석해야 합니다. 다음 전투를 위해 반드시 필요한 과정입니다.",
+                                                               "그녀는 쓰러진 메탈리온의 장갑을 뜯어내고 내부 회로를 신중하게 살피기 시작했다.",
+                                                               "이건… 처음 보는 합금입니다. 대물리/대에너지 방어 효율이 기존 모델보다 30% 이상 높습니다. 이 정보를 다른 디걸들에게도 공유해야 합니다."
+                                                           ],
+                                             "choices":  [
+                                                             "수고했어, 중요한 정보야.",
+                                                             "네 분석 능력은 큰 도움이 돼.",
+                                                             "이제 그만하고 이동하자."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "아닙니다. 당연히 해야 할 일입니다. 정보의 우위가 곧 승패를 결정하니까요.",
+                                                                   "…과찬이십니다. 마스터님의 지휘에 도움이 될 수 있다면 기쁩니다.",
+                                                                   "네, 알겠습니다. 분석은 끝났으니 즉시 이동하겠습니다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "The elite Metalion analysis unit was brought down with all our strength.",
+                                                                  "Master, give me a moment to digest this data and adjust our strategy.",
+                                                                  "The reinforcement broadcasts stopped, so the support wave is receding now.",
+                                                                  "This intel is gold. The armor/weapon breakdown was 30% more efficient than"
+                                                              ],
+                                                "choices":  [
+                                                                "Stop here and gather more intel.",
+                                                                "Let the analysis team handle it.",
+                                                                "Enough talk. It?s time to push forward."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Understood. I will report the adjustments we need for the defense.",
+                                                                      "...Copy that. I will keep monitoring and flag anything unusual.",
+                                                                      "Right. No time to waste; let?s break through together."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "fortress_environmental_trap_01.asset",
+                       "eventName":  "누수와 전력선",
+                       "eventNameEng":  "Leaking Pipes and Power Lines",
+                       "eventDescription":  "누수와 전력선",
+                       "eventID":  "fortress_environmental_trap_01",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "천장에서 물이 새어 바닥에 큰 웅덩이를 만든 방. 그 위로는 손상된 전력선이 위태롭게 매달려 있다.",
+                                                               "마스터님, 저것 좀 보세요! 자연적으로 만들어진 완벽한 전기 트랩이에요!",
+                                                               "그녀는 흥분한 목소리로 말을 이었다.",
+                                                               "저 전력선을 물웅덩이에 떨어뜨리면, 이 방으로 들어오는 모든 메탈리온을 감전시킬 수 있어요! 하지만… ",
+                                                               "만약 저 물을 한 방향으로만 흐르게 할 수 있다면, 더 강력하고 안전한 함정을 만들 수 있을 텐데… 아쉽네요!"
+                                                           ],
+                                             "choices":  [
+                                                             "흥미로운 발상이네.",
+                                                             "물을 얼릴 수 있다면…",
+                                                             "위험해 보이니 그냥 지나가자."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "그쵸! 과학은 언제나 우리 주변에 있다니까요!",
+                                                                   "얼린다고요? 오! 마스터님, 천재세요?! 글래이시아의 능력을 이용하면…! 대단해요! 역시 마스터님의 응용력은 최고라니까요!",
+                                                                   "에이, 아쉽다. 이렇게 좋은 실험 재료가 있는데… 안전이 우선이긴 하죠."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "A fog of corrosive chemicals is rolling between the pipes, acting as a living",
+                                                                  "Master, look! The spill keeps expanding, so we need to analyze this trap immediately.",
+                                                                  "It keeps pumping out vapor while the field distorts the air, making it hard",
+                                                                  "If we can push that mist into the drain, the condensate will short the system."
+                                                              ],
+                                                "choices":  [
+                                                                "Clear the path with a quick strike.",
+                                                                "Use the storm to trap it in the drain.",
+                                                                "Hold back and observe; it might deactivate soon."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Good! The fog thins, and our path is clear for the next push.",
+                                                                      "I overloaded the condensers; the drain will swallow the mist now.",
+                                                                      "Staying back is a cautious move. I\u0027ll keep an eye out for changes."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "fortress_frozen_trap_01.asset",
+                       "eventName":  "얼어붙은 용기",
+                       "eventNameEng":  "Frozen Courage",
+                       "eventDescription":  "얼어붙은 용기",
+                       "eventID":  "fortress_frozen_trap_01",
+                       "dialogues":  [
+                                         {
+                                             "character":  "글래이시아",
+                                             "sentences":  [
+                                                               "막다른 방에 몰린 순간, 천장의 환풍구에서 거미 형태의 소형 메탈리온들이 쏟아져 내렸다.",
+                                                               "히익! 너무 많아요…! 사방에서…! 마스터님, 어떡하죠?",
+                                                               "공포에 질린 그녀의 주변으로 냉기가 피어오르기 시작했지만, 적들의 빠른 움직임을 따라잡지 못하고 있다.",
+                                                               "한 마리가 당신을 향해 뛰어드는 순간, 글래이시아가 비명을 지르며 손을 뻗었다. ",
+                                                               "그녀의 공포가 강력한 냉기가 되어 방 전체의 바닥을 순식간에 얼려버렸다."
+                                                           ],
+                                             "choices":  [
+                                                             "잘했어, 글래이시아!",
+                                                             "진정해, 내가 옆에 있어.",
+                                                             "움직임이 멈춘 지금이 기회야!"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "네…? 제가… 해낸 건가요? 마스터님을 지키고 싶다는 생각에… 저도 모르게…",
+                                                                   "(당신의 목소리에 안정을 되찾는다) 네, 마스터님… 마스터님이 계셔서… 용기를 낼 수 있었어요.",
+                                                                   "네! 이제 무섭지 않아요! 저 녀석들, 전부 얼음 조각으로 만들어 버릴게요!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Glacia",
+                                                "sentences":  [
+                                                                  "Brilliant shards unfurl across the hallway, turning it into a living glacier.",
+                                                                  "Master, the chill is stabbing; we can\u0027t touch the metal without igniting those",
+                                                                  "The drones keep reheating the ice whenever we approach, so we must draw them",
+                                                                  "If we force enough heat into the conduits, the cracks will widen and the trap"
+                                                              ],
+                                                "choices":  [
+                                                                "Blast it with heat and melt the ice.",
+                                                                "Trigger the field and dash through while it resets.",
+                                                                "Hold back; wait for the frost to dissipate."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "The heat softened the shards; now we can cross without triggering it.",
+                                                                      "I overloaded the trap; the ice is collapsing behind us.",
+                                                                      "Waiting paid off. The frost seems to have exhausted its charge."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "fortress_legion_01.asset",
+                       "eventName":  "강철의 비",
+                       "eventNameEng":  "Rain of Steel",
+                       "eventDescription":  "강철의 비",
+                       "eventID":  "fortress_legion_01",
+                       "dialogues":  [
+                                         {
+                                             "character":  "에테르니아",
+                                             "sentences":  [
+                                                               "(다리 건너편 절벽에 자리 잡은 포격형 메탈리온이 무차별 포격을 퍼붓고 있다.)",
+                                                               "마스터님, 위험해요! 저 포격은 대공동의 방어벽도 뚫을 수 있는 위력이에요! 저 비를 뚫고 다리를 건너는 건 불가능합니다!",
+                                                               "잠시 포격이 멎은 틈을 타, 레기온의 포신이 다음 발사를 위해 냉각되는 모습이 보인다.",
+                                                               "지금이에요! 제가 전방에 방어막을 펼쳐 다음 포격을 막아내겠습니다. ",
+                                                               "그 사이 다른 디걸들이 다리를 건너 포대를 파괴해야 해요! 제 모든 에너지를 쏟아부을 테니… 반드시 성공해주세요!"
+                                                           ],
+                                             "choices":  [
+                                                             "에테르니아, 너를 믿는다!",
+                                                             "너무 위험해, 다른 방법은 없어?",
+                                                             "네가 버틸 수 있겠어?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "네! 마스터님의 믿음에… 목숨을 걸고 보답하겠습니다!",
+                                                                   "아니요… 저것을 파괴하지 않는 한, 저희는 한 발짝도 나아갈 수 없습니다. 이것이 유일한 방법이에요.",
+                                                                   "마스터님과 모두를 위해서라면… 얼마든지요. 그러니 걱정 마세요."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Ethernia",
+                                                "sentences":  [
+                                                                  "A bombardment Metalion looms ahead, firing indiscriminately across the bridge.",
+                                                                  "Master, it\u0027s charging! That fire is aimed at the central defense throat; we",
+                                                                  "A brief lull just appeared in its pattern, but the next spray will be worse.",
+                                                                  "Now! While the shells swing wide, lock onto its targeting unit and cut it down.",
+                                                                  "If we can break its focus, the rest of the Legion might hesitate. Prepare your"
+                                                              ],
+                                                "choices":  [
+                                                                "Eternia, draw its fire so the others can flank.",
+                                                                "Return fire and break the shield.",
+                                                                "Hold position and observe for another opening."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Good. The misfire left a gap; the next burst won?t hit the bridge.",
+                                                                      "I whittled down the targeting servos; its next salvo will scatter.",
+                                                                      "Staying back gave us the chance to track its rhythm; I?ll warn when it resets."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "fortress_phantom_01.asset",
+                       "eventName":  "보이지 않는 사냥꾼",
+                       "eventNameEng":  "Invisible Hunter",
+                       "eventDescription":  "보이지 않는 사냥꾼",
+                       "eventID":  "fortress_phantom_01",
+                       "dialogues":  [
+                                         {
+                                             "character":  "루미네시아",
+                                             "sentences":  [
+                                                               "칠흑 같은 어둠이 내린 중앙 통제실. 모든 센서가 침묵하고, 오직 아군의 숨소리만이 들려온다.",
+                                                               "마스터시여, 경계를. 이 공간… 무언가에 의해 \u0027숨겨져\u0027 있습니다. 기계의 눈이 아닌, 영혼의 눈으로 보아야만 하는 존재가… 우리를 사냥하고 있습니다.",
+                                                               "그 순간, 바로 등 뒤에서 바람을 가르는 소리와 함께 보이지 않는 무언가가 스쳐 지나갔다.",
+                                                               "저것은 광학 위장 능력을 가진 특수 암살 개체 , 제가 영력으로 그 위치를 잠시 붙잡아 두겠습니다. 그 찰나의 순간을 놓치지 마십시오!"
+                                                           ],
+                                             "choices":  [
+                                                             "알겠다, 네게 집중할게.",
+                                                             "모두, 원형으로 대형을 유지해!",
+                                                             "어디 있는지 전혀 모르겠어."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "네. 저의 모든 감각을 곤두세워… 그 실체를 드러내겠습니다. 지금입니다!",
+                                                                   "훌륭한 판단입니다. 방어 대형을 유지하면 기습에 대응하기 용이하겠지요.",
+                                                                   "괜찮습니다. 보이지 않는 것을 보는 것이 저의 역할이니까요. 저를 믿어주십시오."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master! Something\u0027s wrong... I can feel eyes on us, but I can\u0027t see anything!",
+                                                                  "It\u0027s like the air itself is watching... wait, there! A shimmer in the corner!",
+                                                                  "Damn it... it\u0027s a phantom hunter! One of those invisible Nephilim stalkers!",
+                                                                  "They blend perfectly with the fortress shadows... we can\u0027t let it get the drop"
+                                                              ],
+                                                "choices":  [
+                                                                "Confront it head-on",
+                                                                "Try to lure it out with electricity",
+                                                                "Fall back and avoid engagement"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Charging straight in! Let\u0027s see how it likes a direct hit!",
+                                                                      "Fine... I\u0027ll send a discharge pulse through the air. Hold on!",
+                                                                      "Tch... smart move. We don\u0027t need unnecessary fights right now."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "fortress_predict_01.asset",
+                       "eventName":  "전장의 잔향",
+                       "eventNameEng":  "Echoes of the Battlefield",
+                       "eventDescription":  "전장의 잔향",
+                       "eventID":  "fortress_predict_01",
+                       "dialogues":  [
+                                         {
+                                             "character":  "루미네시아",
+                                             "sentences":  [
+                                                               "거대한 격납고에 들어서자, 루미네시아가 눈을 감고 무언가를 느끼기 시작했다.",
+                                                               "마스터시여. 이곳에는… 수많은 전투의 기억이 남아있노라. 비명과 분노, 그리고 슬픔의 잔향이… 벽에 스며들어 있느니라",
+                                                               "그녀는 허공의 한 지점을 가리켰다.",
+                                                               "이 기억의 흐름을 읽으면, 적의 움직임을 예측할 수 있습니다. 3분 뒤, 저쪽 게이트에서 엘리트 정찰대가 나타날 겁니다. ",
+                                                               "미리 대비한다면, 손쉽게 제압할 수 있겠지요."
+                                                           ],
+                                             "choices":  [
+                                                             "네 예지를 믿고 매복하자.",
+                                                             "다른 변수는 없을까?",
+                                                             "예측이 틀리면 어떡하지?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "후후, 현명한 판단이노라. 운명은 거스를 수 없지만, 이용할 수는 있는 법이지요",
+                                                                   "물론, 미래는 언제나 유동적이노라. 하지만 이 정도로 강한 잔향이라면… 거의 확실하다고 볼 수 있느니라",
+                                                                   "제 예지가 틀린다면… 그땐 제가 앞장서서 마스터님을 지키겠느니라. 그러니 걱정하지 말거라"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Luminesia",
+                                                "sentences":  [
+                                                                  "A strange distortion is spreading along the barricade, like a phantom replaying",
+                                                                  "Master, look. The simulation rig is channeling defense programs from our old",
+                                                                  "They cycle through the same choreographed phase, meaning if we wait they will",
+                                                                  "We need to throw them off their rhythm; this apparatus predicts our moves,"
+                                                              ],
+                                                "choices":  [
+                                                                "Stop and wait for the next sign.",
+                                                                "Let them cycle a few more times.",
+                                                                "Stay aggressive and disrupt their timing."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Good call; the system cooled down during the pause, giving us a clearer read.",
+                                                                      "Their rehearsal kept spinning; now we know we can ignore the phantom and",
+                                                                      "Interrupting their loop triggered a misfire; the forecasted strike collapsed."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "fortress_shield_01.asset",
+                       "eventName":  "공주의 방패",
+                       "eventNameEng":  "Princess\u0027s Shield",
+                       "eventDescription":  "공주의 방패",
+                       "eventID":  "fortress_shield_01",
+                       "dialogues":  [
+                                         {
+                                             "character":  "에테르니아",
+                                             "sentences":  [
+                                                               "무너져 내리는 통로를 지나던 중, 거대한 방패를 든 엘리트 메탈리온 한 기가 길을 막아섰다.",
+                                                               "강력한 개체예요! 마스터님, 제 뒤로 물러나세요! 저 방패는 보통 공격으로는 뚫기 어려워요.",
+                                                               "에테르니아는 메카닉 윙을 펼쳐 당신 앞을 막아서며 방어 태세를 취했다.",
+                                                               "제가 저 녀석의 공격을 막아내는 동안, 방패가 열리는 아주 짧은 순간이 있을 거예요. 그 틈을 노려주세요. 마스터님은… 제가 반드시 지켜드릴 테니까요."
+                                                           ],
+                                             "choices":  [
+                                                             "너를 믿고 기회를 노릴게.",
+                                                             "같이 공격하는 건 어때?",
+                                                             "무리하지 마, 에테르니아."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "네! 마스터님과의 연계라면… 반드시 이길 수 있어요!",
+                                                                   "아니요, 저의 방어에 집중하는 편이 더 안전합니다. 마스터님의 안전이 최우선이니까요.",
+                                                                   "괜찮아요. 마스터님을 지키는 것은 공주인 저의 당연한 책무인걸요."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Eternia",
+                                                "sentences":  [
+                                                                  "An armored Metalion has anchored its shield generator at the center of the",
+                                                                  "Master, it is charging! That field is reinforcing the defensive wall; we must",
+                                                                  "I can draw its focus away, but the shield will pulse harder with every distraction.",
+                                                                  "If we overload its power conduits, the barrier will collapse and the rest of"
+                                                              ],
+                                                "choices":  [
+                                                                "Redirect the ammo to overload the shield.",
+                                                                "Strike the pylons supporting it.",
+                                                                "Hold steady; wait for the shield to peak."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Good. The surge crashed through the barrier, leaving it vulnerable for a",
+                                                                      "The pylons are in ruins; the shield is flickering and the path is exposed.",
+                                                                      "Timing the release let us dodge the blast and stay in the clear."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "fortress_snipe_point_01.asset",
+                       "eventName":  "최적의 저격 지점",
+                       "eventNameEng":  "Optimal Sniper Position",
+                       "eventDescription":  "최적의 저격 지점",
+                       "eventID":  "fortress_snipe_point_01",
+                       "dialogues":  [
+                                         {
+                                             "character":  "에테르니아",
+                                             "sentences":  [
+                                                               "거대한 동력실. 수많은 메탈리온들이 복잡한 구조물 위를 순찰하고 있다.",
+                                                               "마스터님, 저 위! 중앙 제어 타워 꼭대기라면 이곳의 모든 적을 한눈에 볼 수 있어요.\"",
+                                                               "그녀의 말대로, 아찔한 높이의 타워는 완벽한 저격 지점처럼 보였다.",
+                                                               "제가 저곳까지 날아가서 적 지휘관과 주요 개체들을 먼저 무력화시키겠습니다. ",
+                                                               "마스터님께서는 아래에서 다른 디걸들과 함께 남은 적들을 소탕해주세요. 가능할까요?"
+                                                           ],
+                                             "choices":  [
+                                                             "완벽한 계획이야. 실행해.",
+                                                             "혼자서 위험하지 않겠어?",
+                                                             "다른 방법은 없을까?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "네! 마스터님의 신뢰에 보답하겠습니다. 하늘에서 모두를 지켜보고 있겠습니다.",
+                                                                   "괜찮아요. 높은 곳은 오히려 저에게 가장 안전한 장소인걸요. 걱정해주셔서 고마워요.",
+                                                                   "음… 정면 돌파는 피해가 너무 큽니다. 이 방법이 현재로서는 최선이라고 생각해요."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Eternia",
+                                                "sentences":  [
+                                                                  "Brigade units are lined up outside, turning the bridge into a calcified choke",
+                                                                  "Master, watch. Their auto-turret is waiting for the perfect coordinate before",
+                                                                  "If those drones keep sweeping, we won\u0027t get a clean shot on the generator.",
+                                                                  "Break their routine and the gap will appear; otherwise we\u0027re just bait."
+                                                              ],
+                                                "choices":  [
+                                                                "Open the window with a charged shot.",
+                                                                "Wait for the drone blind spots.",
+                                                                "Flank while they reposition."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Nice! The burst created a window; the rest of the units can move now.",
+                                                                      "Their rotation faltered; we slipped through the side path.",
+                                                                      "Flanking shocked the system; it misfired and the turret is exposed."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "fortress_titan_01.asset",
+                       "eventName":  "거신(巨神)의 진격",
+                       "eventNameEng":  "March of the Titan",
+                       "eventDescription":  "거신(巨神)의 진격",
+                       "eventID":  "fortress_titan_01",
+                       "dialogues":  [
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "요새의 거대한 격벽이 무너지며, 건물 크기의 초거대 메탈리온 \u0027타이탄\u0027이 모습을 드러냈다.",
+                                                               "마스터님, 경고합니다. 저 개체는 일반 병기가 아닙니다. 요새 그 자체를 파괴하기 위해 만들어진 움직이는 공성 병기입니다.",
+                                                               "타이탄의 어깨에서 수많은 미사일 포드가 열리며 이쪽을 조준한다.",
+                                                               "전면전은 무리입니다. 데이터 분석 결과, 약점은 발목의 동력선과 등 중앙의 주 동력 코어. ",
+                                                               "다리를 먼저 파괴하여 기동력을 빼앗은 후, 코어를 직접 타격해야 합니다."
+                                                           ],
+                                             "choices":  [
+                                                             "계획대로, 다리부터 노린다!",
+                                                             "미사일 포대부터 파괴하자.",
+                                                             "저걸 상대할 수 있을까…?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "네. 제가 엄호하겠습니다. 마스터님은 지휘에만 집중해주십시오.",
+                                                                   "무장 파괴도 유효하지만, 다리를 놔두면 계속해서 거리를 벌릴 겁니다. 추천하지 않습니다.",
+                                                                   "…두려우십니까? 괜찮습니다, 마스터님. 제가 분석하고, 당신이 지휘한다면… 이길 수 있습니다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "The titanic Metalion has anchored itself above the gorge, raining fire on everything",
+                                                                  "Master, its charge builds! That cannon is funneling power from the entire bridge.",
+                                                                  "There is a brief lull between volleys; we must collapse its targeting network",
+                                                                  "The smaller guardians will falter if the Titan loses focus. Aim for its command"
+                                                              ],
+                                                "choices":  [
+                                                                "Eternia, draw its fire aside.",
+                                                                "Strike the targeting crystal now.",
+                                                                "Wait for the next lull and distract it first."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Good. The barrage misfired while you drew its aim away.",
+                                                                      "The crystal cracked; the Titan\u0027s sight is blurred.",
+                                                                      "Your timing let us dodge; now its cannon is recharging."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "fortress_weakness_01.asset",
+                       "eventName":  "시스템의 약점",
+                       "eventNameEng":  "System Weakness",
+                       "eventDescription":  "시스템의 약점",
+                       "eventID":  "fortress_weakness_01",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터님, 저기 순찰 중인 메탈리온들, 움직임이 주기적이고 단순해요. 마치… 중앙 동력원에서 에너지를 무선으로 공급받는 구형 모델 같아요.\"",
+                                                               "그녀는 벽에 붙은 낡은 배전반을 가리켰다.",
+                                                               "저 배전반에 과부하를 주면, 이 구역 전체의 메탈리온들을 잠시 동안 마비시킬 수 있을 거예요. 제 전기로 시스템에 쇼크를 주는 거죠!\"",
+                                                               "어떠세요? 물리학으로 우아하게 이기는 전투, 한번 해보실래요?"
+                                                           ],
+                                             "choices":  [
+                                                             "좋은 생각이야, 바로 실행하자!",
+                                                             "실패할 확률은 없어?",
+                                                             "그냥 싸워서 이기는 게 빨라."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "헤헤, 맡겨주세요! 옴의 법칙은 거짓말을 안 하거든요! 자, 갑니다! 찌릿찌릿!",
+                                                                   "음… 5.8% 확률로 저희 쪽 시스템까지 잠시 다운될 수 있지만… 그 정도 리스크는 감수할 만하죠! 과학은 도전이니까요!",
+                                                                   "에이, 마스터님은 낭만을 모르시네! 하지만 그것도 하나의 방법이긴 하죠."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master, their operations hinge on one massive support line that threads through",
+                                                                  "If we siphon its signal, the entire defense pattern will go blind and restless.",
+                                                                  "A single disruption will rip the harmony between its guard formations.",
+                                                                  "Let me redirect the flow while you hit the main node with a precision shot."
+                                                              ],
+                                                "choices":  [
+                                                                "Sever the line with a critical strike.",
+                                                                "Hold back and monitor for further clues.",
+                                                                "Reroute their energy to confuse the system."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Good! The cut stunned the line; their defenses stalled.",
+                                                                      "The monitoring paid off; their pattern is erratic but still intact.",
+                                                                      "Rerouting shook their framework; the guard is disoriented now."
+                                                                  ]
+                                            }
+                                        ]
+                   }
+               ]
+}

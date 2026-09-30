@@ -1,0 +1,201 @@
+﻿{
+    "sourceFolder":  "CardDatas\\Lightning",
+    "eventCount":  15,
+    "events":  [
+                   {
+                       "sourceFile":  "EMP 방출 1.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "EMP 방출 2.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "EMP 방출.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "뇌격 1.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "뇌격 2.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "뇌격.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "뇌신의비행.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "뇌신의외침.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "무한동력.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "번개 채찍 1.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "번개 채찍 2.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "번개 채찍.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "오버챠지 1.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "오버챠지 2.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "오버챠지.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   }
+               ]
+}

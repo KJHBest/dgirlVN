@@ -1,0 +1,188 @@
+﻿{
+    "sourceFolder":  "CardDatas\\Dimension",
+    "eventCount":  14,
+    "events":  [
+                   {
+                       "sourceFile":  "검격.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "공허의 일섬 1.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "공허의 일섬.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "백연참_속 1.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "백연참_속.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "사건의 지평선.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "차원 베기 1.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "차원 베기 2.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "차원 베기.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "차원 붕괴.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "차원연속참.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "페이즈 시프트 1.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "페이즈 시프트 2.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "페이즈 시프트.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   }
+               ]
+}

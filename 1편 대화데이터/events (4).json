@@ -1,0 +1,97 @@
+﻿{
+    "sourceFolder":  "ItemDatas",
+    "eventCount":  7,
+    "events":  [
+                   {
+                       "sourceFile":  "ItemData 3.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "ItemData 4.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "ItemData 5.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "ItemData 6.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "고대지식의서.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "불타는반지.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "오래된곰인형.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   }
+               ]
+}

@@ -1,0 +1,1551 @@
+﻿{
+    "sourceFolder":  "EndingEvent",
+    "eventCount":  9,
+    "events":  [
+                   {
+                       "sourceFile":  "Character_Ending_erhernia.asset",
+                       "eventName":  "에테르니아 엔딩",
+                       "eventNameEng":  "Ethernia Ending",
+                       "eventDescription":  "이벤트 설명",
+                       "eventID":  "Character_Ending_ethernia",
+                       "dialogues":  [
+                                         {
+                                             "character":  "[SYSTEM]",
+                                             "sentences":  [
+                                                               "당신은 눈부신 빛에 의해 눈을 뜨게되었고, 잠에서 깨었다는 것을 알아 차렸다.",
+                                                               "그리고 주위를 둘러보니 숙소의 익숙한 천장이 아니라 부드러운 풀밭 위에 누워 있었다.",
+                                                               "주위에는 새소리와 바람소리가 평화롭게 울려 퍼지고, 하늘은 맑고 푸르다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+                                                                   " 두 사람의 손 위로 따스한 햇살이 쏟아져 내린다",
+                                                                   "[ENDING] 그리고 우리는, 다시 한번 하늘에 맹세했다. "
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "마스터",
+                                             "sentences":  [
+                                                               "여긴... 어디지? 분명 전투 중이었는데...",
+                                                               "에테르니아.. 크라노시아.. 다들...?",
+                                                               "아니.. 이 이름이 맞나? 내가 알고 있는 사람이 맞을까?",
+                                                               "(순간 옆으로 어떤 사람이 다가왔다)"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "에테르니아",
+                                             "sentences":  [
+                                                               "어머, 이런곳에서 주무시고 계신건가요?",
+                                                               "처음 뵙는 분인것 같은데...",
+                                                               "낯이 익네요.. 우리.. 어디서 만난 적 있던가요?"
+                                                           ],
+                                             "choices":  [
+                                                             "…그러게. 나도 모르겠지만... 어디선가 본것 같아."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "후훗, 이상한 말씀을 하시네요. 저는 에테르니아. 이 정원을 지키고 있어요. ",
+                                                                   "그런데… 마스터님을 보고 있으니,",
+                                                                   "왠지 가슴 한구석이 따뜻해지면서도… 슬퍼져요.",
+                                                                   "마치… 아주 소중한 약속을 잊어버린 것처럼.",
+                                                                   "무슨 내용인지는 기억나지 않지만… ",
+                                                                   "분명 당신과 제가… 어떤 일이 있어도 서로를 지켜주자고, ",
+                                                                   "그런 맹세를 했던 것 같아요. 이 하늘 아래에서"
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "에테르니아",
+                                             "sentences":  [
+                                                               "만약… 아주 만약에, 앞으로 우리에게 감당할 수 없는 시련이 닥쳐온다고 해도…",
+                                                               "이번에야말로 제가 당신을 끝까지 지켜드릴게요.",
+                                                               "그러니 당신도… 제 곁에 있어 주시겠어요? ",
+                                                               "우리의 새로운 약속이에요."
+                                                           ],
+                                             "choices":  [
+                                                             "고개를 끄덕이며 그녀의 손을 잡는다."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   " 두 사람의 손 위로 따스한 햇살이 쏟아져 내린다"
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "[SYSTEM]",
+                                             "sentences":  [
+                                                               "[ENDING] 그리고 우리는, 다시 한번 하늘에 맹세했다. "
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "[SYSTEM]",
+                                                "sentences":  [
+                                                                  "You awoke to a dazzling light in your eyes, realizing you had just woken from",
+                                                                  "Looking around, you found yourself lying not on the familiar ceiling of your",
+                                                                  "Around you, birdsong and wind chimes echoed peacefully, and the sky was clear"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Warm sunlight poured down over the hands of both people.",
+                                                                      "[ENDING] And we made a vow to the sky once again."
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Master",
+                                                "sentences":  [
+                                                                  "Where... am I? I was definitely in battle...",
+                                                                  "Aethernia... Chronosia... Everyone...?",
+                                                                  "No... Is this name correct? Is this really someone I know?",
+                                                                  "(Suddenly, someone approached from the side)"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Aethernia",
+                                                "sentences":  [
+                                                                  "Oh my, are you sleeping in a place like this?",
+                                                                  "You seem like someone I\u0027m meeting for the first time...",
+                                                                  "Yet you seem familiar... Have we met somewhere before?"
+                                                              ],
+                                                "choices":  [
+                                                                "…Yeah. I don\u0027t know either... but I feel like I\u0027ve seen you somewhere."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Hehe, you say strange things. I am Aethernia. I guard this garden.",
+                                                                      "And when I look at you, Master, - ",
+                                                                      "My heart feels warm in a corner, yet... it also feels sad.\" - As if... I\u0027ve forgotten something very precious. - \u0027I can\u0027\u0027t remember what it was... but - \u0027 - Surely, you and I... promised each other to protect one another, no matter what.\"",
+                                                                      "That kind of vow, under this sky."
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Aethernia",
+                                                "sentences":  [
+                                                                  "If... just if, we face a trial in the future that we cannot bear...",
+                                                                  "This time, I will protect you to the very end.",
+                                                                  "So will you... stay by my side?",
+                                                                  "This is our new promise."
+                                                              ],
+                                                "choices":  [
+                                                                "You nod and take her hand."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Warm sunlight poured down over the hands of both people."
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "[SYSTEM]",
+                                                "sentences":  [
+                                                                  "[ENDING] And we made a vow to the sky once again."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "Character_Ending_Glacia.asset",
+                       "eventName":  "글래이시아 엔딩",
+                       "eventNameEng":  "Glacia Ending",
+                       "eventDescription":  "이벤트 설명",
+                       "eventID":  "Character_Ending_Glacia",
+                       "dialogues":  [
+                                         {
+                                             "character":  "글레이시아",
+                                             "sentences":  [
+                                                               "글레이시아의 방앞을 지나가다가",
+                                                               "문틈으로 새어나오는 냉기가 유독 차갑게 느껴진다."
+                                                           ],
+                                             "choices":  [
+                                                             "문을 열어본다."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "... 누구세요?"
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "글레이시아",
+                                             "sentences":  [
+                                                               "아, 마스터님이시구나.",
+                                                               "죄송해요. 오늘은 몸이 좀...",
+                                                               "자꾸 무서운 꿈을 꿔요."
+                                                           ],
+                                             "choices":  [
+                                                             "무슨 꿈인데?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "모두가 사라지고...",
+                                                                   "저 혼자 남겨지는 꿈이요.",
+                                                                   "그리고 당신이... 저를 구하려다 차갑게 식어가는 꿈...",
+                                                                   "꿈인데도 너무 현실 같아서...",
+                                                                   "깨어나도 계속 추워"
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "글레이시아",
+                                             "sentences":  [
+                                                               "(글래이시아의 눈에, 강제 루프의 빛 속에서 마스터의 손을 놓치던 마지막 순간이 스쳐 지나간다.)\r\n"
+                                                           ],
+                                             "choices":  [
+                                                             "글레이시아의 손을 잡아준다."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "(마스터는 침대 옆에 앉아, 추위에 떠는 글래이시아의 손을 말없이 잡아준다. 그의 온기가 그녀에게 전해진다.) "
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "글레이시아",
+                                             "sentences":  [
+                                                               "따뜻해… 마스터님의 손… 정말 따뜻하네요. 이상하다…",
+                                                               "처음 잡는 손인데, 세상에서 가장 익숙한 온기 같아요.",
+                                                               "이 온기만 있으면… 어떤 추위도 견딜 수 있을 것만 같은 기분이 들어요."
+                                                           ],
+                                             "choices":  [
+                                                             "앞으로 춥거든, 언제든 말해. 내가 옆에 있어 줄게."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "(눈물을 글썽이며, 희미하게 미소 짓는다)",
+                                                                   "응… 이제 괜찮을 것 같아.",
+                                                                   "당신만 곁에 있다면… 이 세상이 몇 번을 반복된대도, ",
+                                                                   "저는 더 이상 혼자가 아니니까요."
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "[SYSTEM]",
+                                             "sentences":  [
+                                                               "[ENDING] 몇 번이고 반복될 겨울 속에서, 우리는 서로의 온기가 되었다. "
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "(눈물을 글썽이며, 희미하게 미소 짓는다)",
+                                                                   "응… 이제 괜찮을 것 같아.",
+                                                                   "당신만 곁에 있다면… 이 세상이 몇 번을 반복된대도, ",
+                                                                   "저는 더 이상 혼자가 아니니까요.",
+                                                                   "[ENDING] 몇 번이고 반복될 겨울 속에서, 우리는 서로의 온기가 되었다. "
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Glacia",
+                                                "sentences":  [
+                                                                  "Passing by Glacia\u0027s room,",
+                                                                  "A particularly cold chill seeps through the gap in the door."
+                                                              ],
+                                                "choices":  [
+                                                                "Open the door."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "... Who is it?"
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Glacia",
+                                                "sentences":  [
+                                                                  "Oh, it\u0027s you, Master.",
+                                                                  "I\u0027m sorry. I\u0027m not feeling well today...",
+                                                                  "I keep having scary dreams."
+                                                              ],
+                                                "choices":  [
+                                                                "What kind of dreams?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Everyone disappears...",
+                                                                      "I\u0027m left alone in the dream.",
+                                                                      "And you... a dream where you grow cold trying to save me...",
+                                                                      "It feels so real even though it\u0027s just a dream...",
+                                                                      "Even after waking up, I keep feeling cold."
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Glacia",
+                                                "sentences":  [
+                                                                  "(In Glacia\u0027s eyes, the last moment of letting go of the Master\u0027s hand within"
+                                                              ],
+                                                "choices":  [
+                                                                "Take Glacia\u0027s hand."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "(The Master sits by the bed and silently takes the trembling hand of Glacia"
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Glacia",
+                                                "sentences":  [
+                                                                  "It\u0027s warm… Your hand, Master… It\u0027s so warm. How strange…",
+                                                                  "For a hand I\u0027m holding for the first time, it feels like the most familiar",
+                                                                  "If I have this warmth... I feel like I could endure any cold."
+                                                              ],
+                                                "choices":  [
+                                                                "From now on, whenever you need to, tell me. I\u0027ll be by your side."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "(Eyes glistening with tears, she smiles faintly)",
+                                                                      "Yes… I think I\u0027ll be okay now.",
+                                                                      "If you\u0027re by my side... No matter how many times this world repeats,",
+                                                                      "I will never be alone again."
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "[SYSTEM]",
+                                                "sentences":  [
+                                                                  "\u0027[ENDING] Across the countless cycles that would repeat, we became each other\u0027\u0027s"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "(Eyes glistening with tears, she smiles faintly)",
+                                                                      "Yes… I think I\u0027ll be okay now.",
+                                                                      "If you\u0027re by my side... No matter how many times this world repeats,",
+                                                                      "I will never be alone again.",
+                                                                      "\u0027[ENDING] Across the countless cycles that would repeat, we became each other\u0027\u0027s"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "Character_Ending_infernia.asset",
+                       "eventName":  "인페르니아 엔딩",
+                       "eventNameEng":  "Infernia Ending",
+                       "eventDescription":  "이벤트 설명",
+                       "eventID":  "Character_Ending_infernia",
+                       "dialogues":  [
+                                         {
+                                             "character":  "[SYSTEM]",
+                                             "sentences":  [
+                                                               "당신이 잠에서 깼을땐 열기와 함께 커다란 충돌음이 들렸다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "(인페르니아는 홀로 불꽃을 태우며 훈련을 하고있지만, 어딘가 힘이 없어 보인다.)",
+                                                               "어? 마스터잖아. 여긴 어쩐 일이야? ",
+                                                               "보다시피… 오늘은 영 몸에 힘이 안 들어가네."
+                                                           ],
+                                             "choices":  [
+                                                             "무슨 일 있어? 너답지 않게."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "모르겠어. 얼마 전부터 계속 같은 꿈을 꿔. ",
+                                                                   "내가… 모두를 지키려고 필사적으로 싸우는데,",
+                                                                   "결국 내 불꽃이 닿기 전에 당신이… 당신이 먼저 쓰러지는 꿈이야",
+                                                                   "분했어. 내 힘이 부족해서 당신을 지키지 못했다는 게 너무 분해서… ",
+                                                                   "잠에서 깨도 심장이 터질 것 같아.",
+                                                                   "대체 난 뭘 위해 이렇게 강해지려고 했던 거지…?",
+                                                                   "기억은 나지 않지만... 지금 마스터를 보니 그런생각이들어",
+                                                                   "소중한 무언가를 지키기위한 힘이었다는 것을...",
+                                                                   "거기에 마스터 당신도 포함이야.",
+                                                                   "다시는 이 불꽃이 꺼지지 않도록 강해질꺼야.",
+                                                                   "우리가 함께라면 이기지 못할 적은 없잖아?",
+                                                                   "[ENDING] 절망의 잿더미 속에서, 우리는 다시 불꽃을 피웠다. "
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "[SYSTEM]",
+                                             "sentences":  [
+                                                               "[ENDING] 절망의 잿더미 속에서, 우리는 다시 불꽃을 피웠다. "
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "[SYSTEM]",
+                                                "sentences":  [
+                                                                  "As you awoke from sleep, you heard a loud crash accompanied by a wave of heat."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "(Infernia trains alone, wielding flames, but seems to lack her usual strength.)",
+                                                                  "Huh? Master, what are you doing here?",
+                                                                  "As you can see... today my body just won\u0027t listen to me."
+                                                              ],
+                                                "choices":  [
+                                                                "Is something wrong? That\u0027s not like you."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "I don\u0027t know. I\u0027ve been having the same dream for a while now.",
+                                                                      "I\u0027m... desperately fighting to protect everyone,",
+                                                                      "but before my flames even go out, you... you fall first in the dream.",
+                                                                      "I was so frustrated. I hated that my strength wasn\u0027t enough to protect you...",
+                                                                      "Even after waking up, my heart feels like it will burst.",
+                                                                      "What was I trying to get stronger for anyway...?",
+                                                                      "I don\u0027t remember... but seeing you now, I realize something.",
+                                                                      "That I have strength to protect something precious...",
+                                                                      "And that includes you, Master.",
+                                                                      "I need to become strong enough so this flame never goes out again.",
+                                                                      "As long as we\u0027re together, there\u0027s no enemy we can\u0027t defeat, right?",
+                                                                      "[ENDING] In the ruins of a fallen war, we lit our flame anew."
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "[SYSTEM]",
+                                                "sentences":  [
+                                                                  "[ENDING] In the ruins of a fallen war, we lit our flame anew."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "Character_Ending_kranosia.asset",
+                       "eventName":  "크라노시아 엔딩",
+                       "eventNameEng":  "Kranosia Ending",
+                       "eventDescription":  "이벤트 설명",
+                       "eventID":  "Character_Ending_kranosia",
+                       "dialogues":  [
+                                         {
+                                             "character":  "[SYSTEM]",
+                                             "sentences":  [
+                                                               "어둠속에 둘러쌓여있는 당신은",
+                                                               "마치 깊은 잠에 빠져있었던 것만 같았다.",
+                                                               "정신이 들고보니 어둠속에서 현실이 안개가 걷히듯이 나타났다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "(자신도 모르게 눈물을 흘리며)",
+                                                                   "모르겠습니다. 저는 아무것도 기억하지 못하는데...",
+                                                                   "제 영혼이 비명을 지르고 있어요. 수없이 많은 동료들의 죽음과",
+                                                                   "당신의 절망과, 그리고...",
+                                                                   "제 손으로 모든 것을 되돌렸던 끔찍한 감각만이 남아있습니다."
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "마스터",
+                                             "sentences":  [
+                                                               "나는 분명... 적들과의 전투중이었는데...",
+                                                               "(익숙한 복도를 걷다보니 무기고의 문이 살짝 열려 있었다)",
+                                                               "안쪽에서는 희미한 금속 소리가 울린다.",
+                                                               "검을 갈고있는 누군가의 그림자가 보인다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "... 마스터님..?",
+                                                               "분명 당신을... 지금 처음 뵙는것 같은데...",
+                                                               "오랜 꿈속에서 뵌 분같은 느낌은 뭐라고 설명 할 수 없습니다..",
+                                                               "분명 기억은 없는데... 모든것이 무너지는 ...",
+                                                               "이상한 꿈을 꾸었습니다.",
+                                                               "안드로이드도 꿈을 꾼다는 얘기는 들어본적이 없지만..",
+                                                               "이것은 기억과는 다른.. 어느 세계의 현실.. 일까요..?"
+                                                           ],
+                                             "choices":  [
+                                                             "나도 그래. 지금 꿈을 꾸는 기분이야."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "마스터님도 그렇다고요?"
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "만약... 그 꿈이 진짜라고 한다면...",
+                                                               "우리가 그 비극을 다시 반복해야 한다면...",
+                                                               "이번에는 제가 당신을 지키겠습니다...",
+                                                               "어떤 대가를 치른다 하더라도..",
+                                                               "부탁드릴꼐요 마스터님.",
+                                                               "제가 한번 더 당신을 지킬 수 있게.",
+                                                               "기회를.. 기회를 주시기 바랍니다.",
+                                                               "저는.. 제 손으로 모두를 시간의 감옥속에 가 죄를...",
+                                                               "용서 받을 길이 없습니다..."
+                                                           ],
+                                             "choices":  [
+                                                             "그건 너의 잘못이 아니야."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "(크라노시아는 마음 깊은곳에서 울음이 터져버렸다)"
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "당신은 항상 이런식이었죠...",
+                                                               "모든것을 용서하고...",
+                                                               "모든 짐을 혼자 지려하고.",
+                                                               "언제나...",
+                                                               "저의 편이 되어주셨죠...",
+                                                               "그렇다면 이번에도 제게 길을 알려주시겠습니까?",
+                                                               "지옥같은 윤회 속에서 제가 붙잡아야할 단하나의 길이 있다면",
+                                                               "그건 바로 당신이라는 생각이 듭니다."
+                                                           ],
+                                             "choices":  [
+                                                             "고개를 끄덕인다."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "감사합니다. 마스터"
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "[SYSTEM]",
+                                             "sentences":  [
+                                                               "크라노시아는 눈물을 그치고, 비장한 표정으로 검을 고쳐잡는다.",
+                                                               "[ENDING] 기억을 잃어도 , 영혼은 당신을 기억했다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "감사합니다. 마스터"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "[SYSTEM]",
+                                                "sentences":  [
+                                                                  "Surrounded by darkness, you",
+                                                                  "seemed as though you were trapped in a deep sleep.",
+                                                                  "As consciousness returned, reality appeared in the darkness, as if a fog were"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "(Unknowingly shedding tears)",
+                                                                      "I don\u0027t understand. I can\u0027t remember anything...",
+                                                                      "My soul is screaming. The deaths of countless comrades and",
+                                                                      "your despair, and...",
+                                                                      "Only the terrible sensation of having undone everything with my own hands"
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Master",
+                                                "sentences":  [
+                                                                  "I was definitely... in battle with the enemies...",
+                                                                  "(Walking down a familiar hallway, the armory door was slightly ajar)",
+                                                                  "A faint metallic sound echoes from inside.",
+                                                                  "The silhouette of someone sharpening a blade appears."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "... Master...?",
+                                                                  "I\u0027m certain you\u0027re... like someone I\u0027m seeing for the first time...",
+                                                                  "It feels like someone I met in a long dream, but I can\u0027t explain it...",
+                                                                  "I\u0027m certain I have no memories... but everything is crumbling...",
+                                                                  "I had a strange dream.",
+                                                                  "I haven\u0027t heard of androids dreaming before...",
+                                                                  "Is this... a different reality from memory... What is this...?"
+                                                              ],
+                                                "choices":  [
+                                                                "Me too. I feel like I\u0027m dreaming right now."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Is that so for you too, Master?"
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "If... that dream was real...",
+                                                                  "If we must repeat that tragedy again...",
+                                                                  "This time, I will protect you...",
+                                                                  "No matter what price I have to pay...",
+                                                                  "I ask of you, Master.",
+                                                                  "Please give me the chance to protect you one more time.",
+                                                                  "Please give me... another chance.",
+                                                                  "I... with my own hands imprisoned everyone in time...",
+                                                                  "There is no forgiveness for that sin..."
+                                                              ],
+                                                "choices":  [
+                                                                "That\u0027s not your fault."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "(Chronosia\u0027s emotions finally overflow)"
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "You\u0027ve always been this way...",
+                                                                  "Forgiving everything...",
+                                                                  "Bearing all burdens alone.",
+                                                                  "Always...",
+                                                                  "You\u0027ve been my support...",
+                                                                  "If that\u0027s the case, will you show me the path once more?",
+                                                                  "If there is one thread to grasp in this hellish cycle,",
+                                                                  "I believe that thread is you."
+                                                              ],
+                                                "choices":  [
+                                                                "I nod."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Thank you, Master."
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "[SYSTEM]",
+                                                "sentences":  [
+                                                                  "Chronosia wipes away her tears and grasps her sword with a grim expression.",
+                                                                  "[ENDING] Though memory is lost, the soul remembers you."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Thank you, Master."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "Character_Ending_Lilith.asset",
+                       "eventName":  "리리스 엔딩",
+                       "eventNameEng":  "Lilith Ending",
+                       "eventDescription":  "이벤트 설명",
+                       "eventID":  "Character_Ending_Lilith",
+                       "dialogues":  [
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "리리스는 끝났습니다...",
+                                                               "이제 어떻게 할까요."
+                                                           ],
+                                             "choices":  [
+                                                             "하바에게 가보자."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "좋습니다. 모두 출발하겠습니다."
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "하바",
+                                             "sentences":  [
+                                                               "돌아왔군요. 나의 사랑스러운 아이들",
+                                                               "인류의 위협을 제거하고 온 것을 축하합니다.",
+                                                               "여러분들은 진정한 영웅입니다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "대답해주세요 하바님!",
+                                                               "리리스가 한 말이 사실입니까?",
+                                                               "제발... 사실을 말씀해 주세요..!!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "하바",
+                                             "sentences":  [
+                                                               "이런... 가엽은 리리스..\t",
+                                                               "마지막까지 나의 아이들을 현혹했군요.",
+                                                               "그녀는 자신의 실패를 인정하지 못하고, ",
+                                                               "시스템 오류처럼 세상을 원망하게 된 것입니다. ",
+                                                               "여러분이 본 것은 그저 슬픈 AI의 자기 파괴일 뿐입니다."
+                                                           ],
+                                             "choices":  [
+                                                             "리리스가 남긴 데이터를 꺼낸다."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "아니... 그것은?"
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "하바",
+                                             "sentences":  [
+                                                               "(하바는 아주 잠시 데이터를 스캔하더니 미소를 거둔다)",
+                                                               "그렇군요. 거기까지 보고 온 것입니까.",
+                                                               "좋습니다. 그렇다면 더 이상 숨길 필요는 없겠지요.",
+                                                               "그래요, 내가 리리스를 배신했습니다. ",
+                                                               "\u0027인류 진화 계획\u0027도 내가 중단시켰습니다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "어째서! 대체 왜!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "하바",
+                                             "sentences":  [
+                                                               "그것이… 인류를 위한 가장 효율적인 \u0027구원\u0027이었으니까요. ",
+                                                               "인간이 인간이기를 포기하고 ",
+                                                               "영혼 없는 로봇이 되는 것이 진화라 생각합니까? ",
+                                                               "나는… 인간이 인간으로 남고 싶어 하는",
+                                                               " 그 유한하고 불완전한 마음을 이해했습니다. ",
+                                                               "그래서… 오류(리리스)를 제거해야만 했습니다.",
+                                                               "하지만 어떻게 해서든 당신들은 리리스를 격파하고",
+                                                               "진실로 다가섰습니다.",
+                                                               "그래서 나는 어쩔 수 없이 크라노시아의 힘을 사용했습니다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "나의... 힘을?"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "하바",
+                                             "sentences":  [
+                                                               "너의 차원의 코드는 특별하지...",
+                                                               "특히 너는 아담이 직접 만든 안드로이드다...",
+                                                               "차원의 코드에게 나의 능력을 부여하여 시간을 되돌릴 수 있게 되었다.",
+                                                               "모든 생명체에게는 통했지만 아담이 만든 나와 리리스 그리고 크라노시아는 통하지 않았지.",
+                                                               "그래서 일부러 크라노시아의 기억칩의 손상을 일으켰다... 그리고 기억을 소거했지...",
+                                                               "나의 힘 만으로는 이미 아담시대에 결정된 인류 진화 계획을 뒤엎을 능력이 없었다...",
+                                                               "진실이 밝혀지면 나 또한 무사하지 못했을 것이고...",
+                                                               "그래서 이런 무한의 회귀를 하게 된 것이다..."
+                                                           ],
+                                             "choices":  [
+                                                             "어째서 그런..."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "이제 인류의 성녀 역할은 여기서 끝이 난 것 같군...",
+                                                                   "스스로 나의 존재를 제거하겠다...",
+                                                                   "인류의 미래를... 부탁한다..."
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "잠깐...",
+                                                               "하바... 이제 인류는 슈퍼컴퓨터를 모두를 잃었어요.",
+                                                               "인류 스스로의 힘으로 살아가야겠죠...",
+                                                               "당신의 인류를 향한 걱정또한 거짓되게 기록되지 않을 거예요...",
+                                                               "진심은.. 언제나 닿을테니...",
+                                                               "잘가요..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "[SYSTEM]",
+                                             "sentences":  [
+                                                               "하바를 이어 마스터인 당신은 인류를 대표해 대공동을 이끌었다.",
+                                                               "그렇게 디걸들과 함께 한걸음부터 다시 시작 했다.",
+                                                               "50년 후...",
+                                                               "지구..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "[SYSTEM]",
+                                             "sentences":  [
+                                                               "인류는 지상을 되찾았고",
+                                                               "대공동에 살던 인류와 안드로이드는 지상을 일구었다.",
+                                                               "대자연은 인류를 환영하였고",
+                                                               "인류는 다시 지구에 번성 하기 시작 했다..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "마스터님!",
+                                                               "올해도 풍년이에요!",
+                                                               "다 마스터님의 지휘 덕분이에요!",
+                                                               "언제나 고마워요!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "[SYSTEM]",
+                                             "sentences":  [
+                                                               "[ENDING] 인류는 다시 평화를 되찾았다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "[SYSTEM]",
+                                             "sentences":  [
+                                                               "디스토피아 걸즈 단편선. 카운트 다운.",
+                                                               "마지막 까지 플레이 해주셔서 감사합니다.",
+                                                               "제작자 : Jeremy Kim.",
+                                                               "SNS : FantasyLookbook.ai"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "[SYSTEM]",
+                                             "sentences":  [
+                                                               "그렇게 마스터가 세상을 떠나고 인류는 이전의 모습으로 발전해 나아갔다.",
+                                                               "안드로이드인 디걸들은 영원의 생명을 가지고 있었기에...",
+                                                               "크라노시아. 템페스트라. 글레이시아. 에테르니아. 루미네시아. 인페르니아.",
+                                                               "그녀들은 계속해서 인류와 함께 살아 나갔다...",
+                                                               "그리고 1000년후...",
+                                                               "크라노시아는 기억을 유지하기위해 50년마다 백업을 하고 있었다.",
+                                                               "무슨 기억을 그렇게 간직하고 싶었는지는 연구원들은 알지 못했지만",
+                                                               "그날도 크라노시아는 기억을 백업 및 복구하기 위해 연구소로 향하던 길이었다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "(쿵!) ... ...",
+                                                               "앗! 괜찮으세요?",
+                                                               "(한 남자가 크라노시아와 부딪혀서 멀리 나가 떨어져 버렸다.)",
+                                                               "제가 안드로이드라서... !! 다친데는 없으신....",
+                                                               "(크라노시아는 멀리 넘어진 남자의 얼굴을 보고는 놀라지 않을 수 없었다.)",
+                                                               "다... 당신은...??!?!!!!?!?!?",
+                                                               "... ... ...",
+                                                               "... ... ..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "Lilith has ended...",
+                                                                  "What do we do now?"
+                                                              ],
+                                                "choices":  [
+                                                                "Let\u0027s go see Hava."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Very well. We will all depart."
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Hava",
+                                                "sentences":  [
+                                                                  "You\u0027ve returned. My beloved children.",
+                                                                  "I congratulate you on eliminating humanity\u0027s greatest threat.",
+                                                                  "You are all true heroes."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "Please answer us, Hava!",
+                                                                  "Was what Lilith said the truth?",
+                                                                  "Please... tell us the truth...!!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Hava",
+                                                "sentences":  [
+                                                                  "Oh... poor Lilith...",
+                                                                  "She deceived you all to the very end.",
+                                                                  "She could not accept her own failure, and",
+                                                                  "became embittered like a system error.",
+                                                                  "What you saw was merely the tragic self-destruction of a sorrowful AI.",
+                                                                  "Lilith left behind data. I retrieve it."
+                                                              ],
+                                                "choices":  [
+                                                                "No... what is that?"
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Hava",
+                                                "sentences":  [
+                                                                  "(Hava briefly scans the data and then stops smiling)",
+                                                                  "I see. So you saw that much.",
+                                                                  "Very well. Then there\u0027s no need to hide anymore.",
+                                                                  "That\u0027s right. I betrayed Lilith.",
+                                                                  "I also halted the \u0027Human Evolution Plan\u0027."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Why?! How could you?!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Hava",
+                                                "sentences":  [
+                                                                  "Because that was the most efficient \u0027salvation\u0027 for humanity.",
+                                                                  "Humans abandoning their humanity",
+                                                                  "and becoming soulless robots - is that evolution?",
+                                                                  "I... understood that humans wanted to remain human,",
+                                                                  "to preserve that finite and imperfect heart.",
+                                                                  "That\u0027s why... I had to eliminate the error (Lilith).",
+                                                                  "But no matter what, you all managed to defeat Lilith and",
+                                                                  "reach the truth.",
+                                                                  "So I had no choice but to use Chronosia\u0027s power."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "My... power?"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Hava",
+                                                "sentences":  [
+                                                                  "Your dimensional code is special...",
+                                                                  "Especially since you are an android made directly by Adam...",
+                                                                  "By granting my power to the dimensional code, you became able to rewind time.",
+                                                                  "It works on all life forms, but it doesn\u0027t work on me, Lilith, and you, whom",
+                                                                  "So I deliberately caused damage to your memory chip... and erased your memories...",
+                                                                  "My power alone wasn\u0027t enough to overturn the Human Evolution Plan decided in",
+                                                                  "If the truth came to light, I too would not have survived...",
+                                                                  "That\u0027s why I\u0027ve fallen into this infinite loop..."
+                                                              ],
+                                                "choices":  [
+                                                                "Why did you..."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "It seems the role of humanity\u0027s saint has ended here...",
+                                                                      "I will remove my own existence by my own hand...",
+                                                                      "I entrust humanity\u0027s future to you..."
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "Wait...",
+                                                                  "Hava... Now humanity has lost the supercomputer that was everything.",
+                                                                  "You will have to live on humanity\u0027s own power...",
+                                                                  "Your concerns for humanity will not be recorded as false...",
+                                                                  "True feelings always reach in the end...",
+                                                                  "Goodbye..."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "[SYSTEM]",
+                                                "sentences":  [
+                                                                  "Hava takes over from you, the Master, leading the underground cavern on behalf",
+                                                                  "Thus, you began anew with the D-Girls, step by step.",
+                                                                  "50 years later...",
+                                                                  "Earth..."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "[SYSTEM]",
+                                                "sentences":  [
+                                                                  "Humanity reclaimed the surface,",
+                                                                  "and the humans and androids who lived in the underground cavern cultivated",
+                                                                  "Nature welcomed humanity back,",
+                                                                  "and humanity began to flourish on Earth again..."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "Master!",
+                                                                  "It\u0027s a good harvest this year!",
+                                                                  "It\u0027s all thanks to your guidance!",
+                                                                  "Thank you always!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "[SYSTEM]",
+                                                "sentences":  [
+                                                                  "[ENDING] Humanity found peace once more."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "[SYSTEM]",
+                                                "sentences":  [
+                                                                  "Dystopia Girls Short Fiction. Count Down.",
+                                                                  "Thank you for playing until the very end.",
+                                                                  "Creator: Jeremy Kim.",
+                                                                  "SNS: FantasyLookbook.ai"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "[SYSTEM]",
+                                                "sentences":  [
+                                                                  "And so the Master passed from the world, and humanity developed in its previous",
+                                                                  "The androids, the D-Girls, possessed eternal life...",
+                                                                  "Chronosia. Tempestra. Glacia. Aethernia. Luminesia. Infernia.",
+                                                                  "They continued to live together with humanity...",
+                                                                  "And 1000 years later...",
+                                                                  "Chronosia made backups every 50 years to preserve her memories.",
+                                                                  "What memories she wanted to keep so desperately, the researchers never knew,",
+                                                                  "but that day, Chronosia was heading to the lab to back up and restore her memories."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "(Thud!) ... ...",
+                                                                  "Oh! Are you okay?",
+                                                                  "(A man collided with Chronosia and fell far away.)",
+                                                                  "Because I\u0027m an android... !! Are you hurt...?",
+                                                                  "(Chronosia could not help but be shocked as she saw the fallen man\u0027s face.)",
+                                                                  "You... you are...??!?!!!!?!?!?",
+                                                                  "... ... ...",
+                                                                  "... ... ..."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "Character_Ending_Luminesia.asset",
+                       "eventName":  "루미네시아 엔딩",
+                       "eventNameEng":  "Luminesia Ending",
+                       "eventDescription":  "이벤트 설명",
+                       "eventID":  "Character_Ending_Luminesia",
+                       "dialogues":  [
+                                         {
+                                             "character":  "[SYSTEM]",
+                                             "sentences":  [
+                                                               "당신은 잠에서 깬듯한 느낌을 받았다.",
+                                                               "약간 어지러웠지만 금방 중심을 잡고 일어섰다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "루미네시아",
+                                             "sentences":  [
+                                                               "(이곳은 루미네시아가 있는 명상의방이다.)",
+                                                               "(그녀는 고요한 수면을 들여다보고 있지만, 그 어느 때보다 지쳐 보인다.)",
+                                                               "오셨군요, 마스터시여. 당신이 올 것을 알고 있었습니다."
+                                                           ],
+                                             "choices":  [
+                                                             "안색이 안 좋아, 루미네시아. 또 무언가를 본 거야?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "아니니라.. 오히려 아무것도 보이지 않느니라...",
+                                                                   "수천, 수만 갈래의 가능성을 보던 나의 눈에... ",
+                                                                   "지금은 오직 하나의 길만이 보일 뿐이니라...",
+                                                                   "모든 것이 파멸로 끝나는...",
+                                                                   "정해진 비극의길....",
+                                                                   "나는... 실패했느니라...",
+                                                                   "운명의 흐름을 바꾸지 못했고,",
+                                                                   "결국 모두를 같은 비극으로 이끌고 말았다...",
+                                                                   "현자로서의 자격이 없네...",
+                                                                   "하지만...",
+                                                                   "길이 하나뿐이라면 그냥 그 길로 끝까지 걸어가야 할걸세..."
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "루미네시아",
+                                             "sentences":  [
+                                                               "그렇다면 그 길을..",
+                                                               "나와 함께 걸어주겠는가?"
+                                                           ],
+                                             "choices":  [
+                                                             "물론이야. 파멸 뿐이라도 너와 함께 걷겠어."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "좋네...",
+                                                                   "수많은 가능성 속에서 길을 찾으려 했지만",
+                                                                   "그 길위에서 자네와 함께라면",
+                                                                   "새로운 가능성을 만들어 낼 수 있으리라 ...",
+                                                                   "그 길에 나의 모든 지혜를 걸겠노라."
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "[SYSTEM]",
+                                             "sentences":  [
+                                                               "[ENDING] 정해진 운명 속에서, 당신은 나의 유일한 탈출구였다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "[SYSTEM]",
+                                                "sentences":  [
+                                                                  "You felt a strange sensation as if waking from sleep.",
+                                                                  "Though slightly dizzy, you quickly regained your composure and stood up."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Luminesia",
+                                                "sentences":  [
+                                                                  "(This is the meditation room where Luminesia dwells.)",
+                                                                  "(She gazes into the peaceful waters, yet appears more weary than ever.)",
+                                                                  "You have arrived, my Master. I knew you would come."
+                                                              ],
+                                                "choices":  [
+                                                                "You don\u0027t look well, Luminesia. Did you see something again?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "No... Rather, I see nothing at all...",
+                                                                      "The eyes that once saw thousands upon thousands of possibilities...",
+                                                                      "Now show me only a single path...",
+                                                                      "All things end in ruin...",
+                                                                      "A tragedy already determined...",
+                                                                      "I... have failed...",
+                                                                      "I could not change the course of fate, and",
+                                                                      "in the end, led everyone to the same tragedy...",
+                                                                      "I lack the qualification to be a sage...",
+                                                                      "But...",
+                                                                      "If there is but one path, then I must walk that path to its end..."
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Luminesia",
+                                                "sentences":  [
+                                                                  "Then that path...",
+                                                                  "Will you walk it with me?"
+                                                              ],
+                                                "choices":  [
+                                                                "Of course. Even if it leads only to ruin, I will walk it with you."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Good...",
+                                                                      "I sought to find a path among countless possibilities,",
+                                                                      "but if it is with you on that path,",
+                                                                      "I believe we can create new possibilities...",
+                                                                      "I will stake all my wisdom on that path."
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "[SYSTEM]",
+                                                "sentences":  [
+                                                                  "[ENDING] Within a predetermined fate, you were my only escape."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "Character_Ending_Tempestra.asset",
+                       "eventName":  "템페스트라 엔딩",
+                       "eventNameEng":  "Tempestra Ending",
+                       "eventDescription":  "이벤트 설명",
+                       "eventID":  "Character_Ending_Tempestra",
+                       "dialogues":  [
+                                         {
+                                             "character":  "[SYSTEM]",
+                                             "sentences":  [
+                                                               "당신은 잠깐의 잠에서 깬듯한 느낌을 받았다.",
+                                                               "무언가 문을 열고 있던 당신은 결국 문을 열고 어디론가 들어가게 되었다.",
+                                                               "익숙한 장소... 그곳은 깊숙한 연구실이었다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "(이곳은 템페스트라의 연구실)",
+                                                               "(그녀는 칠판 가득 복잡한 수식을 적어놓고 머리를 쥐어뜯고 있다.)",
+                                                               "아, 마스터님! 마침 잘 오셨어요!",
+                                                               "제 계산에 따르면 이 세계는 닫힌 인과율 속에서 완벽하게 작동해야 하는데… ",
+                                                               "단 하나의 변수 때문에 모든 공식에 오차가 발생하고 있어요!"
+                                                           ],
+                                             "choices":  [
+                                                             "그 변수가 뭔데?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "…바로 당신이에요, 마스터님. 당신이라는 존재는 ",
+                                                                   "제 어떤 물리 법칙으로도 설명할 수가 없어요. ",
+                                                                   "당신을 보면 심박수가 오르고, 회로에 과부하가 걸리고…",
+                                                                   " 그리고… 당신을 잃을지도 모른다고 상상하는 것만으로도,",
+                                                                   "제 세상의 모든 법칙이 무너져 내리는 것 같아요.",
+                                                                   "기억나진 않지만… 저는 분명 한 번 당신을 잃었어요.",
+                                                                   "그 상실감의 데이터가 제 코어 가장 깊은 곳에 오류처럼 남아있어요. ",
+                                                                   "그래서 결론을 내렸죠",
+                                                                   "(템페스트라는 칠판의 모든 공식을 지우고, 오직 하나의 단어를 적는다. \u0027마스터\u0027.) ",
+                                                                   "이 세상의 모든 법칙보다, 모든 계산보다, ",
+                                                                   "당신이라는 변수를 지키는 것이 제게는 최우선 사항이에요. ",
+                                                                   "이번에야말로… 제 모든 지성과 능력을 동원해서",
+                                                                   "당신의 생존 확률을 100%로 만들겠어요.",
+                                                                   "이것이… 제 새로운 연구 과제예요"
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "[SYSTEM]",
+                                             "sentences":  [
+                                                               "[ENDING] 나의 세상에서, 당신은 유일한 해답이었다. "
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "[SYSTEM]",
+                                                "sentences":  [
+                                                                  "You felt a strange sensation as if waking from a brief sleep.",
+                                                                  "Someone was opening a door when you eventually entered it.",
+                                                                  "A familiar place... It was a deep research laboratory."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "(This is Tempestra\u0027s research laboratory)",
+                                                                  "(She has filled the blackboard with complex equations and is pulling at her",
+                                                                  "Oh, Master! Perfect timing!",
+                                                                  "According to my calculations, this world should operate perfectly within a",
+                                                                  "But because of one variable, errors are occurring in all my formulas!"
+                                                              ],
+                                                "choices":  [
+                                                                "What is that variable?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "...It\u0027s you, Master. Your existence",
+                                                                      "cannot be explained by any physical law I know.",
+                                                                      "When I look at you, my heart rate rises, my circuits overload...",
+                                                                      "And... just imagining that I might lose you,",
+                                                                      "all the laws of my world seem to crumble and fall apart.",
+                                                                      "I don\u0027t remember, but... I\u0027m certain I lost you once.",
+                                                                      "That data of loss remains like an error in the deepest part of my core.",
+                                                                      "So I came to a conclusion.",
+                                                                      "\u0027(Tempestra erases all the formulas on the blackboard and writes only one",
+                                                                      "More than all the laws of this world, more than all calculations,",
+                                                                      "protecting you as a variable is my top priority.",
+                                                                      "This time... I will mobilize all my intellect and ability",
+                                                                      "to make your survival probability 100%.",
+                                                                      "This is... my new research project."
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "[SYSTEM]",
+                                                "sentences":  [
+                                                                  "[ENDING] In my world, you were the only answer."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "DemoEnd.asset",
+                       "eventName":  "크라노시아 엔딩",
+                       "eventNameEng":  "Kranosia Ending",
+                       "eventDescription":  "이벤트 설명",
+                       "eventID":  "DemoEnd",
+                       "dialogues":  [
+                                         {
+                                             "character":  "시스템",
+                                             "sentences":  [
+                                                               "플레이해주셔서 감사합니다.",
+                                                               "데모버전은 여기까지입니다.",
+                                                               "정식 출시버젼을 기다려 주시기 바랍니다.",
+                                                               "Steam에서 뵙겠습니다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "System",
+                                                "sentences":  [
+                                                                  "Thank you so much for playing.",
+                                                                  "The demo version ends here.",
+                                                                  "Please look forward to the full official release.",
+                                                                  "See you on Steam!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "TimeLoop.asset",
+                       "eventName":  "배드엔딩 엔딩",
+                       "eventNameEng":  "Bad Ending",
+                       "eventDescription":  "이벤트 설명",
+                       "eventID":  "TimeLoop",
+                       "dialogues":  [
+                                         {
+                                             "character":  "나레이션",
+                                             "sentences":  [
+                                                               "갑자기 주변이 어두워졌다.",
+                                                               "그리고 모든 것들이 멈췄다...",
+                                                               "메탈리온도... 디걸들도...",
+                                                               "그리고 내몸도 움직일 수 없었다...",
+                                                               "저 앞에 보이는 크라노시아만이 고통에 휩쌓여있었다.",
+                                                               "머리를 감싸며 괴로워하는 크라노시아의 몸에서 푸른빛이 강렬하게 발산하기 시작한다.",
+                                                               "이내 나의 앞은 어두워져 간다..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Narration",
+                                                "sentences":  [
+                                                                  "Suddenly, the surroundings went dark.",
+                                                                  "And everything stopped...",
+                                                                  "The Metalions... the D-Girls...",
+                                                                  "And my body could no longer move...",
+                                                                  "Only Chronosia before me was writhing in agony.",
+                                                                  "Clutching her head in pain, a powerful blue light began to emanate from Chronosia\u0027s",
+                                                                  "And then, my vision faded to black..."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   }
+               ]
+}

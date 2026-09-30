@@ -1,0 +1,638 @@
+﻿{
+    "sourceFolder":  "Used\\일반인이벤트",
+    "eventCount":  11,
+    "events":  [
+                   {
+                       "sourceFile":  "중앙공원일반인이벤트 2.asset",
+                       "eventName":  "대공동의 소년 2",
+                       "eventNameEng":  "The Boy from the Great Hollow 2",
+                       "eventDescription":  "중앙공원일반인이벤트",
+                       "eventID":  "centralPark_kid2",
+                       "dialogues":  [
+                                         {
+                                             "character":  "대공동 소년",
+                                             "sentences":  [
+                                                               "형! 그거 아세요?",
+                                                               "옛날 옛날에~ 마녀가 살았데요.",
+                                                               "그 마녀가 사람을 만지기만 해도",
+                                                               "영혼이 빨려먹혀서 픽! 하고 쓰러져 버린데요!",
+                                                               "무섭죠?"
+                                                           ],
+                                             "choices":  [
+                                                             "그런건 거짓말이야",
+                                                             "나도 무섭다..."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "에잉.. 아니에요 진짜에요~!",
+                                                                   "그쵸? 밤에 혼자 다니지 마요. 형!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Underground cavern Boy",
+                                                "sentences":  [
+                                                                  "Master! Did you know?",
+                                                                  "Once upon a time~ there lived a witch.",
+                                                                  "They say if that witch even touches someone,",
+                                                                  "Their soul gets sucked out and they just—thud!—collapse!",
+                                                                  "Scary, right?"
+                                                              ],
+                                                "choices":  [
+                                                                "That\u0027s just a lie.",
+                                                                "I\u0027m scared too..."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Aw.. No it\u0027s not, it\u0027s for real~!",
+                                                                      "Right? Don\u0027t go around alone at night, Master!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "중앙공원일반인이벤트 3.asset",
+                       "eventName":  "대공동의 소년 3",
+                       "eventNameEng":  "The Boy from the Great Hollow 3",
+                       "eventDescription":  "중앙공원일반인이벤트",
+                       "eventID":  "centralPark_kid3",
+                       "dialogues":  [
+                                         {
+                                             "character":  "대공동 소년",
+                                             "sentences":  [
+                                                               "형! 신기한거 하나 알려줄까요?",
+                                                               "어제도 아침이 있었고~",
+                                                               "오늘도 아침이 있었고~",
+                                                               "내일도 아침이 온데요!",
+                                                               "어떻게 매일매일 아침이 오는거죠???"
+                                                           ],
+                                             "choices":  [
+                                                             "아.. 그래...",
+                                                             "그러게! 정말 신기하다!"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "와~ 정말 신기하다 하하하",
+                                                                   "그쵸? 내일 아침에도 봐요 형~"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Underground cavern Boy",
+                                                "sentences":  [
+                                                                  "Master! Want me to tell you something amazing?",
+                                                                  "There was a morning yesterday~",
+                                                                  "And there was a morning today too~",
+                                                                  "They say morning is coming tomorrow as well!",
+                                                                  "How is it that morning comes every single day???"
+                                                              ],
+                                                "choices":  [
+                                                                "Ah.. I see...",
+                                                                "You\u0027re right! That really is amazing!"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Wow~ That\u0027s really amazing, hahaha!",
+                                                                      "Right? I\u0027ll see you tomorrow morning too, Master~"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "중앙공원일반인이벤트 4.asset",
+                       "eventName":  "대공동의 소년 4",
+                       "eventNameEng":  "The Boy from the Great Hollow 4",
+                       "eventDescription":  "중앙공원일반인이벤트",
+                       "eventID":  "centralPark_kid4",
+                       "dialogues":  [
+                                         {
+                                             "character":  "루미네시아",
+                                             "sentences":  [
+                                                               "소년? 이런 위험한 곳에서 무얼 하고 있지?",
+                                                               "어서 이 뒤로 오거라! 이곳은 너에게는 너무 위험한 곳이니라"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "대공동 소년",
+                                             "sentences":  [
+                                                               "어? 마스터형? 드디어 이곳까지 오셨군요?",
+                                                               "매일 매일이 반복되는 이 시간속에서...",
+                                                               "조그마한 일탈을 꿈꿔왔어요...",
+                                                               "어쩌면 그 반복을 끝낼 수 있을 거라고 생각 했거든요.",
+                                                               "그런데 형을 보고 확신이 들었어요.",
+                                                               "이 반복되는 영겁의 시간을 잘 지켜내고 견뎌내는것이...",
+                                                               "진정한 위버멘시 라는 것을요...",
+                                                               "저는 이제 다른 곳으로 떠나려고요... 형에게 모든것을 맏기고요...",
+                                                               "(순간 아이의 몸이 빛으로 감쌓였다... 그리고 눈앞의 아이는 온데간데 없었다...)"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "그쵸? 내일 아침에도 봐요 형~"
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "루미네시아",
+                                             "sentences":  [
+                                                               "소년이 한 말의 의미는 무엇이었을까...?",
+                                                               "(순간 소년이 사라졌던 빛이 루미네시아에게 흡수되었다.)",
+                                                               "무엇인가 내게 새로운 힘이 솟는것 같구나...!!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Luminesia",
+                                                "sentences":  [
+                                                                  "A boy? What are you doing in such a dangerous place?",
+                                                                  "Come behind me, quickly! This place is far too perilous for you."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Underground cavern Boy",
+                                                "sentences":  [
+                                                                  "Oh? Master? You\u0027ve finally made it all the way here.",
+                                                                  "Within this time where every single day repeats itself...",
+                                                                  "I have always dreamed of a small escape...",
+                                                                  "I thought that perhaps, I could bring this repetition to an end.",
+                                                                  "But seeing you, Master, I have found my certainty.",
+                                                                  "That protecting and enduring through this repeating eternity...",
+                                                                  "Is what it truly means to be the \\xDCbermensch...",
+                                                                  "I\u0027m going to leave for another place now... and entrust everything to you...",
+                                                                  "(In an instant, the child\u0027s body was enveloped in light... and then, he was"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Right? I\u0027ll see you tomorrow morning too, Master~"
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Luminesia",
+                                                "sentences":  [
+                                                                  "What could the meaning of the boy\u0027s words have been...?",
+                                                                  "(At that moment, the light in which the boy had vanished was absorbed into",
+                                                                  "Something... a new power seems to be surging within me...!!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "중앙공원일반인이벤트.asset",
+                       "eventName":  "대공동의 소년 1",
+                       "eventNameEng":  "The Boy from the Great Hollow 1",
+                       "eventDescription":  "중앙공원일반인이벤트",
+                       "eventID":  "centralPark_kid",
+                       "dialogues":  [
+                                         {
+                                             "character":  "대공동 소년",
+                                             "sentences":  [
+                                                               "저.. 저기.. 형... 마스터님 이시죠...?",
+                                                               "얼마전 구 시가지에서 폭발이 있었는데..",
+                                                               "거기 놀러갔던 제 친구가 그날 부터 보이지 않아요..",
+                                                               "방송에서는 단순한 화재사건이라고 했는데...",
+                                                               "무슨 일이 ... 있는건가요?"
+                                                           ],
+                                             "choices":  [
+                                                             "아니야.. 별일 없으니 걱정 하지마.",
+                                                             "사실은... 네피림이 처들어 왔어.."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "그렇군요.. 고마워요 형. 그럼 전 다시 가볼꼐요!",
+                                                                   ".. ... ... (소년은 순간 얼어붙어 아무말도 못했다)",
+                                                                   "하지만 걱정하지 말라고 한참을 위로해주자 소년은 그제서야 돌아갔다."
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "크라노시",
+                                             "sentences":  [
+                                                               "시민들도 불안해 하고 있군요...",
+                                                               "잘 하셨습니다 마스터님.",
+                                                               "30일...  반드시 막아내겠습니다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "그렇군요.. 고마워요 형. 그럼 전 다시 가볼꼐요!",
+                                                                   ".. ... ... (소년은 순간 얼어붙어 아무말도 못했다)",
+                                                                   "하지만 걱정하지 말라고 한참을 위로해주자 소년은 그제서야 돌아갔다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Underground cavern Boy",
+                                                "sentences":  [
+                                                                  "Um.. excuse me.. sir... You\u0027re a Master, right...?",
+                                                                  "There was an explosion in the Old City District not long ago..",
+                                                                  "My friend who went there to play hasn\u0027t been seen since that day..",
+                                                                  "The broadcast said it was just a simple fire incident, but...",
+                                                                  "Is there... something going on?"
+                                                              ],
+                                                "choices":  [
+                                                                "No.. nothing\u0027s wrong, so don\u0027t worry.",
+                                                                "The truth is... the Nephilim have invaded.."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "I see.. thank you, sir. Then I\u0027ll be on my way!",
+                                                                      ".. ... ... (The boy froze instantly and couldn\u0027t say a word)",
+                                                                      "But after comforting him for a long time and telling him not to worry, the"
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "The citizens are feeling anxious as well...",
+                                                                  "You did the right thing, Master.",
+                                                                  "30 days... I will make sure we stop them."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "I see.. thank you, sir. Then I\u0027ll be on my way!",
+                                                                      ".. ... ... (The boy froze instantly and couldn\u0027t say a word)",
+                                                                      "But after comforting him for a long time and telling him not to worry, the"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "중앙공원퇴역군인 이벤트 1.asset",
+                       "eventName":  "퇴역군인과의 만남",
+                       "eventNameEng":  "Meeting with a Veteran",
+                       "eventDescription":  "중앙공원일반인이벤트",
+                       "eventID":  "CentralParkVeteran",
+                       "dialogues":  [
+                                         {
+                                             "character":  "퇴역 군인",
+                                             "sentences":  [
+                                                               "새파랗게 젊은 마스터 나으리 아니신가",
+                                                               "이런 한가한 공원에는 무슨 일이신가?",
+                                                               "아냐아냐 . 부담 갖을 필요는 없다네. 그저 자네 어깨가 너무 무거워 보여서 하는 소리야.",
+                                                               "나도 10년 전에는 자네와 같았지. 그때의 나를 보는것 같아서 말이야.",
+                                                               "물론 난 저런 \u0027최첨단 아가씨\u0027들이 아니라, 그냥 쇳덩이 보병들을 이끌었지만 말이야.",
+                                                               "자네가 어떻게 지휘하느냐에 따라서 전투능력이 크게 좌지우지 될거야.",
+                                                               "각 \u0027아가씨\u0027들의 능력을 잘 파악해 두게나."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Veteran",
+                                                "sentences":  [
+                                                                  "Well, if it isn\u0027t a young and fresh Master.",
+                                                                  "What brings you to such a peaceful park?",
+                                                                  "No, no. There is no need to feel pressured. I only say this because your shoulders",
+                                                                  "I was just like you ten years ago. It feels like I\u0027m looking at my past self.",
+                                                                  "Of course, I didn\u0027t lead those \u0027high-tech young ladies\u0027; I led clunky metal",
+                                                                  "The combat effectiveness will vary greatly depending on how you command them.",
+                                                                  "Make sure to grasp the abilities of each \u0027young lady\u0027 well."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "중앙공원퇴역군인 이벤트 2.asset",
+                       "eventName":  "퇴역군인과의 만남 2",
+                       "eventNameEng":  "Meeting with a Veteran 2",
+                       "eventDescription":  "중앙공원일반인이벤트",
+                       "eventID":  "CentralParkVeteran2",
+                       "dialogues":  [
+                                         {
+                                             "character":  "퇴역 군인",
+                                             "sentences":  [
+                                                               "오 젊은 마스터. 반갑네",
+                                                               "하바님은 잘 계신가? 예전과 같이 자상하시고 지적인 분이시지.",
+                                                               "자네와 같이 다니는 애들을 \u0027디걸\u0027 이라고 부른다지?",
+                                                               "우리 같이 늙은 군바리들 눈에는 그냥 \u0027병기\u0027로 보일 뿐이지만... ",
+                                                               "그것도. 너무 위험할 정도로 강력한 병기지...",
+                                                               "그녀들은 \u0027코드\u0027 를 현실에 발현해 마법과같은 기 현상을 현실화 시킨다네",
+                                                               "어떤 코드를 받느냐에 따라서 능력이 달라지지",
+                                                               "자네가 지휘하는 디걸들의 코드들의 조합을 잘 생각해보게",
+                                                               "서로 시너지가 나는 아가씨들이 있을걸세."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Veteran",
+                                                "sentences":  [
+                                                                  "Oh, a young Master. Glad to see you.",
+                                                                  "How is Lord hava doing? He was always such a kind and intellectual person.",
+                                                                  "Those children who follow you around... they\u0027re called \u0027D-Girls,\u0027 right?",
+                                                                  "To the eyes of old soldiers like us, they just look like \u0027weapons,\u0027 but...",
+                                                                  "Even so, they are weapons so powerful they\u0027re almost dangerous...",
+                                                                  "They manifest \u0027Codes\u0027 into reality, turning magical phenomena into actual events.",
+                                                                  "Their abilities change depending on which Code they receive.",
+                                                                  "Think carefully about the combination of Codes for the D-Girls under your command.",
+                                                                  "There must be young ladies among them who create great synergy together."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "중앙공원퇴역군인 이벤트 3.asset",
+                       "eventName":  "퇴역군인과의 만남 3",
+                       "eventNameEng":  "Meeting with a Veteran 3",
+                       "eventDescription":  "중앙공원일반인이벤트",
+                       "eventID":  "CentralParkVeteran3",
+                       "dialogues":  [
+                                         {
+                                             "character":  "퇴역 군인",
+                                             "sentences":  [
+                                                               "아.. 또만났군...",
+                                                               "나는 지구방위군에서 일했던 퇴역 군인이라네..",
+                                                               "이 한쪽 팔 말인가? 하하..",
+                                                               "작전 수행중 잃어버린 팔이라네...",
+                                                               "최첨단 아가씨들은 많이 모았는가?",
+                                                               "나는 현역때는 그냥 쇳덩이 보병들과 함께 했지만 말이야... 하하하!!.",
+                                                               "이런.. 얘기가 길었군.. 그럼 다음에 봅세..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Veteran",
+                                                "sentences":  [
+                                                                  "Ah... we meet again...",
+                                                                  "I am a retired soldier who served in the Earth Defense Force...",
+                                                                  "This arm, you ask? Haha...",
+                                                                  "It is an arm I lost while carrying out an operation...",
+                                                                  "Have you gathered many of those high-tech young ladies?",
+                                                                  "In my active days, I only served with those clunky metal infantrymen... Hahaha!!",
+                                                                  "My, my... this talk has gone on too long. I shall see you next time..."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "중앙공원퇴역군인 이벤트 4.asset",
+                       "eventName":  "퇴역군인과의 만남 4",
+                       "eventNameEng":  "Meeting with a Veteran 4",
+                       "eventDescription":  "중앙공원일반인이벤트",
+                       "eventID":  "CentralParkVeteran4",
+                       "dialogues":  [
+                                         {
+                                             "character":  "퇴역 군인",
+                                             "sentences":  [
+                                                               "안녕 하신가. 마스터.",
+                                                               "자네를 보면 나도 마스터 시절이 있었던게 떠오르는군.",
+                                                               "오래전 안드로이드와 일했지만 자네처럼 유능하지는 못했던것 같군...",
+                                                               "일반적인 마스터는 디걸 한명도 함께할 기회가 주어지지 않는다네...",
+                                                               "이제는 마스터라는 직업도 흔치 않지...",
+                                                               "자네는 중요한 임무를 하고 있는게 분명하군.",
+                                                               "노파심에 한가지만 말해도 되겠나?"
+                                                           ],
+                                             "choices":  [
+                                                             "조언을 부탁한다.",
+                                                             "말하지 않아도 된다."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "이 늙은이의 말을 들어줘서 고맙네",
+                                                                   "자네는 그녀들의 레벨을 높이고",
+                                                                   "훈련으로 새로운 능력을 개발하는것만이",
+                                                                   "유일한 임무가 아닐세...",
+                                                                   "그녀들과의 대화를 통해 내면을 들여다 보게",
+                                                                   "우리와 싸우는 네피림들도 그녀들과 똑같은 마음이 있다네",
+                                                                   "영혼이라고 하지...",
+                                                                   "그래.. 퇴역한 군인의 조언은 낡아 빠졌을 뿐이지... ",
+                                                                   "그대만의 미래를 헤쳐 나가게나."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Veteran",
+                                                "sentences":  [
+                                                                  "Greetings, Master.",
+                                                                  "Seeing you reminds me of the days when I was a Master myself.",
+                                                                  "I worked with androids long ago, though I suspect I wasn\u0027t as capable as you",
+                                                                  "An ordinary Master isn\u0027t even given the opportunity to be with a single D-Girl...",
+                                                                  "The profession of Master is no longer common these days...",
+                                                                  "It\u0027s clear that you are carrying out a very important mission.",
+                                                                  "If you don\u0027t mind, could I offer you a single piece of advice?"
+                                                              ],
+                                                "choices":  [
+                                                                "Ask for advice.",
+                                                                "Decline the advice."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Thank you for listening to this old man\u0027s words.",
+                                                                      "Increasing their level and developing new abilities through training...",
+                                                                      "That is not your only mission.",
+                                                                      "Look into their hearts through conversation.",
+                                                                      "The Nephilim we fight against also have hearts just like theirs.",
+                                                                      "We call it a soul...",
+                                                                      "I see.. An old veteran\u0027s advice is likely nothing but outdated talk... ",
+                                                                      "Go forth and forge your own future."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "중앙공원퇴역군인 이벤트 5A.asset",
+                       "eventName":  "퇴역군인과의 만남 5A",
+                       "eventNameEng":  "Meeting with a Veteran 5A",
+                       "eventDescription":  "중앙공원일반인이벤트",
+                       "eventID":  "CentralParkVeteran5A",
+                       "dialogues":  [
+                                         {
+                                             "character":  "퇴역 군인",
+                                             "sentences":  [
+                                                               "그때 그 마스터로군... 내가 왜 이런 위험한 곳에 왔는지 궁금할지도 모르겠어..",
+                                                               "최종 작전에서 검은 머리카락의 디걸이 마지막 전투에서 나를 구해주고 남은 메탈리온과 전투를 치뤘다네...",
+                                                               "이곳에서도 아주 먼 곳이지...",
+                                                               "이것은.. 자네에게 주겠네.. 내가 가지고 있어도 더이상 쓸모 없을테지만..",
+                                                               "자네가 데리고 있는 디걸들이라면 소중하게 사용해 줄 수 있을것 같네...",
+                                                               "혹시나 나중에 검은 긴 머리의 디걸을 만난다면... 안부를 전해주게나..."
+                                                           ],
+                                             "choices":  [
+                                                             "스킬 칩을 받는다."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "그럼... 나는 공원으로 돌아가겠네... 무운을 빌지.."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Veteran",
+                                                "sentences":  [
+                                                                  "So it is that Master again... You might be wondering why I\u0027ve come to such",
+                                                                  "In the final operation, a black-haired D-Girl saved me during the last battle",
+                                                                  "It is a place very far from here...",
+                                                                  "I shall give this to you.. It\u0027s useless for me to keep it any longer..",
+                                                                  "If it\u0027s the D-Girls under your command, I believe they will put it to good",
+                                                                  "If you ever happen to meet that long, black-haired D-Girl later... please give"
+                                                              ],
+                                                "choices":  [
+                                                                "Accept the Skill Chip."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Then... I shall return to the park... I wish you the best of luck.."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "중앙공원퇴역군인 이벤트 5B.asset",
+                       "eventName":  "퇴역군인과의 만남 5B",
+                       "eventNameEng":  "Meeting with a Veteran 5B",
+                       "eventDescription":  "중앙공원일반인이벤트",
+                       "eventID":  "CentralParkVeteran5B",
+                       "dialogues":  [
+                                         {
+                                             "character":  "퇴역 군인",
+                                             "sentences":  [
+                                                               "오호.. 제법 늠름한 모숩일세 마스터.",
+                                                               "이곳에는 아주 위험한 일들이 기다리고 있지만",
+                                                               "대공동 방벽을 나서는 순간 더 위험한 일이 발생할 걸세.",
+                                                               "이 부품들을 전해주려고 기다리고 있었네.",
+                                                               "내가 전장에서 살아 돌아 올 수 있었던 이야기 했던가...?",
+                                                               "검은 긴머리의 디걸이 나를 지켜주었네... 끝까지 싸웠지...",
+                                                               "당신에게 더 도움이 될것 같구만... 이것을 받아주게나.."
+                                                           ],
+                                             "choices":  [
+                                                             "부품을 받는다.",
+                                                             "부품을 받지 않는다."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "고맙네... 마지막까지 인류를 위해 싸워주게나.",
+                                                                   "그렇지.. 이거 무안하구만 그래.. 그럼 마지막까지 인류를 위해 싸워주게나.."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Veteran",
+                                                "sentences":  [
+                                                                  "Oho.. you cut quite a gallant figure, Master.",
+                                                                  "Very dangerous things are waiting for you here, but...",
+                                                                  "The moment you leave for the Underground cavern patrol, even more dangerous",
+                                                                  "I\u0027ve been waiting to hand over these parts to you.",
+                                                                  "Did I ever tell you the story of how I was able to return alive from the battlefield...?",
+                                                                  "A black, long-haired D-Girl protected me... she fought until the very end...",
+                                                                  "I believe these will be of more use to you... please, take them."
+                                                              ],
+                                                "choices":  [
+                                                                "Accept the parts.",
+                                                                "Do not accept the parts."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Thank you... please fight for humanity until the very end.",
+                                                                      "I see.. this is quite embarrassing, well.. then please fight for humanity"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "하바의 힌트.asset",
+                       "eventName":  "하바의 힌트",
+                       "eventNameEng":  "Hint of Havah",
+                       "eventDescription":  "중앙공원일반인이벤트",
+                       "eventID":  "HavaHint",
+                       "dialogues":  [
+                                         {
+                                             "character":  "하바",
+                                             "sentences":  [
+                                                               "마스터님이시군요.",
+                                                               "건강은 좀 어떠신지요...",
+                                                               "네피림의 침공시 우리는 대공동 방벽 앞에서 방어를 하게 될 것입니다.",
+                                                               "오래전 건설된 방벽에는 여러가지 장치들이 있습니다.",
+                                                               "지금은 고장나 버렸지만 마스터께서 보시고 사용할 수 있다면",
+                                                               "사용하셔도 무방합니다.",
+                                                               "방벽의 출입 권한은 승인해 놓도록 하겠습니다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "hava",
+                                                "sentences":  [
+                                                                  "It is you, Master.",
+                                                                  "How is your health faring...",
+                                                                  "In the event of a Nephilim invasion, we will be defending in front of the Underground",
+                                                                  "The bulkhead, constructed long ago, contains various devices.",
+                                                                  "They are currently broken, but if you, Master, see fit and are able to use",
+                                                                  "you are more than welcome to do so.",
+                                                                  "I shall approve your access authorization for the bulkhead."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   }
+               ]
+}

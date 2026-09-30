@@ -1,0 +1,1891 @@
+﻿{
+    "sourceFolder":  "Used\\Infernia",
+    "eventCount":  36,
+    "events":  [
+                   {
+                       "sourceFile":  "0_infernia_first_encounter.asset",
+                       "eventName":  "불꽃 소녀의 첫 만남",
+                       "eventNameEng":  "Flame Girl\u0027s First Encounter",
+                       "eventDescription":  "불꽃 소녀의 첫 만남",
+                       "eventID":  "infernia_first_encounter_eng",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "너! 메탈리온 패거리야?!",
+                                                               "아니면... 네피림 놈들이랑 한패?",
+                                                               "답 안 하면 일단 때려!",
+                                                               "어? 다른 놈이네... 뭐야, 너 누구야?"
+                                                           ],
+                                             "choices":  [
+                                                             "저는 그냥 지나가던 사람이에요",
+                                                             "메탈리온이 뭐죠?",
+                                                             "싸우고 싶으면 덤비세요"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "지나가던 사람? 흠... 그럼 됐어. 조심해, 여기 위험해!",
+                                                                   "몰라?! 세상에서 제일 나쁜 놈들이야! 꼭 혼내줄 거야!",
+                                                                   "오! 용기 있네! 하지만 너한테 관심 없어. 메탈리온만 패면 돼!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "You! Are you with the Metalion gang?!",
+                                                                  "Or… are you one of those damn Nephilim bastards?",
+                                                                  "If you don\u0027t answer, I\u0027ll just beat you up first!",
+                                                                  "Huh? You\u0027re a different guy… What the hell, who are you?"
+                                                              ],
+                                                "choices":  [
+                                                                "I\u0027m just a passerby",
+                                                                "What the heck is a Metalion?",
+                                                                "If you want to fight, come at me"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Just a passerby? Hmm… Fine then.   Be careful—this place is dangerous!",
+                                                                      "You don\u0027t know?! They\u0027re the worst bastards in the world!   I\u0027m definitely",
+                                                                      "Oh! You\u0027ve got some guts!   But I\u0027m not interested in you.   Just deal with"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_infernia_campfire_story.asset",
+                       "eventName":  "캠프파이어 앞에서",
+                       "eventNameEng":  "By the Campfire",
+                       "eventDescription":  "캠프파이어 앞에서",
+                       "eventID":  "infernia_campfire_story",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "불이 예뻐... 이런 때는 마음이 편해져.",
+                                                               "그런데 메탈리온 놈들은 이런 평화를 깨뜨려!",
+                                                               "네피림도 마찬가지야! 다 나쁜 놈들!",
+                                                               "너는... 좋은 사람 같아. 나랑 얘기해줘서 고마워."
+                                                           ],
+                                             "choices":  [
+                                                             "평화로운 순간이네요",
+                                                             "왜 그들을 그렇게 미워하세요?",
+                                                             "언제나 이런 평화가 계속됐으면 좋겠어요"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "맞아! 이런 게 진짜 좋은 거지!",
+                                                                   "미워해? 당연하지! 평화를 깨뜨리는 나쁜 놈들이야!",
+                                                                   "나도! 그러려면 나쁜 놈들을 다 쫓아내야 해!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "The fire is beautiful... times like this make me feel at ease.",
+                                                                  "But those Metalion bastards ruin this kind of peace!",
+                                                                  "The Nephilim are the same! All bad.",
+                                                                  "You... seem like a good person. Thanks for talking with me."
+                                                              ],
+                                                "choices":  [
+                                                                "It\u0027s a peaceful moment.",
+                                                                "Why do you hate them so much?",
+                                                                "I wish peace like this could last."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Right! This is the good stuff!",
+                                                                      "Hate them? Of course! They\u0027re the ones who break the peace!",
+                                                                      "Me too! Then we have to drive out all the bad guys!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_infernia_false_alarm.asset",
+                       "eventName":  "오해로 인한 소동",
+                       "eventNameEng":  "Commotion Due to a Misunderstanding",
+                       "eventDescription":  "오해로 인한 소동",
+                       "eventID":  "infernia_false_alarm",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "발견! 저기 갑옷 입은 놈!",
+                                                               "메탈리온이다! 받아라!",
+                                                               "어? 잠깐... 다른 사람이네?",
+                                                               "미안! 나쁜 놈인 줄 알았어! 괜찮아?"
+                                                           ],
+                                             "choices":  [
+                                                             "괜찮아요, 실수할 수 있죠",
+                                                             "좀 더 확인하고 행동하세요",
+                                                             "다치지 않아서 다행이에요"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "고마워! 너 정말 착해! 미안했어.",
+                                                                   "확인? 맞아... 다음엔 더 잘 볼게.",
+                                                                   "맞아! 다쳤으면 어쩔 뻔했어. 조심할게!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Found you! That guy in armor!",
+                                                                  "It\u0027s Metalion! Take this!",
+                                                                  "Huh? Wait... you\u0027re someone else?",
+                                                                  "Sorry! I thought you were a bad guy! Are you okay?"
+                                                              ],
+                                                "choices":  [
+                                                                "It\u0027s okay, mistakes happen.",
+                                                                "Please check more carefully before you act.",
+                                                                "I\u0027m glad I wasn\u0027t hurt."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Thanks! You\u0027re really nice! Sorry about that.",
+                                                                      "Check? Right... I\u0027ll look more carefully next time.",
+                                                                      "Yeah! It would\u0027ve been bad if you got hurt. I\u0027ll be careful!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_infernia_forest_patrol.asset",
+                       "eventName":  "숲에서의 순찰",
+                       "eventNameEng":  "Forest Patrol",
+                       "eventDescription":  "숲에서의 순찰",
+                       "eventID":  "infernia_forest_patrol",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "여기도 없고... 저기도 없고...",
+                                                               "메탈리온 놈들, 어디 숨었지?",
+                                                               "앗! 너야! 여기서 뭐해?",
+                                                               "나는 나쁜 놈들 찾는 중이야! 혹시 못 봤어?"
+                                                           ],
+                                             "choices":  [
+                                                             "안전하게 다니세요",
+                                                             "제가 같이 찾아볼게요",
+                                                             "혼자 다니면 위험해요"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "안전하게? 나는 강하니까 괜찮아!",
+                                                                   "같이? 오오! 좋은 생각! 둘이면 더 빨라!",
+                                                                   "위험해도 상관없어! 나쁜 놈들이 더 위험하거든!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Nothing here... nothing there...",
+                                                                  "Where did those Metalion bastards hide?",
+                                                                  "Ah! It\u0027s you! What are you doing here?",
+                                                                  "I\u0027m searching for the bad guys! Have you seen them?"
+                                                              ],
+                                                "choices":  [
+                                                                "Be careful out here.",
+                                                                "I\u0027ll help you search.",
+                                                                "It\u0027s dangerous to go alone."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Careful? I\u0027m strong, so it\u0027s fine!",
+                                                                      "Together? Oh! Good idea! Two people are faster!",
+                                                                      "Even if it\u0027s dangerous, I don\u0027t care! The bad guys are the real danger!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_infernia_inn_rest.asset",
+                       "eventName":  "여관에서의 휴식",
+                       "eventNameEng":  "Rest at the Inn",
+                       "eventDescription":  "여관에서의 휴식",
+                       "eventID":  "infernia_inn_rest",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "하아... 오늘도 못 찾았어...",
+                                                               "메탈리온 놈들, 어디 있는 거야?",
+                                                               "어? 너도 여기 있네?",
+                                                               "많이 걸어서 다리 아파... 잠깐 쉬어야겠어."
+                                                           ],
+                                             "choices":  [
+                                                             "저도 같이 쉴게요",
+                                                             "무리하지 마세요",
+                                                             "차라도 한 잔 드세요"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "같이? 좋아! 혼자 있으면 심심해.",
+                                                                   "무리? 안 해! 나쁜 놈들 찾는 게 더 중요해!",
+                                                                   "차? 좋아! 고마워. 너 착하네!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Haa... I couldn\u0027t find them today either...",
+                                                                  "Where are those Metalion bastards?",
+                                                                  "Huh? You\u0027re here too?",
+                                                                  "My legs hurt from all the walking... I need to rest for a bit."
+                                                              ],
+                                                "choices":  [
+                                                                "I\u0027ll rest with you.",
+                                                                "Don\u0027t push yourself.",
+                                                                "Have a cup of tea."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Together? Great! It\u0027s boring alone.",
+                                                                      "Push myself? I won\u0027t! Finding bad guys is more important!",
+                                                                      "Tea? Nice! Thanks. You\u0027re kind!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_infernia_market_trouble.asset",
+                       "eventName":  "시장에서 벌어진 소동",
+                       "eventNameEng":  "Market Commotion",
+                       "eventDescription":  "시장에서 벌어진 소동",
+                       "eventID":  "infernia_market_trouble",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "아저씨! 메탈리온 본 적 있어요?",
+                                                               "키 크고 갑옷 입은 나쁜 놈들이요!",
+                                                               "어? 너는... 저번에 본 사람!",
+                                                               "혹시 나쁜 놈들 정보 알아? 찾고 있거든!"
+                                                           ],
+                                             "choices":  [
+                                                             "시장에서는 조용히 해야죠",
+                                                             "같이 찾아드릴게요",
+                                                             "왜 그렇게 찾고 계세요?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "조용히? 나쁜 놈들한테 조용히 하라고 해!",
+                                                                   "정말? 와! 좋아! 둘이서 찾으면 빨리 찾겠다!",
+                                                                   "왜냐고? 당연히 혼내주려고! 나쁜 일만 하거든!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Mister! Have you seen Metalion?",
+                                                                  "They\u0027re tall and armored—bad guys!",
+                                                                  "Huh? You\u0027re... the person I saw before!",
+                                                                  "Do you know anything about those bad guys? I\u0027m looking for them!"
+                                                              ],
+                                                "choices":  [
+                                                                "You should keep your voice down in the market.",
+                                                                "I\u0027ll help you look.",
+                                                                "Why are you searching so hard?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Quiet? Tell the bad guys to be quiet!",
+                                                                      "Really? Wow! Great! If we search together, we\u0027ll find them faster!",
+                                                                      "Why? To beat them up, of course! They only do bad things!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_infernia_recruitment_moment.asset",
+                       "eventName":  "영입 직전의 마음",
+                       "eventNameEng":  "Feelings Just Before Recruitment",
+                       "eventDescription":  "영입 직전의 마음",
+                       "eventID":  "infernia_recruitment_moment",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "너... 계속 나를 도와줬네.",
+                                                               "처음엔 그냥 지나가는 사람인 줄 알았는데...",
+                                                               "이제 보니까 너도 나쁜 놈들 싫어하는 것 같아.",
+                                                               "나랑... 같이 다닐래? 혼자보다 둘이서 하면 더 좋을 것 같아!"
+                                                           ],
+                                             "choices":  [
+                                                             "기꺼이 함께하겠습니다",
+                                                             "서로 도우며 지내요",
+                                                             "좋은 파트너가 되어요"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "정말?! 와! 좋아! 이제 메탈리온 놈들 조심해!",
+                                                                   "응! 서로 도우자! 넌 정말 좋은 사람이야!",
+                                                                   "파트너? 멋있다! 최고의 팀이 될 거야!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "You... kept helping me.",
+                                                                  "At first I thought you were just a passerby...",
+                                                                  "But now I think you hate the bad guys too.",
+                                                                  "Wanna... go together? It\u0027s better than being alone!"
+                                                              ],
+                                                "choices":  [
+                                                                "I\u0027d be happy to.",
+                                                                "Let\u0027s help each other.",
+                                                                "Let\u0027s be good partners."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Really?! Wow! Great! Metalion, watch out!",
+                                                                      "Yeah! Let\u0027s help each other! You\u0027re a really good person!",
+                                                                      "Partners? Awesome! We\u0027ll be the best team!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_infernia_training_spot.asset",
+                       "eventName":  "수련장에서 만난 불꽃",
+                       "eventNameEng":  "Flame Encountered at the Training Ground",
+                       "eventDescription":  "수련장에서 만난 불꽃",
+                       "eventID":  "infernia_training_spot",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "하아아아! 메탈리온 죽어!",
+                                                               "네피림도 다 태워버려!",
+                                                               "어? 너 또 왔네? 여기서 뭐해?",
+                                                               "나? 나는 강해지는 중이야! 원수들 다 혼내주려고!"
+                                                           ],
+                                             "choices":  [
+                                                             "열심히 수련하시는군요",
+                                                             "도와드릴까요?",
+                                                             "왜 그렇게 화가 나셨어요?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "당연하지! 매일매일 더 강해져야 해!",
+                                                                   "도와줘? 좋아! 같이 큰 소리로 \u0027메탈리온 물러가!\u0027라고 외쳐!",
+                                                                   "화? 당연히 화나지! 나쁜 놈들이 많아서!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Haaaa! Die, Metalion!",
+                                                                  "I\u0027ll burn up all the Nephilim too!",
+                                                                  "Huh? You\u0027re here again? What are you doing here?",
+                                                                  "Me? I\u0027m getting stronger! So I can beat all the enemies!"
+                                                              ],
+                                                "choices":  [
+                                                                "You\u0027re training hard.",
+                                                                "Do you want help?",
+                                                                "Why are you so angry?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Of course! I have to get stronger every single day!",
+                                                                      "Help? Great! Let\u0027s shout together, \u0027Metalion, back off!\u0027",
+                                                                      "Angry? Of course! There are so many bad guys!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_infernia_village_help.asset",
+                       "eventName":  "마을 사람 도움",
+                       "eventNameEng":  "Helping the Villagers",
+                       "eventDescription":  "마을 사람 도움",
+                       "eventID":  "infernia_village_help",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "할머니! 무거운 거 제가 들어드릴게요!",
+                                                               "이런 건 쉬워요! 나 힘 세거든요!",
+                                                               "어? 너도 도와주러 왔어?",
+                                                               "좋아! 같이 도와주자! 착한 일 하는 거 좋아해!"
+                                                           ],
+                                             "choices":  [
+                                                             "따뜻한 마음을 가지셨네요",
+                                                             "같이 도와드려요",
+                                                             "마을 사람들이 좋아하시겠어요"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "당연하지! 착한 사람들은 도와줘야 해!",
+                                                                   "같이? 와! 둘이서 하면 더 빨라!",
+                                                                   "그럼 좋겠다! 모두 행복했으면 좋겠어!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Grandma! I\u0027ll carry the heavy stuff for you!",
+                                                                  "This is easy! I\u0027m strong!",
+                                                                  "Huh? You came to help too?",
+                                                                  "Great! Let\u0027s help together! I like doing good deeds!"
+                                                              ],
+                                                "choices":  [
+                                                                "That\u0027s very kind of you.",
+                                                                "I\u0027ll help too.",
+                                                                "The villagers must be happy."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Of course! We should help good people!",
+                                                                      "Together? Wow! Two people is faster!",
+                                                                      "That would be great! I hope everyone is happy!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_infernia_weapon_shop.asset",
+                       "eventName":  "무기점에서의 만남",
+                       "eventNameEng":  "Meeting at the Weapon Shop",
+                       "eventDescription":  "무기점에서의 만남",
+                       "eventID":  "infernia_weapon_shop",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "이 검으로 메탈리온 벨 수 있나요?",
+                                                               "더 강한 거 없어요? 네피림도 이길 수 있는?",
+                                                               "어? 너도 무기 사러 왔어?",
+                                                               "같이 골라줘! 나쁜 놈들한테 이길 수 있는 걸로!"
+                                                           ],
+                                             "choices":  [
+                                                             "이 검이 좋을 것 같아요",
+                                                             "무기보다 실력이 중요해요",
+                                                             "왜 그렇게 강해지려고 하세요?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "이거? 좋아 보여! 아저씨, 이거 주세요!",
+                                                                   "실력? 나도 열심히 연습하고 있어! 무기도 있으면 더 좋고!",
+                                                                   "강해져야 나쁜 놈들을 혼내주지! 당연한 거 아냐?"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Can this sword cut down Metalion?",
+                                                                  "Is there anything stronger? Something that can beat Nephilim too?",
+                                                                  "Huh? You came to buy weapons too?",
+                                                                  "Help me pick! Something that can beat those bad guys!"
+                                                              ],
+                                                "choices":  [
+                                                                "This sword looks good.",
+                                                                "Skill matters more than weapons.",
+                                                                "Why do you want to get so strong?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "This one? Looks good! Mister, I\u0027ll take it!",
+                                                                      "Skill? I\u0027m practicing hard too! But weapons help!",
+                                                                      "I have to get strong to beat the bad guys! Isn\u0027t that obvious?"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_infernia_cooking_disaster.asset",
+                       "eventName":  "요리 실패 사건",
+                       "eventNameEng":  "Cooking Failure Incident",
+                       "eventDescription":  "요리 실패 사건",
+                       "eventID":  "infernia_cooking_disaster",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "아... 또 태웠어... 왜 이렇게 어려워?",
+                                                               "불은 잘 다루는데 요리는 왜 안 되지?",
+                                                               "배고픈데... 어떡하지? 또 라면 먹어야 하나?",
+                                                               "너 혹시... 요리 할 줄 알아? 가르쳐줄래?"
+                                                           ],
+                                             "choices":  [
+                                                             "같이 천천히 배워보자",
+                                                             "불 조절이 어려운 거겠네",
+                                                             "라면도 맛있는데 뭐!"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "정말? 고마워! 천천히... 나 좀 급한 성격이라서.",
+                                                                   "맞아! 너무 세게 하게 돼. 조절하기 어려워!",
+                                                                   "라면도 좋지만... 가끔은 다른 것도 먹고 싶어!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Ah... burned it again... why is this so hard?",
+                                                                  "I\u0027m good with fire, so why can\u0027t I cook?",
+                                                                  "I\u0027m hungry... what should I do? Do I have to eat ramen again?",
+                                                                  "Do you... know how to cook? Will you teach me?"
+                                                              ],
+                                                "choices":  [
+                                                                "Let\u0027s learn together, slowly.",
+                                                                "Controlling the fire must be hard.",
+                                                                "Ramen is tasty too, so what!"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Really? Thanks! Slowly... I\u0027m kind of impatient.",
+                                                                      "That\u0027s right! I make it too strong. It\u0027s hard to control!",
+                                                                      "Ramen is good, but... sometimes I want to eat other things too!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_infernia_deep_trust.asset",
+                       "eventName":  "깊어진 신뢰",
+                       "eventNameEng":  "Deepened Trust",
+                       "eventDescription":  "깊어진 신뢰",
+                       "eventID":  "infernia_deep_trust",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "있잖아... 너한테는 뭐든 말할 수 있을 것 같아.",
+                                                               "전에는 아무도 믿지 못했는데...",
+                                                               "너는 달라. 진짜로 나를 이해해주는 것 같아.",
+                                                               "메탈리온도 네피림도... 너와 함께라면 무서울 게 없어!"
+                                                           ],
+                                             "choices":  [
+                                                             "나도 너를 완전히 믿어",
+                                                             "우리는 진짜 친구야",
+                                                             "앞으로도 계속 함께하자"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "정말? 와! 나도 너를 완전히 믿어! 우리 최고야!",
+                                                                   "진짜 친구! 좋은 말이야! 평생 친구 하자!",
+                                                                   "응! 계속 함께! 뭔 일이 생겨도 같이 헤쳐나가자!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "You know... I feel like I can tell you anything.",
+                                                                  "I couldn\u0027t trust anyone before...",
+                                                                  "You\u0027re different. I feel like you truly understand me.",
+                                                                  "Metalion or Nephilim... if I\u0027m with you, there\u0027s nothing to fear!"
+                                                              ],
+                                                "choices":  [
+                                                                "I fully trust you too.",
+                                                                "We\u0027re real friends.",
+                                                                "Let\u0027s keep staying together."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Really? Wow! I fully trust you too! We\u0027re the best!",
+                                                                      "Real friends! Great! Let\u0027s be friends for life!",
+                                                                      "Yeah! Together always! No matter what happens, we\u0027ll face it together!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_infernia_exercise_routine.asset",
+                       "eventName":  "운동하는 인페르니아",
+                       "eventNameEng":  "Infernia Exercising",
+                       "eventDescription":  "운동하는 인페르니아",
+                       "eventID":  "infernia_exercise_routine",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "하아... 하아... 오늘도 1000번!",
+                                                               "팔굽혀펴기 500번, 윗몸일으키기 500번!",
+                                                               "땀 많이 흘렸네... 시원해!",
+                                                               "너도 같이 할래? 처음엔 100번부터 시작해도 돼!"
+                                                           ],
+                                             "choices":  [
+                                                             "정말 대단한 체력이네",
+                                                             "같이 운동해보자",
+                                                             "무리하지는 마"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "헤헤! 매일 하다 보니까 이렇게 됐어!",
+                                                                   "좋아! 같이 하면 더 재밌을 거야!",
+                                                                   "괜찮아! 내 몸은 내가 제일 잘 알아!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Hah... hah... 1000 again today!",
+                                                                  "500 push-ups, 500 sit-ups!",
+                                                                  "I sweated a lot... feels great!",
+                                                                  "Want to do it together? You can start with 100 at first!"
+                                                              ],
+                                                "choices":  [
+                                                                "That\u0027s some impressive stamina.",
+                                                                "Let\u0027s work out together.",
+                                                                "Don\u0027t overdo it."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Hehe! I do it every day, so it turned out like this!",
+                                                                      "Great! It\u0027ll be more fun if we do it together!",
+                                                                      "It\u0027s fine! I know my body best!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_infernia_favorite_snack.asset",
+                       "eventName":  "좋아하는 간식 이야기",
+                       "eventNameEng":  "Story of Favorite Snacks",
+                       "eventDescription":  "좋아하는 간식 이야기",
+                       "eventID":  "infernia_favorite_snack",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "있잖아... 나 달콤한 거 되게 좋아해!",
+                                                               "특히 이런 구운 고구마! 겉은 바삭하고 속은 달콤해!",
+                                                               "어릴 때 엄마가 자주 구워줬거든...",
+                                                               "너도 먹어봐! 같이 먹으면 더 맛있어!"
+                                                           ],
+                                             "choices":  [
+                                                             "엄마가 해주셨구나",
+                                                             "정말 맛있다! 달콤해",
+                                                             "같이 구워먹을까?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "응... 오래전 일이야. 지금은 내가 직접 구워 먹어.",
+                                                                   "그치? 이 달콤한 맛 때문에 힘이 나!",
+                                                                   "같이? 좋아! 내가 잘 굽거든!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "You know... I really like sweet things!",
+                                                                  "Especially roasted sweet potatoes like these! The skin is crispy and the inside",
+                                                                  "When I was little, my mom used to roast them for me often...",
+                                                                  "You should try it too! It\u0027s even tastier when we eat together!"
+                                                              ],
+                                                "choices":  [
+                                                                "Your mom made it for you.",
+                                                                "It\u0027s really delicious! So sweet.",
+                                                                "Shall we roast some together?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Yeah... it was a long time ago. Now I roast them myself.",
+                                                                      "Right? This sweet taste gives me energy!",
+                                                                      "Together? Great! I\u0027m good at roasting them!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_infernia_hobby_discovery.asset",
+                       "eventName":  "새로운 취미 발견",
+                       "eventNameEng":  "Discovering a New Hobby",
+                       "eventDescription":  "새로운 취미 발견",
+                       "eventID":  "infernia_hobby_discovery",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "있잖아... 요즘 꽃 기르는 걸 배우고 있어.",
+                                                               "나도 놀랐어! 불만 다루는 줄 알았는데 꽃도 잘 자라!",
+                                                               "너도 같이 해볼래? 꽃 키우는 거 생각보다 재밌어!",
+                                                               "메탈리온 때려잡는 것만 생각하다가... 이런 평화로운 것도 좋네!"
+                                                           ],
+                                             "choices":  [
+                                                             "의외의 취미네! 재밌어 보여",
+                                                             "같이 키워보자",
+                                                             "평화로운 시간도 필요해"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "의외? 나도 그래! 내가 이런 걸 좋아할 줄 몰랐어!",
+                                                                   "정말? 와! 같이 키우면 더 예쁘게 자랄 거야!",
+                                                                   "맞아! 싸우는 것만이 전부가 아니야. 너가 가르쳐줬어!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "You know... these days I\u0027m learning how to grow flowers.",
+                                                                  "I surprised myself too! I thought I only dealt with fire, but the flowers grow",
+                                                                  "Want to try it with me? Growing flowers is more fun than I thought!",
+                                                                  "All I used to think about was beating Metalions... but peaceful things like"
+                                                              ],
+                                                "choices":  [
+                                                                "An unexpected hobby! It sounds fun.",
+                                                                "Let\u0027s grow them together.",
+                                                                "Peaceful time is important too."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Unexpected? Me too! I never thought I\u0027d like this!",
+                                                                      "Really? Wow! If we grow them together, they\u0027ll be even prettier!",
+                                                                      "Right! Fighting isn\u0027t everything. You taught me that!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_infernia_injury_care.asset",
+                       "eventName":  "상처 치료해주기",
+                       "eventNameEng":  "Treating Wounds",
+                       "eventDescription":  "상처 치료해주기",
+                       "eventID":  "infernia_injury_care",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "아야야... 훈련할 때 다쳤어.",
+                                                               "괜찮아! 이 정도는... 아야!",
+                                                               "너가 치료해줄래? 혼자 하기 어려워.",
+                                                               "고마워... 너가 돌봐주니까 금방 나을 것 같아."
+                                                           ],
+                                             "choices":  [
+                                                             "앞으로 더 조심해",
+                                                             "언제든 내가 도와줄게",
+                                                             "아프면 바로 말해줘"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "알겠어! 조심할게. 걱정해줘서 고마워!",
+                                                                   "정말? 너 정말 좋은 친구야! 나도 너 도와줄 거야!",
+                                                                   "응! 너한테는 뭐든 말할 수 있어!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Ouch... I got hurt during training.",
+                                                                  "It\u0027s fine! It\u0027s just a little... ouch!",
+                                                                  "Can you treat me? It\u0027s hard to do alone.",
+                                                                  "Thanks... with you taking care of me, I feel like I\u0027ll heal quickly."
+                                                              ],
+                                                "choices":  [
+                                                                "Be more careful from now on.",
+                                                                "I\u0027ll help you anytime.",
+                                                                "Tell me right away if it hurts."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Got it! I\u0027ll be careful. Thanks for worrying about me!",
+                                                                      "Really? You\u0027re such a good friend! I\u0027ll help you too!",
+                                                                      "Yeah! I can tell you anything!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_infernia_late_night_worry.asset",
+                       "eventName":  "밤늦게 혼자 고민하기",
+                       "eventNameEng":  "Late-Night Solo Worrying",
+                       "eventDescription":  "밤늦게 혼자 고민하기",
+                       "eventID":  "infernia_late_night_worry",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "잠이 안 와... 생각이 많아져.",
+                                                               "가끔 이런 생각 해. 내가 너무 단순하게 사는 건 아닐까?",
+                                                               "메탈리온만 생각하고 살았는데... 다른 것도 중요한 건가?",
+                                                               "너는... 어떻게 생각해? 내가 이상한가?"
+                                                           ],
+                                             "choices":  [
+                                                             "전혀 이상하지 않아",
+                                                             "생각이 많아진 게 성장한 거야",
+                                                             "복잡하게 생각할 필요 없어"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "정말? 다행이야... 가끔 헷갈려서.",
+                                                                   "성장? 그런가? 좋은 변화인 거지?",
+                                                                   "그래, 너 말이 맞아. 나는 나답게 살면 돼!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "I can\u0027t sleep... I have so many thoughts.",
+                                                                  "Sometimes I wonder. Am I living too simply?",
+                                                                  "I\u0027ve only thought about Metalion and lived like that... are other things important",
+                                                                  "What do you think...? Am I strange?"
+                                                              ],
+                                                "choices":  [
+                                                                "You\u0027re not strange at all.",
+                                                                "Thinking more means you\u0027ve grown.",
+                                                                "You don\u0027t need to overthink it."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Really? That\u0027s a relief... I get confused sometimes.",
+                                                                      "Grown? Is that so? That\u0027s a good change, right?",
+                                                                      "Yeah, you\u0027re right. I should live as myself!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_infernia_mission_together.asset",
+                       "eventName":  "공동 임무 수행",
+                       "eventNameEng":  "Joint Mission",
+                       "eventDescription":  "공동 임무 수행",
+                       "eventID":  "infernia_mission_together",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "이번 임무, 너랑 같이 가니까 든든해!",
+                                                               "예전엔 혼자서 무작정 돌진했는데...",
+                                                               "너가 있으니까 작전도 생각하게 되고, 더 조심하게 돼!",
+                                                               "우리 팀워크, 정말 최고인 것 같아! 적들도 놀랄 걸?"
+                                                           ],
+                                             "choices":  [
+                                                             "너도 많이 성장했어",
+                                                             "우리는 완벽한 파트너야",
+                                                             "함께라서 더 강해졌어"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "성장? 정말? 헤헤! 너 덕분이야! 더 성장할 거야!",
+                                                                   "완벽한 파트너! 멋있다! 나도 그렇게 생각해!",
+                                                                   "그래! 함께하면 뭐든 할 수 있어! 우리 무적이야!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "This mission, going with you makes me feel secure!",
+                                                                  "Back then I rushed in recklessly on my own...",
+                                                                  "With you here, I think about strategy and become more careful!",
+                                                                  "Our teamwork is the best! The enemies will be surprised, right?"
+                                                              ],
+                                                "choices":  [
+                                                                "You\u0027ve grown a lot too.",
+                                                                "We\u0027re the perfect partners.",
+                                                                "We\u0027re stronger together."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Grown? Really? Hehe! It\u0027s thanks to you! I\u0027ll grow even more!",
+                                                                      "Perfect partners! Awesome! I think so too!",
+                                                                      "Yeah! Together we can do anything! We\u0027re unstoppable!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_infernia_morning_routine.asset",
+                       "eventName":  "인페르니아의 아침 루틴",
+                       "eventNameEng":  "Infernia\u0027s Morning Routine",
+                       "eventDescription":  "인페르니아의 아침 루틴",
+                       "eventID":  "infernia_morning_routine",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "어? 벌써 깼어? 나는 이제 막 운동 끝났어!",
+                                                               "매일 아침에 100번씩 주먹질 연습해! 메탈리온 때릴 준비!",
+                                                               "그 다음엔 찬물로 세수하고... 뜨거운 차 마셔!",
+                                                               "너는 아침에 뭐 해? 나처럼 운동해?"
+                                                           ],
+                                             "choices":  [
+                                                             "건강한 루틴이네! 나도 따라해볼까?",
+                                                             "아침부터 그렇게 열심히 하는구나",
+                                                             "찬물 세수는 힘들 것 같은데"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "정말? 좋아! 같이 하면 더 재밌을 거야!",
+                                                                   "당연하지! 하루를 힘차게 시작해야 해!",
+                                                                   "처음엔 힘들어도 금방 익숙해져! 정신이 확 들어!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Huh? You\u0027re up already? I just finished my workout!",
+                                                                  "Every morning I do 100 punches! Preparing to hit Metalion!",
+                                                                  "Then I wash my face with cold water... and drink hot tea!",
+                                                                  "What do you do in the morning? Do you work out like me?"
+                                                              ],
+                                                "choices":  [
+                                                                "That\u0027s a healthy routine! Should I try it too?",
+                                                                "You work that hard from the morning.",
+                                                                "Cold water washing sounds tough."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Really? Great! It will be more fun together!",
+                                                                      "Of course! You have to start the day strong!",
+                                                                      "It\u0027s tough at first, but you get used to it quickly! It really wakes you"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_infernia_night_watch.asset",
+                       "eventName":  "밤 경계 근무",
+                       "eventNameEng":  "Night Watch Duty",
+                       "eventDescription":  "밤 경계 근무",
+                       "eventID":  "infernia_night_watch",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "밤하늘이 예쁘다... 별이 많네.",
+                                                               "전에는 이런 거 볼 시간도 없었는데...",
+                                                               "너가 옆에 있으니까 무서운 밤도 괜찮아.",
+                                                               "혹시... 네피림이나 메탈리온이 나타나도 우리 둘이면 이길 수 있을 거야!"
+                                                           ],
+                                             "choices":  [
+                                                             "별이 정말 예쁘네",
+                                                             "같이 있어서 나도 안심이야",
+                                                             "우리가 이기지 못할 적은 없어"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "그치? 이렇게 예쁜 걸 이제야 봤어. 너 덕분이야!",
+                                                                   "안심? 헤헤, 나 든든하지? 너도 나한테 든든한 존재야!",
+                                                                   "그래! 우리는 무적이야! 나쁜 놈들 다 물리쳐버리자!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "The night sky is beautiful... so many stars.",
+                                                                  "I didn\u0027t have time to see things like this before...",
+                                                                  "With you beside me, even scary nights are okay.",
+                                                                  "Even if Nephilim or Metalion show up, the two of us can win!"
+                                                              ],
+                                                "choices":  [
+                                                                "The stars are really beautiful.",
+                                                                "I\u0027m relieved to be with you too.",
+                                                                "There\u0027s no enemy we can\u0027t beat."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Right? I only saw something this beautiful now. It\u0027s thanks to you!",
+                                                                      "Relieved? Hehe, I\u0027m dependable, right? You\u0027re dependable to me too!",
+                                                                      "Yeah! We\u0027re unstoppable! Let\u0027s defeat all the bad guys!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_infernia_past_story.asset",
+                       "eventName":  "과거 이야기 나누기",
+                       "eventNameEng":  "Sharing Past Stories",
+                       "eventDescription":  "과거 이야기 나누기",
+                       "eventID":  "infernia_past_story",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "있잖아... 전에는 정말 혼자였어.",
+                                                               "메탈리온 놈들 때문에 가족도 잃고... 친구도 없었고...",
+                                                               "그래서 맨날 화만 내고 다른 생각은 안 했어.",
+                                                               "근데 너를 만나고 나서... 다른 것들도 소중하다는 걸 알게 됐어."
+                                                           ],
+                                             "choices":  [
+                                                             "힘들었겠어, 하지만 이제는 혼자가 아니야",
+                                                             "그런 일을 겪었구나... 미안해",
+                                                             "이제 새로운 시작이야"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "맞아! 이제 혼자 아니야! 너가 있잖아! 정말 고마워!",
+                                                                   "미안해하지 마! 그 일이 있었으니까 너를 만날 수 있었잖아!",
+                                                                   "새로운 시작! 좋은 말이야! 너와 함께하는 새로운 시작!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "You know... I was really alone before.",
+                                                                  "Because of the Metalions, I lost my family... and I had no friends...",
+                                                                  "So I was always angry, and I didn\u0027t think about anything else.",
+                                                                  "But after meeting you... I learned that other things matter too."
+                                                              ],
+                                                "choices":  [
+                                                                "That must have been hard, but you\u0027re not alone now.",
+                                                                "You went through that... I\u0027m sorry.",
+                                                                "Now it\u0027s a new beginning."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Yeah! I\u0027m not alone now! I have you! Thank you so much!",
+                                                                      "Don\u0027t be sorry! Because that happened, I could meet you!",
+                                                                      "A new beginning! That\u0027s a great thing to say! A new beginning with you!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_infernia_personal_goal.asset",
+                       "eventName":  "개인적인 목표 이야기",
+                       "eventNameEng":  "Personal Goal Story",
+                       "eventDescription":  "개인적인 목표 이야기",
+                       "eventID":  "infernia_personal_goal",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "있잖아... 메탈리온 다 물리치고 나면 뭐 할까?",
+                                                               "전에는 그 생각밖에 안 했는데... 요즘은 그 다음이 궁금해.",
+                                                               "평화로워지면... 뭔가 새로운 걸 배우고 싶어.",
+                                                               "너는 꿈이 뭐야? 나한테도 알려줘!"
+                                                           ],
+                                             "choices":  [
+                                                             "평화로운 미래를 생각하는구나",
+                                                             "뭘 배우고 싶은데?",
+                                                             "함께 새로운 꿈을 찾아보자"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "응! 싸우지 않는 세상... 상상만 해도 좋아!",
+                                                                   "음... 요리? 아니면 꽃 기르기? 평화로운 것들!",
+                                                                   "같이? 좋아! 둘이서 찾으면 더 좋은 꿈을 찾을 수 있을 거야!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "You know... once we defeat all the Metalions, what should we do?",
+                                                                  "Before, I only thought about that... but lately I\u0027m curious about what comes",
+                                                                  "When things become peaceful... I want to learn something new.",
+                                                                  "What\u0027s your dream? Tell me too!"
+                                                              ],
+                                                "choices":  [
+                                                                "You\u0027re thinking about a peaceful future.",
+                                                                "What do you want to learn?",
+                                                                "Let\u0027s find new dreams together."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Yeah! A world without fighting... even imagining it feels good!",
+                                                                      "Hmm... cooking? Or growing flowers? Peaceful things!",
+                                                                      "Together? Great! If we look together, we\u0027ll find even better dreams!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_infernia_playful_moment.asset",
+                       "eventName":  "장난치는 시간",
+                       "eventNameEng":  "Playful Time",
+                       "eventDescription":  "장난치는 시간",
+                       "eventID":  "infernia_playful_moment",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "야! 이거 봐! 불꽃으로 하트 모양 만들 수 있어!",
+                                                               "너도 해봐! 어려우면 내가 가르쳐줄게!",
+                                                               "헤헤! 재밌지? 이런 것도 할 수 있다니까!",
+                                                               "전에는 파괴만 생각했는데... 이렇게 예쁜 것도 만들 수 있네!"
+                                                           ],
+                                             "choices":  [
+                                                             "정말 예쁘다! 어떻게 하는 거야?",
+                                                             "너의 새로운 면을 발견했네",
+                                                             "같이 더 예쁜 걸 만들어보자"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "이렇게 하는 거야! 집중해서... 자, 해봐!",
+                                                                   "새로운 면? 나도 놀라! 너 덕분에 발견한 거야!",
+                                                                   "좋아! 둘이서 만들면 더 예쁠 거야! 뭘 만들까?"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Hey! Look at this! I can make a heart shape with flames!",
+                                                                  "You try too! If it\u0027s hard, I\u0027ll teach you!",
+                                                                  "Hehe! Fun, right? I can do stuff like this too!",
+                                                                  "Before, I only thought about destruction... but I can make something pretty"
+                                                              ],
+                                                "choices":  [
+                                                                "It\u0027s really pretty! How do you do it?",
+                                                                "I\u0027ve discovered a new side of you.",
+                                                                "Let\u0027s make something even prettier together."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "You do it like this! Focus... now, try!",
+                                                                      "A new side? I\u0027m surprised too! I found it thanks to you!",
+                                                                      "Great! It\u0027ll be prettier if we make it together! What should we make?"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_infernia_room_visit.asset",
+                       "eventName":  "인페르니아의 방 구경",
+                       "eventNameEng":  "Visiting Infernia\u0027s Room",
+                       "eventDescription":  "인페르니아의 방 구경",
+                       "eventID":  "infernia_room_visit",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "어... 내 방이 좀 지저분해. 갑자기 와서...",
+                                                               "저기 있는 건 운동기구고... 저건 무기 정비 도구야.",
+                                                               "아! 저건 보지 마! 부끄러워!",
+                                                               "그냥... 예쁜 인형이야. 어릴 때부터 가지고 있던 거라서..."
+                                                           ],
+                                             "choices":  [
+                                                             "인형이 귀엽네",
+                                                             "방이 너답다",
+                                                             "정리 도와줄까?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "귀여워? 헤헤... 이름도 있어. \u0027불이\u0027야!",
+                                                                   "너답다고? 어떤 의미야? 좋은 의미지?",
+                                                                   "정말? 고마워! 둘이서 하면 금방 끝날 거야!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Uh... my room is a bit messy. You came so suddenly...",
+                                                                  "That over there is exercise equipment... and that is weapon maintenance tools.",
+                                                                  "Ah! Don\u0027t look at that! It\u0027s embarrassing!",
+                                                                  "It\u0027s just... a cute doll. I\u0027ve had it since I was little..."
+                                                              ],
+                                                "choices":  [
+                                                                "The doll is cute.",
+                                                                "The room feels like you.",
+                                                                "Want me to help tidy up?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Cute? Hehe... it has a name too. It\u0027s \u0027Bulli\u0027!",
+                                                                      "Like me? What do you mean? Is it a good thing?",
+                                                                      "Really? Thanks! If we do it together, it\u0027ll be done quickly!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_infernia_secret_diary.asset",
+                       "eventName":  "우연히 발견한 일기장",
+                       "eventNameEng":  "Accidentally Found Diary",
+                       "eventDescription":  "우연히 발견한 일기장",
+                       "eventID":  "infernia_secret_diary",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "어! 그거 내 일기야! 보지 마!",
+                                                               "부끄러워... 혼자 있을 때 생각 정리하려고 쓰는 거야.",
+                                                               "요즘엔... 메탈리온 욕만 쓰는 게 아니라 다른 것도 써.",
+                                                               "너 때문에... 아니야! 그냥 생각이 많아져서!"
+                                                           ],
+                                             "choices":  [
+                                                             "미안해, 안 볼게",
+                                                             "일기 쓰는 습관 좋은데?",
+                                                             "무슨 생각들을 쓰는데?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "고마워... 다음엔 잘 숨겨놔야겠어. 부끄러워!",
+                                                                   "그래? 처음엔 어색했는데 이제 습관이 됐어.",
+                                                                   "그건... 비밀이야! 궁금하면 나중에 보여줄게..."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Hey! That\u0027s my diary! Don\u0027t look!",
+                                                                  "It\u0027s embarrassing... I write it to organize my thoughts when I\u0027m alone.",
+                                                                  "These days... I don\u0027t just write about Metalions, I write other things too.",
+                                                                  "Because of you... no! It\u0027s just that I have more thoughts!"
+                                                              ],
+                                                "choices":  [
+                                                                "Sorry, I won\u0027t look.",
+                                                                "It\u0027s a good habit to write a diary.",
+                                                                "What kind of thoughts do you write about?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Thanks... I should hide it better next time. It\u0027s embarrassing!",
+                                                                      "Really? It felt awkward at first, but now it\u0027s become a habit.",
+                                                                      "That\u0027s... a secret! If you\u0027re curious, I\u0027ll show you later..."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_infernia_sharing_meal.asset",
+                       "eventName":  "함께하는 식사 시간",
+                       "eventNameEng":  "Mealtime Together",
+                       "eventDescription":  "함께하는 식사 시간",
+                       "eventID":  "infernia_sharing_meal",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "와! 오늘 음식 맛있다!",
+                                                               "너도 같이 먹자! 혼자 먹으면 심심해.",
+                                                               "있잖아... 너랑 같이 있으니까 뭔가 마음이 편해져.",
+                                                               "전에는 맨날 메탈리온 생각만 했는데, 요즘은 다른 생각도 해!"
+                                                           ],
+                                             "choices":  [
+                                                             "무슨 생각을 해?",
+                                                             "나도 너와 있으면 편해",
+                                                             "맛있는 음식을 같이 먹으니까 더 맛있어"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "음... 재밌는 일들? 너랑 뭐 할까 하는 생각!",
+                                                                   "정말? 헤헤! 나도 그래! 우리 진짜 친구네!",
+                                                                   "그치? 같이 먹으면 뭐든 맛있어져!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Wow! Today\u0027s food is tasty!",
+                                                                  "Eat with me! It\u0027s lonely to eat alone.",
+                                                                  "You know... when I\u0027m with you, I feel at ease.",
+                                                                  "Before I only thought about Metalions, but lately I think about other things"
+                                                              ],
+                                                "choices":  [
+                                                                "What kind of things do you think about?",
+                                                                "I feel at ease when I\u0027m with you too.",
+                                                                "Food tastes better when we eat together."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Hmm... fun things? Thinking about what we\u0027ll do together!",
+                                                                      "Really? Hehe! Me too! We\u0027re really close friends!",
+                                                                      "Right? Everything tastes better when we eat together!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_infernia_shopping_trip.asset",
+                       "eventName":  "시장에서 장보기",
+                       "eventNameEng":  "Grocery Shopping at the Market",
+                       "eventDescription":  "시장에서 장보기",
+                       "eventID":  "infernia_shopping_trip",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "와! 이 사과 맛있어 보인다!",
+                                                               "어... 값을 깎는 게 어려워. 어떻게 하는 거야?",
+                                                               "저 아저씨 친절하네! 덤도 주고!",
+                                                               "너랑 같이 오니까 재밌어! 혼자 올 때보다 훨씬 좋아!"
+                                                           ],
+                                             "choices":  [
+                                                             "같이 장보니까 재밌네",
+                                                             "값 깎는 거 가르쳐줄게",
+                                                             "사과 하나 사줄까?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "그치? 혼자 할 때는 심심했는데!",
+                                                                   "정말? 가르쳐줘! 돈 아끼고 싶어!",
+                                                                   "사줄 거야? 와! 고마워! 나도 뭔가 사줄게!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Wow! These apples look tasty!",
+                                                                  "Uh... haggling is hard. How do you do it?",
+                                                                  "That shopkeeper is kind! He even gave a discount!",
+                                                                  "It\u0027s fun coming with you! It\u0027s much better than coming alone!"
+                                                              ],
+                                                "choices":  [
+                                                                "Shopping together is fun.",
+                                                                "I\u0027ll teach you how to haggle.",
+                                                                "Want me to buy you an apple?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Right? I was bored when I did it alone!",
+                                                                      "Really? Teach me! I want to save money!",
+                                                                      "You\u0027ll buy it? Wow! Thanks! I\u0027ll buy you something too!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_infernia_sick_day.asset",
+                       "eventName":  "몸살 감기 걸린 날",
+                       "eventNameEng":  "Coming Down with a Cold",
+                       "eventDescription":  "몸살 감기 걸린 날",
+                       "eventID":  "infernia_sick_day",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "으... 머리 아파. 감기인가?",
+                                                               "이상해... 나는 항상 건강했는데.",
+                                                               "메탈리온 놈들 때려잡으러 가야 하는데...",
+                                                               "너... 혹시 나 좀 돌봐줄래? 혼자 있으니까 심심해."
+                                                           ],
+                                             "choices":  [
+                                                             "푹 쉬어야 해, 내가 챙겨줄게",
+                                                             "감기약이라도 사올까?",
+                                                             "오늘은 쉬고 내일 생각하자"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "정말? 고마워... 챙겨주는 사람이 있으니까 마음이 편해.",
+                                                                   "약? 좋아! 빨리 나아서 다시 훈련하고 싶어!",
+                                                                   "그래... 오늘은 쉬자. 너 말이 맞아."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Ugh... my head hurts. Is this a cold?",
+                                                                  "It\u0027s strange... I\u0027ve always been healthy.",
+                                                                  "I have to go beat up the Metalions...",
+                                                                  "Can you... look after me? It\u0027s lonely being alone."
+                                                              ],
+                                                "choices":  [
+                                                                "You should rest. I\u0027ll take care of you.",
+                                                                "Should I get some cold medicine?",
+                                                                "Rest today and think about it tomorrow."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Really? Thanks... Having someone to take care of me makes me feel at ease.",
+                                                                      "Medicine? Great! I want to get better quickly and train again!",
+                                                                      "Yeah... I\u0027ll rest today. You\u0027re right."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_infernia_training_together.asset",
+                       "eventName":  "함께하는 특훈",
+                       "eventNameEng":  "Special Training Together",
+                       "eventDescription":  "함께하는 특훈",
+                       "eventID":  "infernia_training_together",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "야! 오늘도 같이 연습하자!",
+                                                               "너랑 함께하니까 더 재밌어!",
+                                                               "메탈리온 놈들도 우리 둘이면 무섭지 않을 거야!",
+                                                               "어? 내가 더 강해졌나? 너 덕분인 것 같아!"
+                                                           ],
+                                             "choices":  [
+                                                             "너도 많이 강해졌어",
+                                                             "우리 팀워크가 좋은가 봐",
+                                                             "함께해서 나도 즐거워"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "정말? 와! 너도 그렇게 생각해? 더 열심히 할 거야!",
+                                                                   "팀워크! 맞아! 우리는 최고의 콤비야!",
+                                                                   "나도! 혼자 할 때보다 훨씬 재밌어!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Hey! Let\u0027s train together again today!",
+                                                                  "It\u0027s more fun with you!",
+                                                                  "Even the Metalions won\u0027t be scary if it\u0027s just the two of us!",
+                                                                  "Huh? Did I get stronger? I think it\u0027s thanks to you!"
+                                                              ],
+                                                "choices":  [
+                                                                "You\u0027ve gotten stronger too.",
+                                                                "Our teamwork must be good.",
+                                                                "I\u0027m happy to be together too."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Really? Wow! You think so too? I\u0027ll work even harder!",
+                                                                      "Teamwork! That\u0027s right! We\u0027re the best duo!",
+                                                                      "Me too! It\u0027s way more fun than doing it alone!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_infernia_worry_moment.asset",
+                       "eventName":  "서로를 걱정하는 마음",
+                       "eventNameEng":  "Worrying About Each Other",
+                       "eventDescription":  "서로를 걱정하는 마음",
+                       "eventID":  "infernia_worry_moment",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "너... 요즘 피곤해 보여. 괜찮아?",
+                                                               "혹시 내가 너무 많이 괴롭혔나? 미안해...",
+                                                               "너가 힘들어하면 나도 슬퍼져. 이상하지?",
+                                                               "전에는 내 일만 생각했는데... 이제는 너 걱정이 더 커."
+                                                           ],
+                                             "choices":  [
+                                                             "걱정해줘서 고마워, 괜찮아",
+                                                             "너도 충분히 쉬어야 해",
+                                                             "서로 걱정해주는 게 당연하지"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "정말 괜찮아? 그럼 다행이야! 아프면 바로 말해줘!",
+                                                                   "나? 나는 괜찮아! 근데 너가 먼저야!",
+                                                                   "당연한 거? 그럼... 우리 정말 가까운 사이구나!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "You... look tired these days. Are you okay?",
+                                                                  "Did I bother you too much? I\u0027m sorry...",
+                                                                  "When you\u0027re struggling, I feel sad too. Isn\u0027t that strange?",
+                                                                  "I used to think only about myself... but now I worry more about you."
+                                                              ],
+                                                "choices":  [
+                                                                "Thanks for worrying. I\u0027m okay.",
+                                                                "You need to rest too.",
+                                                                "It\u0027s only natural to worry about each other."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Really okay? Then I\u0027m relieved! If it hurts, tell me right away!",
+                                                                      "Me? I\u0027m fine! But you come first!",
+                                                                      "Only natural? Then... we\u0027re really close, aren\u0027t we!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "3_infernia_bunnygirl.asset",
+                       "eventName":  "서로를 걱정하는 마음",
+                       "eventNameEng":  "Worrying About Each Other",
+                       "eventDescription":  "서로를 걱정하는 마음",
+                       "eventID":  "infernia_bunnygirl",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "마스터! 특수 임무다 출동하자!",
+                                                               "검은시장에서 상인들에게 입수한 정보로는",
+                                                               "카지노에서 중요한 무기를 거래하기로 했대.",
+                                                               "잠입할거니까 너도 차려입고 거기로 와.",
+                                                               "그럼 먼저 가있을께!! 빨리와야되!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Master! Special mission time—let\u0027s move out!",
+                                                                  "According to intel we got from the merchants in the black market,",
+                                                                  "They say an important weapon deal is going down at the casino.",
+                                                                  "Since we\u0027re infiltrating, you better dress up and come with me too.",
+                                                                  "I\u0027m heading there first!! Hurry up and come!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "3_infernia_officelady.asset",
+                       "eventName":  "서로를 걱정하는 마음",
+                       "eventNameEng":  "Worrying About Each Other",
+                       "eventDescription":  "서로를 걱정하는 마음",
+                       "eventID":  "infernia_officelady",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "마스터! 이번에 본부에 사무 업무때문에 방문하기로 했어!",
+                                                               "이 옷말이야? 비전투 지역이기 때문에 나노 슈트는 필요없단말이지",
+                                                               "그래서 가끔씩 입거든",
+                                                               "마스터 자꾸 어딜 보는거야?",
+                                                               "이런 취향인줄은 몰랐네? 잘 알아 뒀다..!!",
+                                                               "그럼 나는 본부 다녀올테니까 여기 지키고 있어. 알았지?"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Master! I decided to stop by the headquarters this time because of some office",
+                                                                  "This outfit? Since it\u0027s a non-combat zone, there\u0027s no need for my combat suit,",
+                                                                  "So I wear this sometimes.",
+                                                                  "Master, where are your eyes wandering?",
+                                                                  "I didn\u0027t know you had such tastes? You\u0027re really something…!!",
+                                                                  "Anyway, I\u0027m heading to the headquarters now, so stay here and keep watch. Got"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "3_infernia_school.asset",
+                       "eventName":  "서로를 걱정하는 마음",
+                       "eventNameEng":  "Worrying About Each Other",
+                       "eventDescription":  "서로를 걱정하는 마음",
+                       "eventID":  "infernia_school",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "마스터! 어디가는 길이야? 디걸 훈련학교에 잠깐 들를일이 있는데말이야.",
+                                                               "응? 왜 그렇게봐? 교복 입은사람 처음봐?",
+                                                               "아 .. 다 아는 내용 배우러 오라고 왜 자꾸 부르는지 모르겠네",
+                                                               "메탈리온 놈들 한명이라도 더 때려잡아야 하는데 밀이지.",
+                                                               "마스터! 훈련하고 같이 갈까?",
+                                                               "그리고...",
+                                                               "나 교복 어때? 좀 잘 어울려?"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Master! Where are you headed? I’ve got something to do at the D-Girl Training Academy for a bit.",
+                                                                  "Hm? Why are you looking at me like that? First time seeing someone in a school",
+                                                                  "Ugh… They keep calling me in saying I need to learn things I already know.",
+                                                                  "I still need to beat up at least one more of those damn Metalion bastards, but they won’t let me.",
+                                                                  "Master! Wanna come train together?",
+                                                                  "And…",
+                                                                  "How do I look in this school uniform? Does it suit me pretty well?"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "3_infernia_swim.asset",
+                       "eventName":  "서로를 걱정하는 마음",
+                       "eventNameEng":  "Worrying About Each Other",
+                       "eventDescription":  "서로를 걱정하는 마음",
+                       "eventID":  "infernia_swim",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "후... 왔어 마스터?",
+                                                               "너무 더워서 수영중이었어.",
+                                                               "물 따위로 내 불꽃은 꺼지지 않지. 후후",
+                                                               "아 멍하니 있지 말고 거기 수건좀 주지 그래?",
+                                                               "그리고...",
+                                                               "눈은 자꾸 그쪽으로 가는건데?",
+                                                               "... 변. 태. ..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Phew… You came, Master?",
+                                                                  "It was so hot I ended up swimming.",
+                                                                  "My flames don\u0027t go out even in water.   Heh heh.",
+                                                                  "Hey, quit staring blankly and hand me that towel over there, yeah?",
+                                                                  "And…",
+                                                                  "Your eyes keep going there, don\u0027t they?",
+                                                                  "…Per. Vert…"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "4_infernia_pre_nephilim.asset",
+                       "eventName":  "마음의 고백",
+                       "eventNameEng":  "Confession of the Heart",
+                       "eventDescription":  "마음의 고백",
+                       "eventID":  "4_infernia_pre_nephilim",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "인페르니아가 훈련장에서 전투 시뮬레이션 프로그램을 돌리고 있다. ",
+                                                               "\u0027고대 기록\u0027 폴더에서 \u0027프로그램: 바알\u0027이라는 전설적인 전투 데이터를 발견한다.",
+                                                               "\"코드네임 \u0027바알\u0027. 대(對) 거대 메탈리온 전용으로 설계된 순수 근접 전투형 안드로이드. ",
+                                                               "단 한 번의 패배 기록도 없음. 그의 전투 방식은 파괴가 아닌 \u0027수호\u0027에 가깝다. ",
+                                                               "동료를 지키기 위해 자신의 몸이 부서지는 것을 두려워하지 않는, 가장 용맹한 투사.\"",
+                                                               "와… 엄청나잖아! 이런 녀석이 우리 편에 있었으면 최강이었겠는데! 어디 보자, 마지막 전투 기록은…",
+                                                               "(마지막 전투 기록 파일을 열자, 데이터가 전부 손상되어 있다. 화면 가득 알아볼 수 없는 노이즈와 함께 \u0027BERSERK\u0027, \u0027BERSERK\u0027, \u0027BERSERK\u0027라는 붉은 글자만 반복해서 깜박인다.)",
+                                                               "…뭐야, 이거. 갑자기 왜 이래? 찝찝하게시리."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Infernia is running a combat simulation program in the training ground.",
+                                                                  "\u0027While browsing the \u0027\u0027Ancient Records\u0027\u0027 folder, she discovers a legendary combat",
+                                                                  "\"Codename \u0027Baal\u0027. Great… (対…)",
+                                                                  "(The log abruptly cuts off. The screen flickers violently.)",
+                                                                  "Suddenly the simulation accelerates. The enemy AI begins repeating the same",
+                                                                  "The damage output spikes exponentially. The virtual battlefield is dyed red.",
+                                                                  "(The log window starts glitching. Red text begins to overwrite everything.)",
+                                                                  "BERSERK, BERSERK, BERSERK",
+                                                                  "(The screen fills with nothing but the word \u0027BERSERK\u0027 flashing in crimson repeatedly.)",
+                                                                  "…What the hell is this? Why is it suddenly acting up like this?",
+                                                                  "It’s giving me the chills…"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "인페르니아_이벤트씬V3.asset",
+                       "eventName":  "등 뒤의 흉터",
+                       "eventNameEng":  "Scar on the Back",
+                       "eventDescription":  "\"\\uC778\\uD398\\uB974\\uB2C8\\uC544 \\uC774\\uBCA4\\uD2B8 \\uCEF7\\uC2E0",
+                       "eventID":  "Infernia_v3",
+                       "dialogues":  [
+                                         {
+                                             "character":  "나래이션",
+                                             "sentences":  [
+                                                               "약품보급 임무를 위해 전쟁지대의 의무실에 들렀다.",
+                                                               "훈련복 상의를 반쯤 벗은 인페르니아가 끙끙대고 있다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "젠장.. 각도가 안나와...",
+                                                               "(마스터가 나타나자 화들짝 놀라며 옷을 끌어올리려 한다)",
+                                                               "으악?! 너, 너 언제부터 거기- 노크 정도는 하라고!"
+                                                           ],
+                                             "choices":  [
+                                                             "등 상처, 내가 봐줄께"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "(얼굴이 빨개지며)뭐? 아니 이정도는 혼자서도.. 으윽.."
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "(강제로 앉히고, 안드로이드 용 소독약을 바른다)",
+                                                               "아파! 따가우니까 좀 살살- 흐악~!!",
+                                                               "(그녀의 등. 새하얀 피부 위로 크고 작은 상처들이 지도처럼 그려져 있었다.)",
+                                                               "(그녀가 얼마나 많은 전투를 견뎌왔는지 말해주는 증거같았다.)"
+                                                           ],
+                                             "choices":  [
+                                                             "...다치지좀 마..."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "뭐야 갑자기...",
+                                                                   "흥..."
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "쓸데없는 소리 하지마. 전투원이 상처 하나 없으면 그게 더 이상하지.",
+                                                               "(목소리가 작아진다)그리고... 남 걱정할 시간에 네 몸이나 챙겨.",
+                                                               "네가 쓰러지면... 누가 우릴 지휘하냐고.",
+                                                               "(더 작은 목소리로) ... 누가 날 봐주냐고.."
+                                                           ],
+                                             "choices":  [
+                                                             "응?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "(화들짝 놀라며) 아무것도 아니라니까!",
+                                                                   "약 다 발랐으면 꺼져! 나 옷 입어야 한다고!"
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "(마스터가 나가려고 하자)... 아, 잠깐..."
+                                                           ],
+                                             "choices":  [
+                                                             "???"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "(고개를 돌린 채, 귀까지 빨개진 얼굴로)",
+                                                                   "... 고맙다고. 손길이...",
+                                                                   "지휘관 주제에 왜 이렇게 섬세한지 모르겠ㄴ."
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Narrator",
+                                                "sentences":  [
+                                                                  "To supply medicine, you stopped by the medical room in the war zone.",
+                                                                  "Infernia, having half-removed her training top, is grumbling to herself."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Damn it... I can\u0027t reach the right angle...",
+                                                                  "(Startled by the Master\u0027s appearance, she tries to pull her clothes back up.)",
+                                                                  "Gah?! You, since when were you— at least knock first!"
+                                                              ],
+                                                "choices":  [
+                                                                "Let me take a look at the wound on your back."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "(Blushing) What? No, I can do this much by myself... Ugh.."
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "(Forced to sit down, you apply android disinfectant.)",
+                                                                  "It hurts! It stings, so be gentle— Hyah!!",
+                                                                  "(Her back. Large and small scars were drawn like a map across her porcelain",
+                                                                  "(It felt like evidence of how many battles she had endured.)"
+                                                              ],
+                                                "choices":  [
+                                                                "...Please don\u0027t get hurt..."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "What\u0027s with you all of a sudden...",
+                                                                      "Hmph..."
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Don\u0027t talk nonsense. It would be weirder if a combatant didn\u0027t have a single",
+                                                                  "(Her voice softens) Also... worry about your own body instead of others.",
+                                                                  "If you collapse... who\u0027s going to lead us?",
+                                                                  "(In an even smaller voice) ...Who\u0027s going to look after me..?"
+                                                              ],
+                                                "choices":  [
+                                                                "Huh?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "(Startled) I said it\u0027s nothing!",
+                                                                      "If the medicine is all applied, get out! I have to get dressed!"
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "(As the Master tries to leave)... Ah, wait..."
+                                                              ],
+                                                "choices":  [
+                                                                "???"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "(With her head turned away and her face red to her ears)",
+                                                                      "...Thanks. For your touch...",
+                                                                      "I don\u0027t know why a Commander is so delicate."
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   }
+               ]
+}

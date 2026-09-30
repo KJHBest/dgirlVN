@@ -1,0 +1,149 @@
+﻿{
+    "sourceFolder":  "EnemyGroup",
+    "eventCount":  11,
+    "events":  [
+                   {
+                       "sourceFile":  "2메탈미니언.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2코뿔소울프.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "3가디언오버로드코뿔소.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "3소울드레이너.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "4맹동_빙결의라이칸 1.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "4비홀더.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "4빙결의라이칸.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "5소울드레인오버로드마법적.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "5울프지휘관.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "6데스둠.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "기본적군.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   }
+               ]
+}

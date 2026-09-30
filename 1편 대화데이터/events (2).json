@@ -1,0 +1,393 @@
+﻿{
+    "sourceFolder":  ".",
+    "eventCount":  12,
+    "events":  [
+                   {
+                       "sourceFile":  "111 1.asset",
+                       "eventName":  "새 이벤트",
+                       "eventNameEng":  "",
+                       "eventDescription":  "이벤트 설명",
+                       "eventID":  "EVENT_00001",
+                       "dialogues":  [
+                                         {
+                                             "character":  "aaa",
+                                             "sentences":  [
+                                                               "aaaa",
+                                                               "bbbb"
+                                                           ],
+                                             "choices":  [
+                                                             "111",
+                                                             "222",
+                                                             "333"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "1212",
+                                                                   "121212",
+                                                                   "12121212",
+                                                                   "23233",
+                                                                   "2323232323",
+                                                                   "232323232323",
+                                                                   "44444",
+                                                                   "55555",
+                                                                   "66666"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "111 2.asset",
+                       "eventName":  "새 이벤트",
+                       "eventNameEng":  "",
+                       "eventDescription":  "이벤트 설명",
+                       "eventID":  "EVENT_00002",
+                       "dialogues":  [
+                                         {
+                                             "character":  "aaa",
+                                             "sentences":  [
+                                                               "aaaa",
+                                                               "bbbb"
+                                                           ],
+                                             "choices":  [
+                                                             "111",
+                                                             "222",
+                                                             "333"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "1212",
+                                                                   "121212",
+                                                                   "12121212",
+                                                                   "23233",
+                                                                   "2323232323",
+                                                                   "232323232323",
+                                                                   "44444",
+                                                                   "55555",
+                                                                   "66666"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "111.asset",
+                       "eventName":  "새 이벤트",
+                       "eventNameEng":  "",
+                       "eventDescription":  "이벤트 설명",
+                       "eventID":  "EVENT_0000",
+                       "dialogues":  [
+                                         {
+                                             "character":  "aaa",
+                                             "sentences":  [
+                                                               "aaaa",
+                                                               "bbbb"
+                                                           ],
+                                             "choices":  [
+                                                             "111",
+                                                             "222",
+                                                             "333"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "1212",
+                                                                   "121212",
+                                                                   "12121212",
+                                                                   "23233",
+                                                                   "2323232323",
+                                                                   "232323232323",
+                                                                   "44444",
+                                                                   "55555",
+                                                                   "66666"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "Empty_크라노시아-.asset",
+                       "eventName":  "영원한 약속",
+                       "eventNameEng":  "Eternal Promise",
+                       "eventDescription":  "깊은 밤의 대화",
+                       "eventID":  "MainEvent_004",
+                       "dialogues":  [
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "glacisia_ice_crystal.asset",
+                       "eventName":  "얼음 수정",
+                       "eventNameEng":  "Ice Crystal",
+                       "eventDescription":  "얼음 수정",
+                       "eventID":  "glacisia_ice_crystal",
+                       "dialogues":  [
+                                         {
+                                             "character":  "글래이시아",
+                                             "sentences":  [
+                                                               "마스터님... 이 수정이 제 힘을 증폭시켜줄 거예요.",
+                                                               " 카드 업그레이드 가능하지만, 냉기 피해가 있을 수 있어요.",
+                                                               "좋을까요?"
+                                                           ],
+                                             "choices":  [
+                                                             "수정을 사용한다(성공확률 70%)",
+                                                             "이더 추출(성공확률 90%)",
+                                                             "파괴"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "수정이 빛나기 시작한다.",
+                                                                   "이더 얻음.",
+                                                                   "무사."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Glacia",
+                                                "sentences":  [
+                                                                  "Master~ Look at this! I made a little ice crystal just for you…",
+                                                                  "It’s so sparkly… I tried really hard to make it perfect hehe",
+                                                                  "If you hold it… it feels cool but not cold… because I put my feelings into it…",
+                                                                  "Do you like it…? I can make another one if you want…"
+                                                              ],
+                                                "choices":  [
+                                                                "It’s beautiful! Thank you, I’ll keep it close",
+                                                                "It’s really pretty… but won’t it melt?",
+                                                                "Thanks… but I don’t really need it"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Yay~! I’m so happy… I’ll make sure it never melts for you…!",
+                                                                      "M-melt…? No way… because it has my feelings in it… it’ll stay forever…",
+                                                                      "Ah… okay… sorry… I thought you might like it… I’ll put it away…"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "test111.asset",
+                       "eventName":  "새 이벤트",
+                       "eventNameEng":  "",
+                       "eventDescription":  "이벤트 설명",
+                       "eventID":  "EVENT_0000",
+                       "dialogues":  [
+                                         {
+                                             "character":  "에테르니아",
+                                             "sentences":  [
+                                                               "안녕하세요"
+                                                           ],
+                                             "choices":  [
+                                                             "동료를 영입한다",
+                                                             "전투에 참가한다"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "ㄱㄱㄱ",
+                                                                   "레츠고"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "두번쨰대화.asset",
+                       "eventName":  "두번째대화",
+                       "eventNameEng":  "Second Conversation",
+                       "eventDescription":  "\"\\uC81C\\uC77C\\uCC98\\uC74C \\uD06C\\uB77C\\uB178\\uC2DC\\uC544\\uC640\\uC758",
+                       "eventID":  "MainEvent_001",
+                       "dialogues":  [
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "11111",
+                                                               "22222",
+                                                               "33333"
+                                                           ],
+                                             "choices":  [
+                                                             "1",
+                                                             "2",
+                                                             "3"
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "분기아이템테스트.asset",
+                       "eventName":  "테스트",
+                       "eventNameEng":  "",
+                       "eventDescription":  "전략적 판단력 테스트",
+                       "eventID":  "MainEvent_00999",
+                       "dialogues":  [
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "마스터님 테스트를 해보겠습니다."
+                                                           ],
+                                             "choices":  [
+                                                             "오래된곰인형",
+                                                             "불타는 반지",
+                                                             "지식의 서"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "무모한 판단입니다. 아군 피해가 막대할 텐데... 다시 생각해보세요",
+                                                                   "흠... 나쁘지 않군요. 시간은 오래 걸리지만 현명한 선택입니다",
+                                                                   "신중한 태도는 좋지만... 시간이 부족한 상황입니다. 때로는 빠른 결정도 필요해요."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "세번째대화.asset",
+                       "eventName":  "새 이벤트",
+                       "eventNameEng":  "",
+                       "eventDescription":  "이벤트 설명",
+                       "eventID":  "MainEvent_002",
+                       "dialogues":  [
+                                         {
+                                             "character":  "아우레아",
+                                             "sentences":  [
+                                                               "이것은 테스트 세번쨰 데이타입니다."
+                                                           ],
+                                             "choices":  [
+                                                             "565숗"
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "첫대화 1.asset",
+                       "eventName":  "첫대화",
+                       "eventNameEng":  "First Encounter",
+                       "eventDescription":  "\"\\uC81C\\uC77C\\uCC98\\uC74C \\uD06C\\uB77C\\uB178\\uC2DC\\uC544\\uC640\\uC758",
+                       "eventID":  "MainEvent_000",
+                       "dialogues":  [
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "당신이 새로운 마스터시군요.."
+                                                           ],
+                                             "choices":  [
+                                                             "응 잘 부탁해.",
+                                                             "너의 도움이 필요해.",
+                                                             "나는 싸우고 싶지 않아."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "아직 부족하군요.. 힘을 기르십시요.",
+                                                                   "예상보다는... 괜찮군요..",
+                                                                   "끔찍하군요..."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "최종본.asset",
+                       "eventName":  "얼음 수정",
+                       "eventNameEng":  "Ice Crystal",
+                       "eventDescription":  "얼음 수정",
+                       "eventID":  "glacisia_ice_crystal_eng",
+                       "dialogues":  [
+                                         {
+                                             "character":  "글래이시아",
+                                             "sentences":  [
+                                                               "마스터님... 이 수정이 제 힘을 증폭시켜줄 거예요.",
+                                                               " 카드 업그레이드 가능하지만, 냉기 피해가 있을 수 있어요.",
+                                                               "좋을까요?"
+                                                           ],
+                                             "choices":  [
+                                                             "수정을 사용한다(성공확률 70%)",
+                                                             "이더 추출(성공확률 90%)",
+                                                             "파괴"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "수정이 빛나기 시작한다.",
+                                                                   "이더 얻음.",
+                                                                   "무사."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Glacia",
+                                                "sentences":  [
+                                                                  "Master~ Look at this! I made a little ice crystal just for you…",
+                                                                  "It’s so sparkly… I tried really hard to make it perfect hehe",
+                                                                  "If you hold it… it feels cool but not cold… because I put my feelings into it…",
+                                                                  "Do you like it…? I can make another one if you want…"
+                                                              ],
+                                                "choices":  [
+                                                                "It’s beautiful! Thank you, I’ll keep it close",
+                                                                "It’s really pretty… but won’t it melt?",
+                                                                "Thanks… but I don’t really need it"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Yay~! I’m so happy… I’ll make sure it never melts for you…!",
+                                                                      "M-melt…? No way… because it has my feelings in it… it’ll stay forever…",
+                                                                      "Ah… okay… sorry… I thought you might like it… I’ll put it away…"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "치파오 앨리스 만남.asset",
+                       "eventName":  "새 이벤트",
+                       "eventNameEng":  "",
+                       "eventDescription":  "이벤트 설명",
+                       "eventID":  "EVENT_0005",
+                       "dialogues":  [
+                                         {
+                                             "character":  "치파오를 입은 앨리스",
+                                             "sentences":  [
+                                                               "안녕하세요 토끼씨"
+                                                           ],
+                                             "choices":  [
+                                                             "안녕",
+                                                             "누구세요?",
+                                                             "도망친다"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "1212",
+                                                                   "23233",
+                                                                   "44444"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   }
+               ]
+}

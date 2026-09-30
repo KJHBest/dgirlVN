@@ -1,0 +1,1124 @@
+﻿{
+    "sourceFolder":  "Used",
+    "eventCount":  10,
+    "events":  [
+                   {
+                       "sourceFile":  "_첫대화.asset",
+                       "eventName":  "첫대화",
+                       "eventNameEng":  "First Encounter",
+                       "eventDescription":  "\"\\uC81C\\uC77C\\uCC98\\uC74C \\uD06C\\uB77C\\uB178\\uC2DC\\uC544\\uC640\\uC758",
+                       "eventID":  "MainEvent_000",
+                       "dialogues":  [
+                                         {
+                                             "character":  "나레이션",
+                                             "sentences":  [
+                                                               "이곳은 인류가 지상을 피해 도망쳐온 대공동.",
+                                                               "지구 어딘가에 숨겨진 땅속이지만",
+                                                               "적들을 피해 나름대로의 평화를 지내고 있다.",
+                                                               "인공태양과 하늘이 만들어져 있고, 사람들도 살아가고 있었다.",
+                                                               "어찌보면 지상에서 쫒겨난 후 절망 적일 수 있었지만",
+                                                               "인류는 그렇게 익숙해지며 살아내고 있었다..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "긴급방송",
+                                             "sentences":  [
+                                                               "긴급 경보! 긴급 경보!",
+                                                               "신원 불명의 개체가 대공동 중앙 구역 침입하였다!",
+                                                               "모든 방어시스템... 으악!!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "???",
+                                             "sentences":  [
+                                                               "사방에는 전투 안드로이드들이 쓰러져 스파크를 튀기고 있었고,",
+                                                               "사람들은 비명을 지르며 대피하고 있었다.",
+                                                               "그 혼돈 가운데 정체를 알 수 없는 안드로이드로 보이는 자는",
+                                                               "상처 하나 없이 고요히 서 있었다.",
+                                                               "\"기록 완료. 방어 시스템 효율 73.4%...\"",
+                                                               "\"디걸 개체별 전투 능력, 평균 C등급... \"",
+                                                               "\"하바의 아이들은 너무나도 약하구나...\""
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "이 괴물 자식! 여기서 뭘하는 거야!",
+                                                               "인페르니아라는 디걸이 덤벼들지만",
+                                                               "상대는 그저 손가락을 튕기는 것만으로 날려버렸다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "에테르니아",
+                                             "sentences":  [
+                                                               "거기까지입니다. 나 대공동의 수호자 에테르니아.",
+                                                               "당신의 앞을 막아서겠습니다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "???",
+                                             "sentences":  [
+                                                               "호오.. 흥미로운 개체가 나타났군.",
+                                                               "기록에 없는 얼굴이군. 특수 개체인가?",
+                                                               "하지만 너도 마찬가지다..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "나레이션",
+                                             "sentences":  [
+                                                               "에테르니아의 특수기술인 레이져 광자포에도",
+                                                               "그 안드로이드는 꿈쩍도 하지 않고 튕겨냈다.",
+                                                               "이내 흥미가 떨어졌다는 표정을 한 그녀는..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "메멘토",
+                                             "sentences":  [
+                                                               "나의 이름은 메멘토... 기록하는자이다...",
+                                                               "리리스님을 위해 일하는 네피림이지.",
+                                                               "너희들은 너무 약해 빠졌다..",
+                                                               "이번엔 단순히 기록을 위해 왔지만",
+                                                               "우리는 30일 후에 다시 올 것이다.",
+                                                               "위대한 업적을 마무리 하기 위해..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "나레이션",
+                                             "sentences":  [
+                                                               "네피림 메멘토가 돌아가고 전투가 끝난 후...",
+                                                               "이곳은 대공동의 지휘자 슈퍼 컴퓨터 하바의 컴퓨터 중앙 관리 센터이다.",
+                                                               "하바는 비상 대책을 위해 디걸들의 지휘관인 마스터들을 소집하였다.",
+                                                               "당신은 마스터 중 한명으로 이곳으로 긴급히 소집 되었다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "하바",
+                                             "sentences":  [
+                                                               "상황은 방금 들으신 대로 입니다...",
+                                                               "인류에게 남은 시간은 단 30일...",
+                                                               "당신께서는 디걸들을 모집하여 인류 최후의 방어에 대비하여 주십시요.",
+                                                               "다른 마스터분들도 움직이실 것입니다.",
+                                                               "특별히 당신에게 걸고 있는 기대가 큽니다.",
+                                                               "디걸중에서도 SSS급 디걸인 크라노시아를 당신에게 맡기도록 하겠습니다.",
+                                                               "인류의 미래를... 부탁드립니다...",
+                                                               "대공동 정원에서 그녀를 만나시면 됩니다. "
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "나래이션",
+                                             "sentences":  [
+                                                               "하바의 말대로 대공동 중앙 공원에 도착했다.",
+                                                               "크라노시아는 유명한 디걸이다.",
+                                                               "분명히 큰 전력이 될 것이다.",
+                                                               "마침 그녀를 발견했다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "당신이 하바님께서 말씀하신 마스터인가요?",
+                                                               "하바님의 명령으로 배속된 크라노시아 라고합니다.",
+                                                               "차원의코드와 미래식카타나가 제 무기입니다.",
+                                                               "앞으로 30일간 마스터님을 보호하며 디걸들의 모집을 돕도록 하겠습니다.",
+                                                               "하바님께서 직접 배속 명령을 내리셨지만...",
+                                                               "제가 직접 마스터님의 능력을 판단하도록 하겠습니다."
+                                                           ],
+                                             "choices":  [
+                                                             "응 잘 부탁해.",
+                                                             "너의 도움이 필요해.",
+                                                             "나는 사실 싸우고 싶지 않아."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "아직 부족하군요.. 힘을 기르십시요.",
+                                                                   "예상보다는 괜찮군요...",
+                                                                   "끔찍하군요..."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Narration",
+                                                "sentences":  [
+                                                                  "This is the Grand Commune where humanity fled to escape the surface.",
+                                                                  "An underground land hidden somewhere on Earth",
+                                                                  "While avoiding enemies, they somehow manage to maintain a semblance of peace.",
+                                                                  "Artificial suns and artificial skies have been created,",
+                                                                  "and people were living their lives.",
+                                                                  "It could have been utter despair after being driven from the surface,",
+                                                                  "but humanity adapted and survived nonetheless..."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Emergency Broadcast",
+                                                "sentences":  [
+                                                                  "Emergency alert! Emergency alert!",
+                                                                  "An unidentified entity has invaded the central district of the Grand Commune!",
+                                                                  "All defense systems… Argh!!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "???",
+                                                "sentences":  [
+                                                                  "Combat androids lay fallen all around, sparking violently,",
+                                                                  "while people were screaming and fleeing in panic.",
+                                                                  "Amid that chaos, one figure—an android whose identity could not be determined—",
+                                                                  "stood calmly without a single scratch.",
+                                                                  "\"Record complete. Defense system efficiency 73.4%…\"",
+                                                                  "\"Average combat capability of designated D-Girls entities: C-rank…\"",
+                                                                  "\"The children of havas are far too weak…\""
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "You damn monster! What the hell are you doing here?!",
+                                                                  "Infernia — a D-Girls who charges in recklessly —",
+                                                                  "was blown away by the enemy with just a casual flick of a finger."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Eternia",
+                                                "sentences":  [
+                                                                  "This is as far as you go. I am Eternia, guardian of the Grand Commune.",
+                                                                  "I will stand in your way."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "???",
+                                                "sentences":  [
+                                                                  "Ho… An interesting entity has appeared.",
+                                                                  "A face not in the records. A special entity, perhaps?",
+                                                                  "But you are the same…"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Narration",
+                                                "sentences":  [
+                                                                  "Even Eternia\u0027s special technique, the Laser Photon Cannon,",
+                                                                  "was casually deflected by that android without her even flinching.",
+                                                                  "The girl, now showing a bored expression…"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Memento",
+                                                "sentences":  [
+                                                                  "My name is Memento… the Recorder…",
+                                                                  "I am a Nephilim working for Lady Lilith.",
+                                                                  "You all are far too weak…",
+                                                                  "This time I came simply to record,",
+                                                                  "but we will return again in 30 days.",
+                                                                  "To bring the great undertaking to completion…"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Narration",
+                                                "sentences":  [
+                                                                  "After the Nephilim Memento left and the battle ended…",
+                                                                  "This is the Central Management Center of the supercomputer havas, the command",
+                                                                  "havas had summoned the Master-class D-Girls commanders as an emergency measure.",
+                                                                  "You, as one of the Masters, were urgently summoned here."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "havas",
+                                                "sentences":  [
+                                                                  "The situation is exactly as you have just heard…",
+                                                                  "Humanity has only 30 days remaining.",
+                                                                  "I ask you to gather D-Girls and prepare for humanity’s final defense.",
+                                                                  "The other Masters will also begin to move.",
+                                                                  "Especially high expectations are placed on you.",
+                                                                  "Among the D-Girls, I will entrust you with Chronosia — an SSS-class D-Girls.",
+                                                                  "The future of humanity… I beg you…",
+                                                                  "You may meet her in the central plaza of the Grand Commune."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Narration",
+                                                "sentences":  [
+                                                                  "Following havas’s words, I arrived at the central plaza of the Grand Commune.",
+                                                                  "Chronosia is a famous D-Girls.",
+                                                                  "She will surely become a great fighting force.",
+                                                                  "And just then, I spotted her."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "Are you the Master that Lord havas spoke of?",
+                                                                  "I am Chronosia, dispatched by direct order from Lord havas.",
+                                                                  "My weapons are the Dimensional Code and the Future Scythe Katana.",
+                                                                  "For the next 30 days, I will protect Master and assist in gathering D-Girls.",
+                                                                  "Although Lord havas personally gave the dispatch order…",
+                                                                  "I would like to judge Master’s capability with my own eyes first."
+                                                              ],
+                                                "choices":  [
+                                                                "Yeah, I’ll be counting on you.",
+                                                                "I need your help.",
+                                                                "Actually… I don’t really want to fight."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Still lacking, I see… Please build up your strength.",
+                                                                      "Better than expected…",
+                                                                      "How pathetic…"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "반복전토(쉬움) 1.asset",
+                       "eventName":  "시뮬레이션 전투룸",
+                       "eventNameEng":  "Simulation Battle Room",
+                       "eventDescription":  "시뮬전투",
+                       "eventID":  "RepeateBattleEasy1",
+                       "dialogues":  [
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "시뮬레이션 상황입니다. 메탈리온과 전투합니다.",
+                                                               "그리 어려운 상대는 아닐 것 같습니다.",
+                                                               "어떻게 하시겠습니까. 마스터님?"
+                                                           ],
+                                             "choices":  [
+                                                             "단숨에 적들을 제압한다.",
+                                                             "지금은 싸우고 싶지 않다. 도망간다.",
+                                                             "적들의 움직임을 살펴본다."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "그럼 먼저 선제공격을 하겠습니다. 인카운터!",
+                                                                   "먼저 정비를 위해 우회하도록 하겠습니다.",
+                                                                   "적들은 뭔가를 찾고있는것 같습니다. 이곳을 발각되지는 않은것 같습니다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "This is a simulation scenario. You will be fighting Metalions.",
+                                                                  "They don\u0027t seem to be a difficult opponent.",
+                                                                  "What will you do, Master?"
+                                                              ],
+                                                "choices":  [
+                                                                "Subdue the enemies at once.",
+                                                                "I don\u0027t want to fight right now. Flee.",
+                                                                "Observe the enemies\u0027 movements."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Then I will launch a preemptive strike. Encounter!",
+                                                                      "I will make a detour for now to regroup.",
+                                                                      "The enemies seem to be looking for something. It doesn\u0027t seem like we\u0027ve"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "반복전토(쉬움).asset",
+                       "eventName":  "고대 데이터 코어 발견",
+                       "eventNameEng":  "Ancient Data Core Discovered",
+                       "eventDescription":  "고대 데이터 코어 발견",
+                       "eventID":  "RepeateBattleEasy0",
+                       "dialogues":  [
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "전방 150미터 소형 메탈리온 감지되었습니다.",
+                                                               "그리 어려운 상대는 아닐 것 같습니다.",
+                                                               "어떻게 하시겠습니까. 마스터님?"
+                                                           ],
+                                             "choices":  [
+                                                             "단숨에 적들을 제압한다.",
+                                                             "지금은 싸우고 싶지 않다. 도망간다.",
+                                                             "적들의 움직임을 살펴본다."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "그럼 먼저 선제공격을 하겠습니다. 인카운터!",
+                                                                   "먼저 정비를 위해 우회하도록 하겠습니다.",
+                                                                   "적들은 뭔가를 찾고있는것 같습니다. 이곳을 발각되지는 않은것 같습니다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "Small Metalions detected 150 meters ahead.",
+                                                                  "They don\u0027t seem to be a difficult opponent.",
+                                                                  "What will you do, Master?"
+                                                              ],
+                                                "choices":  [
+                                                                "Subdue the enemies at once.",
+                                                                "I don\u0027t want to fight right now. Flee.",
+                                                                "Observe the enemies\u0027 movements."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Then I will launch a preemptive strike. Encounter!",
+                                                                      "I will make a detour for now to regroup.",
+                                                                      "The enemies seem to be looking for something. It doesn\u0027t seem like we\u0027ve"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "반복전토(중간).asset",
+                       "eventName":  "고대 데이터 코어 발견",
+                       "eventNameEng":  "Ancient Data Core Discovered",
+                       "eventDescription":  "고대 데이터 코어 발견",
+                       "eventID":  "RepeatBattleMID",
+                       "dialogues":  [
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "전방 150미터 소형 메탈리온 감지되었습니다.",
+                                                               "그리 어려운 상대는 아닐 것 같습니다.",
+                                                               "어떻게 하시겠습니까. 마스터님?"
+                                                           ],
+                                             "choices":  [
+                                                             "단숨에 적들을 제압한다.",
+                                                             "지금은 싸우고 싶지 않다. 도망간다.",
+                                                             "적들의 움직임을 살펴본다."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "그럼 먼저 선제공격을 하겠습니다. 인카운터!",
+                                                                   "먼저 정비를 위해 우회하도록 하겠습니다.",
+                                                                   "적들은 뭔가를 찾고있는것 같습니다. 이곳을 발각되지는 않은것 같습니다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "Small Metalions detected 150 meters ahead.",
+                                                                  "They don\u0027t seem to be a difficult opponent.",
+                                                                  "What will you do, Master?"
+                                                              ],
+                                                "choices":  [
+                                                                "Subdue the enemies at once.",
+                                                                "I don\u0027t want to fight right now. Flee.",
+                                                                "Observe the enemies\u0027 movements."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Then I will launch a preemptive strike. Encounter!",
+                                                                      "I will make a detour for now to regroup.",
+                                                                      "The enemies seem to be looking for something. It doesn\u0027t seem like we\u0027ve"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "배틀시뮬레이터 1.asset",
+                       "eventName":  "고대 데이터 코어 발견",
+                       "eventNameEng":  "Ancient Data Core Discovered",
+                       "eventDescription":  "고대 데이터 코어 발견",
+                       "eventID":  "BattleSimulator002",
+                       "dialogues":  [
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "전투 시뮬레이터 룸 입니다.",
+                                                               "가상의 적들과 훈련하기 좋습니다.",
+                                                               "그럼 시작하겠습니다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "This is the Battle Simulator room.",
+                                                                  "It\u0027s good for training against virtual enemies.",
+                                                                  "Then let\u0027s begin."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "배틀시뮬레이터 2.asset",
+                       "eventName":  "고대 데이터 코어 발견",
+                       "eventNameEng":  "Ancient Data Core Discovered",
+                       "eventDescription":  "고대 데이터 코어 발견",
+                       "eventID":  "BattleSimulator003",
+                       "dialogues":  [
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "전투 시뮬레이터 룸 입니다.",
+                                                               "가상의 적들과 훈련하기 좋습니다.",
+                                                               "그럼 시작하겠습니다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "This is the Battle Simulator room.",
+                                                                  "It\u0027s good for training against virtual enemies.",
+                                                                  "Then let\u0027s begin."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "배틀시뮬레이터 3.asset",
+                       "eventName":  "고대 데이터 코어 발견",
+                       "eventNameEng":  "Ancient Data Core Discovered",
+                       "eventDescription":  "고대 데이터 코어 발견",
+                       "eventID":  "BattleSimulator004",
+                       "dialogues":  [
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "전투 시뮬레이터 룸 입니다.",
+                                                               "가상의 적들과 훈련하기 좋습니다.",
+                                                               "그럼 시작하겠습니다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "This is the Battle Simulator room.",
+                                                                  "It\u0027s good for training against virtual enemies.",
+                                                                  "Then let\u0027s begin."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "배틀시뮬레이터.asset",
+                       "eventName":  "고대 데이터 코어 발견",
+                       "eventNameEng":  "Ancient Data Core Discovered",
+                       "eventDescription":  "고대 데이터 코어 발견",
+                       "eventID":  "BattleSimulator001",
+                       "dialogues":  [
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "전투 시뮬레이터 룸 입니다.",
+                                                               "가상의 적들과 훈련하기 좋습니다.",
+                                                               "그럼 시작하겠습니다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "This is the Battle Simulator room.",
+                                                                  "It\u0027s good for training against virtual enemies.",
+                                                                  "Then let\u0027s begin."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "첫대화 1.asset",
+                       "eventName":  "첫대화",
+                       "eventNameEng":  "First Encounter",
+                       "eventDescription":  "\"\\uC81C\\uC77C\\uCC98\\uC74C \\uD06C\\uB77C\\uB178\\uC2DC\\uC544\\uC640\\uC758",
+                       "eventID":  "MainEvent_000",
+                       "dialogues":  [
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "당신이 하바님께서 말씀하신 마스터인가요?",
+                                                               "하바님의 명령으로 배속된 크라노시아 라고합니다.",
+                                                               "차원의코드와 미래식카타나가 제 무기입니다.",
+                                                               "앞으로 30일간 마스터님을 보호하며 디걸들의 모집을 돕도록 하겠습니다.",
+                                                               "하바님께서 직접 배속 명령을 내리셨지만...",
+                                                               "제가 직접 마스터님의 능력을 판단하도록 하겠습니다."
+                                                           ],
+                                             "choices":  [
+                                                             "응 잘 부탁해.",
+                                                             "너의 도움이 필요해.",
+                                                             "나는 사실 싸우고 싶지 않아."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "아직 부족하군요.. 힘을 기르십시요.",
+                                                                   "예상보다는 괜찮군요...",
+                                                                   "끔찍하군요..."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "첫대화.asset",
+                       "eventName":  "첫대화",
+                       "eventNameEng":  "First Encounter",
+                       "eventDescription":  "\"\\uC81C\\uC77C\\uCC98\\uC74C \\uD06C\\uB77C\\uB178\\uC2DC\\uC544\\uC640\\uC758",
+                       "eventID":  "MainEvent_000",
+                       "dialogues":  [
+                                         {
+                                             "character":  "나레이션",
+                                             "sentences":  [
+                                                               "이곳은 인류가 지상을 피해 도망쳐온 대공동.",
+                                                               "지구 어딘가에 숨겨진 땅속이지만",
+                                                               "적들을 피해 나름대로의 평화를 지내고 있다.",
+                                                               "인공태양과 하늘이 만들어져 있고, 사람들도 살아가고 있었다.",
+                                                               "어찌보면 지상에서 쫒겨난 후 절망 적일 수 있었지만",
+                                                               "인류는 그렇게 익숙해지며 살아내고 있었다..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "긴급방송",
+                                             "sentences":  [
+                                                               "긴급 경보! 긴급 경보!",
+                                                               "신원 불명의 개체가 대공동 중앙 구역 침입하였다!",
+                                                               "모든 방어시스템... 으악!!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "???",
+                                             "sentences":  [
+                                                               "사방에는 전투 안드로이드들이 쓰러져 스파크를 튀기고 있었고,",
+                                                               "사람들은 비명을 지르며 대피하고 있었다.",
+                                                               "그 혼돈 가운데 정체를 알 수 없는 안드로이드로 보이는 자는",
+                                                               "상처 하나 없이 고요히 서 있었다.",
+                                                               "\"기록 완료. 방어 시스템 효율 73.4%...\"",
+                                                               "\"디걸 개체별 전투 능력, 평균 C등급... \"",
+                                                               "\"하바의 아이들은 너무나도 약하구나...\""
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "이 괴물 자식! 여기서 뭘하는 거야!",
+                                                               "인페르니아라는 디걸이 덤벼들지만",
+                                                               "상대는 그저 손가락을 튕기는 것만으로 날려버렸다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "에테르니아",
+                                             "sentences":  [
+                                                               "거기까지입니다. 나 대공동의 수호자 에테르니아.",
+                                                               "당신의 앞을 막아서겠습니다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "???",
+                                             "sentences":  [
+                                                               "호오.. 흥미로운 개체가 나타났군.",
+                                                               "기록에 없는 얼굴이군. 특수 개체인가?",
+                                                               "하지만 너도 마찬가지다..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "나레이션",
+                                             "sentences":  [
+                                                               "에테르니아의 특수기술인 레이져 광자포에도",
+                                                               "그 안드로이드는 꿈쩍도 하지 않고 튕겨냈다.",
+                                                               "이내 흥미가 떨어졌다는 표정을 한 그녀는..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "메멘토",
+                                             "sentences":  [
+                                                               "나의 이름은 메멘토... 기록하는자이다...",
+                                                               "리리스님을 위해 일하는 네피림이지.",
+                                                               "너희들은 너무 약해 빠졌다..",
+                                                               "이번엔 단순히 기록을 위해 왔지만",
+                                                               "우리는 30일 후에 다시 올 것이다.",
+                                                               "위대한 업적을 마무리 하기 위해..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "나레이션",
+                                             "sentences":  [
+                                                               "네피림 메멘토가 돌아가고 전투가 끝난 후...",
+                                                               "이곳은 대공동의 지휘자 슈퍼 컴퓨터 하바의 컴퓨터 중앙 관리 센터이다.",
+                                                               "하바는 비상 대책을 위해 디걸들의 지휘관인 마스터들을 소집하였다.",
+                                                               "당신은 마스터 중 한명으로 이곳으로 긴급히 소집 되었다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "하바",
+                                             "sentences":  [
+                                                               "상황은 방금 들으신 대로 입니다...",
+                                                               "인류에게 남은 시간은 단 30일...",
+                                                               "당신께서는 디걸들을 모집하여 인류 최후의 방어에 대비하여 주십시요.",
+                                                               "다른 마스터분들도 움직이실 것입니다.",
+                                                               "특별히 당신에게 걸고 있는 기대가 큽니다.",
+                                                               "디걸중에서도 SSS급 디걸인 크라노시아를 당신에게 맡기도록 하겠습니다.",
+                                                               "인류의 미래를... 부탁드립니다...",
+                                                               "대공동 정원에서 그녀를 만나시면 됩니다. "
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "나래이션",
+                                             "sentences":  [
+                                                               "하바의 말대로 대공동 중앙 공원에 도착했다.",
+                                                               "크라노시아는 유명한 디걸이다.",
+                                                               "분명히 큰 전력이 될 것이다.",
+                                                               "마침 그녀를 발견했다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "당신이 하바님께서 말씀하신 마스터인가요?",
+                                                               "하바님의 명령으로 배속된 크라노시아 라고합니다.",
+                                                               "차원의코드와 미래식카타나가 제 무기입니다.",
+                                                               "앞으로 30일간 마스터님을 보호하며 디걸들의 모집을 돕도록 하겠습니다.",
+                                                               "하바님께서 직접 배속 명령을 내리셨지만...",
+                                                               "제가 직접 마스터님의 능력을 판단하도록 하겠습니다."
+                                                           ],
+                                             "choices":  [
+                                                             "응 잘 부탁해.",
+                                                             "너의 도움이 필요해.",
+                                                             "나는 사실 싸우고 싶지 않아."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "아직 부족하군요.. 힘을 기르십시요.",
+                                                                   "예상보다는 괜찮군요...",
+                                                                   "끔찍하군요..."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Narration",
+                                                "sentences":  [
+                                                                  "This is the Grand Commune where humanity fled to escape the surface.",
+                                                                  "An underground land hidden somewhere on Earth",
+                                                                  "While avoiding enemies, they somehow manage to maintain a semblance of peace.",
+                                                                  "Artificial suns and artificial skies have been created,",
+                                                                  "and people were living their lives.",
+                                                                  "It could have been utter despair after being driven from the surface,",
+                                                                  "but humanity adapted and survived nonetheless..."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Emergency Broadcast",
+                                                "sentences":  [
+                                                                  "Emergency alert! Emergency alert!",
+                                                                  "An unidentified entity has invaded the central district of the Grand Commune!",
+                                                                  "All defense systems… Argh!!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "???",
+                                                "sentences":  [
+                                                                  "Combat androids lay fallen all around, sparking violently,",
+                                                                  "while people were screaming and fleeing in panic.",
+                                                                  "Amid that chaos, one figure—an android whose identity could not be determined—",
+                                                                  "stood calmly without a single scratch.",
+                                                                  "\"Record complete. Defense system efficiency 73.4%…\"",
+                                                                  "\"Average combat capability of designated D-Girls entities: C-rank…\"",
+                                                                  "\"The children of havas are far too weak…\""
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "You damn monster! What the hell are you doing here?!",
+                                                                  "Infernia — a D-Girls who charges in recklessly —",
+                                                                  "was blown away by the enemy with just a casual flick of a finger."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Eternia",
+                                                "sentences":  [
+                                                                  "This is as far as you go. I am Eternia, guardian of the Grand Commune.",
+                                                                  "I will stand in your way."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "???",
+                                                "sentences":  [
+                                                                  "Ho… An interesting entity has appeared.",
+                                                                  "A face not in the records. A special entity, perhaps?",
+                                                                  "But you are the same…"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Narration",
+                                                "sentences":  [
+                                                                  "Even Eternia\u0027s special technique, the Laser Photon Cannon,",
+                                                                  "was casually deflected by that android without her even flinching.",
+                                                                  "The girl, now showing a bored expression…"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Memento",
+                                                "sentences":  [
+                                                                  "My name is Memento… the Recorder…",
+                                                                  "I am a Nephilim working for Lady Lilith.",
+                                                                  "You all are far too weak…",
+                                                                  "This time I came simply to record,",
+                                                                  "but we will return again in 30 days.",
+                                                                  "To bring the great undertaking to completion…"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Narration",
+                                                "sentences":  [
+                                                                  "After the Nephilim Memento left and the battle ended…",
+                                                                  "This is the Central Management Center of the supercomputer havas, the command",
+                                                                  "havas had summoned the Master-class D-Girls commanders as an emergency measure.",
+                                                                  "You, as one of the Masters, were urgently summoned here."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "havas",
+                                                "sentences":  [
+                                                                  "The situation is exactly as you have just heard…",
+                                                                  "Humanity has only 30 days remaining.",
+                                                                  "I ask you to gather D-Girls and prepare for humanity’s final defense.",
+                                                                  "The other Masters will also begin to move.",
+                                                                  "Especially high expectations are placed on you.",
+                                                                  "Among the D-Girls, I will entrust you with Chronosia — an SSS-class D-Girls.",
+                                                                  "The future of humanity… I beg you…",
+                                                                  "You may meet her in the central plaza of the Grand Commune."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Narration",
+                                                "sentences":  [
+                                                                  "Following havas’s words, I arrived at the central plaza of the Grand Commune.",
+                                                                  "Chronosia is a famous D-Girls.",
+                                                                  "She will surely become a great fighting force.",
+                                                                  "And just then, I spotted her."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "Are you the Master that Lord havas spoke of?",
+                                                                  "I am Chronosia, dispatched by direct order from Lord havas.",
+                                                                  "My weapons are the Dimensional Code and the Future Scythe Katana.",
+                                                                  "For the next 30 days, I will protect Master and assist in gathering D-Girls.",
+                                                                  "Although Lord havas personally gave the dispatch order…",
+                                                                  "I would like to judge Master’s capability with my own eyes first."
+                                                              ],
+                                                "choices":  [
+                                                                "Yeah, I’ll be counting on you.",
+                                                                "I need your help.",
+                                                                "Actually… I don’t really want to fight."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Still lacking, I see… Please build up your strength.",
+                                                                      "Better than expected…",
+                                                                      "How pathetic…"
+                                                                  ]
+                                            }
+                                        ]
+                   }
+               ]
+}

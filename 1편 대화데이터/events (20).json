@@ -1,0 +1,263 @@
+﻿{
+    "sourceFolder":  "Used\\Combo",
+    "eventCount":  5,
+    "events":  [
+                   {
+                       "sourceFile":  "c1_combo_glacisia_tempestra_01.asset",
+                       "eventName":  "얼음과 번개의 만남",
+                       "eventNameEng":  "Meeting of Ice and Thunder",
+                       "eventDescription":  "얼음과 번개의 만남",
+                       "eventID":  "combo_glacisia_tempestra_01",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "글래이시아! 당신의 냉기 능력, 정말 흥미로워요! 이게 상변이 과정에서 흡수되는 잠열 때문인가요? 아니면 분자 운동을 의도적으로 감속시키는 건가요?",
+                                                               "제 전기 채찍이랑 부딪히면 어떻게 될까요? 초전도 현상이라도...!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "글래이시아",
+                                             "sentences":  [
+                                                               "(당황하며 뒷걸음질 친다) 그, 글쎄요...? 전 그냥... 슬프면 추워져서... 너무 어려운 건 잘..."
+                                                           ],
+                                             "choices":  [
+                                                             "템페스트라, 질문은 나중에 하고 진정해요",
+                                                             "글래이시아, 템페스트라는 그냥 호기심이 많은 거예요",
+                                                             "두 사람, 의외로 좋은 콤비가 될지도?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "(조금 안심한 표정을 보이며 조금씩 도망간다)",
+                                                                   "아....저는 바쁜일이 생겨서 그만... 안녕히 계세요!",
+                                                                   "좋은... 콤비요...?  ",
+                                                                   "(글래이시아는 얼음안개를 뿌리더니 사라져 버렸다)"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Glacisia! Your cold-air ability is really fascinating! Is this because latent",
+                                                                  "What would happen if my electric discharge collided with it? Maybe we’d get some kind of plasma phenomenon…!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Glacisia",
+                                                "sentences":  [
+                                                                  "(Takes a step back in embarrassment) U-um… well…? I just… when I feel sad, it gets colder… it’s not really that complicated…"
+                                                              ],
+                                                "choices":  [
+                                                                "Tempestra, let’s save the questions for later and calm down",
+                                                                "Glacisia, Tempestra is just really curious, that’s all",
+                                                                "The two of you might actually make a surprisingly good combo?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "(Shows a slightly relieved expression and slowly backs away)",
+                                                                      "Ah… I-I just remembered I have something urgent… Goodbye!",
+                                                                      "A… good combo…?",
+                                                                      "(Glacisia scatters an ice mist and vanishes)"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "c1_lock_glacisia_use_device_01.asset",
+                       "eventName":  "뜻밖의 선물",
+                       "eventNameEng":  "Unexpected Gift",
+                       "eventDescription":  "뜻밖의 선물",
+                       "eventID":  "lock_glacisia_use_device_01",
+                       "dialogues":  [
+                                         {
+                                             "character":  "글래이시아",
+                                             "sentences":  [
+                                                               "마스터님... 저에게 무슨 할 말이라도...?",
+                                                               "왠지... 마스터님 주머니에서 시원한 기운이 느껴져요."
+                                                           ],
+                                             "choices":  [
+                                                             "이거, 당신을 위한 선물이에요",
+                                                             "[장치를 건넨다] 템페스트라가 당신을 위해 만들었어요",
+                                                             "아무것도 아니에요"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "절 위한... 선물이요? 제가... 받아도 될까요?",
+                                                                   "템페스트라가... 저를 위해서요...? 어째서... (눈가가 약간 붉어진다) ...고맙다고... 전해주세요...",
+                                                                   "아... 네... 알겠습니다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Glacia",
+                                                "sentences":  [
+                                                                  "Master... Is there something you wanted to say to me...?",
+                                                                  "I feel... a cool energy coming from your pocket, Master."
+                                                              ],
+                                                "choices":  [
+                                                                "This is a gift for you.",
+                                                                "[hands over the device] Tempestra made this for you.",
+                                                                "It\u0027s nothing special."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "A gift... for me? Would it... be okay for me to accept it?",
+                                                                      "Tempestra... made this for me...? Why... (her eyes become slightly red) ...please",
+                                                                      "Ah... I see... I understand."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "c1_lock_tempestra_get_device_01.asset",
+                       "eventName":  "그녀를 위한 발명품",
+                       "eventNameEng":  "Invention for Her",
+                       "eventDescription":  "그녀를 위한 발명품",
+                       "eventID":  "lock_tempestra_get_device_01",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터! 지난번에 글래이시아를 보고 영감이 떠올랐어요!",
+                                                               "이거, [저온 제어 장치 프로토타입]이에요. 감정이 격해질 때 냉기 출력을 안정시켜 줄 거예요.",
+                                                               "아직 완벽하진 않지만... 분명 도움이 될 거예요.",
+                                                               "제가 직접 주면 또 놀랄 것 같으니까... 마스터님이 대신 전해주실 수 있나요?"
+                                                           ],
+                                             "choices":  [
+                                                             "알겠어요, 제가 잘 전해줄게요",
+                                                             "정말 대단하네요, 템페스트라",
+                                                             "글래이시아가 정말 기뻐할 거예요"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "고마워요! 역시 마스터님은 믿음직해요!",
+                                                                   "헤헤, 이 정도는 기본이죠! 과학은 사람을 돕기 위해 있는 거니까요!",
+                                                                   "정말 그럴까요? 그랬으면 좋겠어요!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Glacia",
+                                                "sentences":  [
+                                                                  "Master... Is there something you wanted to say to me...?",
+                                                                  "I feel... a cool energy coming from your pocket, Master."
+                                                              ],
+                                                "choices":  [
+                                                                "This is a gift for you.",
+                                                                "[hands over the device] Tempestra made this for you.",
+                                                                "It\u0027s nothing special."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "A gift... for me? Would it... be okay for me to accept it?",
+                                                                      "Tempestra... made this for me...? Why... (her eyes become slightly red) ...please",
+                                                                      "Ah... I see... I understand."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "c1_main_plot_nephilim_core_01 1.asset",
+                       "eventName":  "의문의 메모리 코어",
+                       "eventNameEng":  "Mysterious Memory Core",
+                       "eventDescription":  "의문의 메모리 코어",
+                       "eventID":  "main_plot_nephilim_core_01_1",
+                       "dialogues":  [
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "마스터님, 그 코어는... 저희 디걸의 것과 유사하지만, 심하게 변질되고 오염되어 있군요.",
+                                                               "적의 정보를 얻을 수 있을지도 몰라요.",
+                                                               "하바님께 보고하여 분석을 요청하는 것이 좋겠습니다.",
+                                                               "어떻게 할까요, 마스터님?"
+                                                           ],
+                                             "choices":  [
+                                                             "좋아요, 하바님께 보고해주세요",
+                                                             "위험해 보이니 두고 가지요",
+                                                             "크라노시아에게 맡길께요"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "알겠습니다. 즉시 하바님께 보고하겠습니다. (며칠 뒤) ...하바님께서 분석했지만 위험한 바이러스뿐이라 폐기하셨다고 합니다.",
+                                                                   "알겠습니다. 그대로 두고 가시지요",
+                                                                   "음.. 일단 그대로 두는게 좋겠습니다. 상부에는 보고하도록 하겠습니다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "Master, that core... is similar to ours D-Girls\u0027, but it has been severely",
+                                                                  "We might be able to obtain enemy information from it.",
+                                                                  "I think it would be best to report it to Hava and request an analysis.",
+                                                                  "What would you like to do, Master?"
+                                                              ],
+                                                "choices":  [
+                                                                "Okay, please report it to Hava.",
+                                                                "It looks dangerous, so let\u0027s leave it.",
+                                                                "I\u0027ll leave it in your hands, Chronosia."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Understood. I will report it to Hava immediately. (A few days later) ...Hava",
+                                                                      "Understood. We\u0027ll leave it as is and go.",
+                                                                      "Hmm... I think it\u0027s best to leave it as is for now. I will report it to the"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "c1_main_plot_nephilim_core_01.asset",
+                       "eventName":  "의문의 메모리 코어",
+                       "eventNameEng":  "Mysterious Memory Core",
+                       "eventDescription":  "의문의 메모리 코어",
+                       "eventID":  "main_plot_nephilim_core_01",
+                       "dialogues":  [
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "마스터님, 그 코어는... 저희 디걸의 것과 유사하지만, 심하게 변질되고 오염되어 있군요.",
+                                                               "적의 정보를 얻을 수 있을지도 몰라요.",
+                                                               "하바님께 보고하여 분석을 요청하는 것이 좋겠습니다.",
+                                                               "어떻게 할까요, 마스터님?"
+                                                           ],
+                                             "choices":  [
+                                                             "좋아요, 하바님께 보고해주세요",
+                                                             "잠깐, 하바님께 보고하기 전에... 템페스트라에게 먼저 분석을 부탁해보죠."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "알겠습니다. 즉시 하바님께 보고하겠습니다. (며칠 뒤) ...하바님께서 분석했지만 위험한 바이러스뿐이라 폐기하셨다고 합니다.",
+                                                                   "템페스트라 님에게요? ...알겠습니다. 마스터님의 판단을 믿겠습니다. (이후 템페스트라와 대화 시 특별 분석 이벤트 발생)"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "Master, that core... is similar to ours D-Girls\u0027, but it has been severely",
+                                                                  "We might be able to obtain enemy information from it.",
+                                                                  "I think it would be best to report it to Hava and request an analysis.",
+                                                                  "What would you like to do, Master?"
+                                                              ],
+                                                "choices":  [
+                                                                "Okay, please report it to Hava.",
+                                                                "Wait, before reporting to Hava... Let me ask Tempestra to analyze it first."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Understood. I will report it to Hava immediately. (A few days later) ...Hava",
+                                                                      "To Tempestra? ...Understood. I will trust your judgment, Master. (A special"
+                                                                  ]
+                                            }
+                                        ]
+                   }
+               ]
+}

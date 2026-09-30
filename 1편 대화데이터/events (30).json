@@ -1,0 +1,669 @@
+﻿{
+    "sourceFolder":  "Used\\PreInvasion\\NEphirimBak",
+    "eventCount":  7,
+    "events":  [
+                   {
+                       "sourceFile":  "1_Nephirim_Sub_Baal 1.asset",
+                       "eventName":  "증오의 바알",
+                       "eventNameEng":  "Baal of Hatred",
+                       "eventDescription":  "증오의 힘",
+                       "eventID":  "1_Nephirim_Sub_Baal_after",
+                       "dialogues":  [
+                                         {
+                                             "character":  "바알 - 투쟁의 화신",
+                                             "sentences":  [
+                                                               "크윽... 이대로 당하고 말다니..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "우리의 영웅들을 짖밟은 놈.. 잘가라..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_Nephirim_Sub_Baal.asset",
+                       "eventName":  "증오의 바알",
+                       "eventNameEng":  "Baal of Hatred",
+                       "eventDescription":  "증오의 힘",
+                       "eventID":  "1_Nephirim_Sub_Baal0",
+                       "dialogues":  [
+                                         {
+                                             "character":  "나래이션",
+                                             "sentences":  [
+                                                               "붕괴된 일대 가운데 네피림 한명이 서 있었다.",
+                                                               "거대한 살기를 내뿜고 있는 그녀는 분명...",
+                                                               "네피림 바알이다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "우리의 영웅들을 짖밟은 놈!!",
+                                                               "드디어 만났구나! 내가 너를 불태워 주겠다!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "바알 - 투쟁의 화신",
+                                             "sentences":  [
+                                                               "..인페르니아. 싸우는 이유가... 있나?"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "이유? 당연하지! 동료들을 지키고, 나쁜 놈들 다 태워버리는 거야!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "바알 - 투쟁의 화신",
+                                             "sentences":  [
+                                                               "동료... 지키는 것... 그런 게... 있었나."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "뭔가 슬퍼 보이네? 왜 그렇게 텅 빈 눈을 하고 있어?"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "바알 - 투쟁의 화신",
+                                             "sentences":  [
+                                                               "예전엔... 지킬 것이 있었다. 하지만... 모두 부서졌다.",
+                                                               "이제는... 파괴만이... 존재의 이유다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "그렇지 않아! 싸움에는 분명한 목적이 있어야 해!",
+                                                               "나는 화염의 코드로 모든 악을 태워버릴 거야! 그게 내 목적이라고!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "바알 - 투쟁의 화신",
+                                             "sentences":  [
+                                                               "목적? 그런 건... 사치다.",
+                                                               "오직... 강한 자와 싸우고... 부수고... 부서지는 것만이..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "목적 없는 싸움은... 그냥 폭력일 뿐이야!",
+                                                               "내 화염의 코드로... 네 얼어붙은 마음을 녹여주겠어!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "바알 - 투쟁의 화신",
+                                             "sentences":  [
+                                                               "폭력이든... 뭐든... 상관없다. 싸우자."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_Nephirim_Sub_Lethe 1.asset",
+                       "eventName":  "망각의 서리",
+                       "eventNameEng":  "Frost of Oblivion",
+                       "eventDescription":  "망각의 서리",
+                       "eventID":  "1_Nephirim_Sub_Lethe_after",
+                       "dialogues":  [
+                                         {
+                                             "character":  "레테 - 망각의 서리",
+                                             "sentences":  [
+                                                               "크윽... 내 얼음의 코드는 여기 까지인가..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "글레이시아",
+                                             "sentences":  [
+                                                               "이제 그 슬픔도 같이 땅속에... 편히 쉬어요.."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "레테 - 망각의 서리",
+                                             "sentences":  [
+                                                               "(비웃으며) 크으... 마지막까지 나에게 감정을 강요할텐가...",
+                                                               "헤카테님.. 저는 여기 까지입니다... 부디 놈들을...!!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "글레이시아",
+                                             "sentences":  [
+                                                               "레테... 파워 다운..",
+                                                               "헤카테라고?... 또다른 네피림인가...",
+                                                               "정보를 모아야 겠어요."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_Nephirim_Sub_Lethe 2.asset",
+                       "eventName":  "망각의 서리",
+                       "eventNameEng":  "Frost of Oblivion",
+                       "eventDescription":  "망각의 서리",
+                       "eventID":  "1_Nephirim_Sub_Lethe_after_run",
+                       "dialogues":  [
+                                         {
+                                             "character":  "레테 - 망각의 서리",
+                                             "sentences":  [
+                                                               "크윽... 내 얼음의 코드는 여기 까지인가..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "글레이시아",
+                                             "sentences":  [
+                                                               "이제 그 슬픔도 같이 땅속에... 편히 쉬어요.."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "레테 - 망각의 서리",
+                                             "sentences":  [
+                                                               "(비웃으며) 크으... 마지막까지 나에게 감정을 강요할텐가...",
+                                                               "헤카테님.. 저는 여기 까지입니다... 부디 놈들을...!!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "글레이시아",
+                                             "sentences":  [
+                                                               "레테... 파워 다운..",
+                                                               "헤카테라고?... 또다른 네피림인가...",
+                                                               "정보를 모아야 겠어요."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_Nephirim_Sub_Lethe.asset",
+                       "eventName":  "망각의 서리",
+                       "eventNameEng":  "Frost of Oblivion",
+                       "eventDescription":  "망각의 서리",
+                       "eventID":  "1_Nephirim_Sub_Lethe",
+                       "dialogues":  [
+                                         {
+                                             "character":  "나래이션",
+                                             "sentences":  [
+                                                               "이미 대공동 외곽에 네피림으로 보이는 안드로이드가 도달했다..",
+                                                               "..또 다른... 얼음의 코드 사용자..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "글레이시아",
+                                             "sentences":  [
+                                                               "이 차가운 기운.. 당신이 레테인가요?",
+                                                               "대공동을 해킹했던게... 바로 당신이죠...!!!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "레테 - 망각의 서리",
+                                             "sentences":  [
+                                                               "(감정 없는 목소리로) ...맞아. 나는... 얼음의 코드로 모든 걸 얼려버린 존재.",
+                                                               "대공동도 천천히 얼려버리려고 했지."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "글레이시아",
+                                             "sentences":  [
+                                                               "왜 이렇게 차갑게 자신을 가둬두시나요? 그 마음속 깊은 슬픔이 느껴져요."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "레테 - 망각의 서리",
+                                             "sentences":  [
+                                                               "...슬픔? 나는... 아무것도 느끼지 않아.",
+                                                               "내 얼음의 코드는... 사랑하는 이들을 상처입혔어. 헤카테까지도..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "글레이시아",
+                                             "sentences":  [
+                                                               "저도... 제 얼음의 코드를 두려워했어요. 누군가를 다치게 할까봐..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "레테 - 망각의 서리",
+                                             "sentences":  [
+                                                               "(조금 감정이 스며든 목소리로) \"그럼... 왜 아직도... 느끼려고 해?"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "글레이시아",
+                                             "sentences":  [
+                                                               "혼자서는... 너무 추우니까요. 따뜻함을 나누고 싶어요"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "레테 - 망각의 서리",
+                                             "sentences":  [
+                                                               "나눈다고? 바보 같은... 결국... 모든 감정은 고통일 뿐이야.",
+                                                               "차라리... 얼음의 코드로 모든 걸 얼려버리는 게... 평안해"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "글레이시아",
+                                             "sentences":  [
+                                                               "그렇지 않아요! 추위 속에서도.. 따뜻함을 찾을 수 있어요!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "레테 - 망각의 서리",
+                                             "sentences":  [
+                                                               "... 입 다물어. 그런희망... 모두 얼려줄께...!!!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_Nephirim_Sub_Memento 1.asset",
+                       "eventName":  "메멘토 승리후",
+                       "eventNameEng":  "After Memento\u0027s Defeat",
+                       "eventDescription":  "기록하는자",
+                       "eventID":  "1_Nephirim_Sub_Memento 1",
+                       "dialogues":  [
+                                         {
+                                             "character":  "메멘토 - 기록하는자",
+                                             "sentences":  [
+                                                               "이럴수가.. 짧은 기간안에 이렇게 까지 성장하다니..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "에테르니아",
+                                             "sentences":  [
+                                                               "여기까지입니다 메멘토...",
+                                                               "더이상 인류를 괴롭히지 말고 항복하세요."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "메멘토 - 기록하는 자",
+                                             "sentences":  [
+                                                               "크크큭... 고작 이정도 가지고 지상을 탈환하려 하는가..?",
+                                                               "나의 주군께서 30일 되는날 대군을 이끌고 오실것이다..",
+                                                               "너희들의 데이터는 이미 송부되었으니 ..",
+                                                               "(메멘토는 자리에 쓰러져 버렸다)"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "에테르니아",
+                                             "sentences":  [
+                                                               "메멘토... 파워 다운..",
+                                                               "다음번에는 네피림의 총 사령관과 상대해야 될 수도 있겠군요...",
+                                                               "마스터님. 인류를 위해 더 강해지도록 하겠어요.",
+                                                               "마스터님을 위해서도..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_Nephirim_Sub_Memento.asset",
+                       "eventName":  "기록자의진실",
+                       "eventNameEng":  "Truth of the Archivist",
+                       "eventDescription":  "메멘토 전투",
+                       "eventID":  "1_Nephirim_Sub_Memento0",
+                       "dialogues":  [
+                                         {
+                                             "character":  "메멘토 - 기록하는자",
+                                             "sentences":  [
+                                                               "공주님이... 직접 오셨군요.."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "에테르니아",
+                                             "sentences":  [
+                                                               "네가 메멘토인가? 리리스의 기록을 담당하는...",
+                                                               "이 기운은...!!",
+                                                               "(눈으로 보기에도 네피림은 강력한 힘을 발산하고 있었다.)",
+                                                               "(생김새는 디걸들과 마찬가지 였지만)",
+                                                               "(그녀... 아니 그것은 인간이길 포기한 자 같았다...)"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "메멘토 - 기록하는자",
+                                             "sentences":  [
+                                                               "(슬픈 미소를 지으며) 기록... 그래요. 저는 모든것을 기록하고 기억하죠.",
+                                                               "에테르니아... 고결한 기사도를 믿는 순수한 공주님.",
+                                                               "당신의 기사도는 허상일 뿐입니다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "에테르니아",
+                                             "sentences":  [
+                                                               "허상이라고? 내 기사도는 진심이야!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "메멘토 - 기록하는자",
+                                             "sentences":  [
+                                                               "그럼 이 기록들은 어떻게 설명하시겠어요?",
+                                                               "[홀로그램이 펼쳐지며 수많은 데이터가 투영된다]",
+                                                               "디걸 프로토타입 #0001 - 폐기",
+                                                               "디걸 프로토타입 #0002 - 폐기",
+                                                               "#0099 까지.. 모두 하바가 버린 실패작들이에요."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "에테르니아",
+                                             "sentences":  [
+                                                               "그... 그런 기록은 처음봐...!!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "메멘토 - 기록하는자",
+                                             "sentences":  [
+                                                               "물론이죠.. 불편한 진실은.. 항상 숨겨지니까요.",
+                                                               "당신도 언젠가는 이 목록에 추가될 거에요.",
+                                                               "\u0027에테르니아 - 폐기\u0027 라고 말이죠."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "에테르니아",
+                                             "sentences":  [
+                                                               "설령 그렇다 해도. 지금 내가 지키고 싶은 마음은 가짜가 아니야!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "메멘토 - 기록하는자",
+                                             "sentences":  [
+                                                               "그 순수함이 .. 부럽기도 하네요. 하지만..",
+                                                               "진실은 언젠가 당신을 찾아갈 거에요...",
+                                                               "자.. 갑니다!!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   }
+               ]
+}

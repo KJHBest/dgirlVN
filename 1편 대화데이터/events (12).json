@@ -1,0 +1,227 @@
+﻿{
+    "sourceFolder":  "CardDatas\\Fire",
+    "eventCount":  17,
+    "events":  [
+                   {
+                       "sourceFile":  "블레이징 러쉬 1.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "블레이징 러쉬 2.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "블레이징 러쉬.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "열폭멸진.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "인페르노 드라이브 1.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "인페르노 드라이브 2.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "인페르노 드라이브.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "초열폭멸진.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "파이어볼 1.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "파이어볼 2.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "파이어볼.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "파이어스톰 1.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "파이어스톰 2.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "파이어스톰.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "히트너클 1.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "히트너클 2.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "히트너클.asset",
+                       "eventName":  "",
+                       "eventNameEng":  "",
+                       "eventDescription":  "",
+                       "eventID":  "",
+                       "dialogues":  [
+
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   }
+               ]
+}

@@ -1,0 +1,706 @@
+﻿{
+    "sourceFolder":  "CouterStrike\\InstantBattle",
+    "eventCount":  20,
+    "events":  [
+                   {
+                       "sourceFile":  "InstantBattle 0.asset",
+                       "eventName":  "Battle",
+                       "eventNameEng":  "",
+                       "eventDescription":  "battle",
+                       "eventID":  "InstantBattle0",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "일행은 길을 가다가 메탈리온 무리를 조우한다.\t전투가 시작된다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "The party encounters a group of Metalions while traveling the road.\tBattle begins."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "InstantBattle 1.asset",
+                       "eventName":  "Battle",
+                       "eventNameEng":  "",
+                       "eventDescription":  "battle",
+                       "eventID":  "InstantBattle1",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "일행은 길을 가다가 메탈리온 무리를 조우한다.\t전투가 시작된다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "The party encounters a group of Metalions while traveling the road.\tBattle begins."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "InstantBattle 10.asset",
+                       "eventName":  "Battle",
+                       "eventNameEng":  "",
+                       "eventDescription":  "battle",
+                       "eventID":  "InstantBattle10",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "일행은 길을 가다가 메탈리온 무리를 조우한다.\t전투가 시작된다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "The party encounters a group of Metalions while traveling the road.\tBattle begins."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "InstantBattle 11.asset",
+                       "eventName":  "Battle",
+                       "eventNameEng":  "",
+                       "eventDescription":  "battle",
+                       "eventID":  "InstantBattle11",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "일행은 길을 가다가 메탈리온 무리를 조우한다.\t전투가 시작된다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "The party encounters a group of Metalions while traveling the road.\tBattle begins."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "InstantBattle 12.asset",
+                       "eventName":  "Battle",
+                       "eventNameEng":  "",
+                       "eventDescription":  "battle",
+                       "eventID":  "InstantBattle12",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "일행은 길을 가다가 메탈리온 무리를 조우한다.\t전투가 시작된다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "The party encounters a group of Metalions while traveling the road.\tBattle begins."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "InstantBattle 13.asset",
+                       "eventName":  "Battle",
+                       "eventNameEng":  "",
+                       "eventDescription":  "battle",
+                       "eventID":  "InstantBattle13",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "일행은 길을 가다가 메탈리온 무리를 조우한다.\t전투가 시작된다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "The party encounters a group of Metalions while traveling the road.\tBattle begins."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "InstantBattle 14.asset",
+                       "eventName":  "Battle",
+                       "eventNameEng":  "",
+                       "eventDescription":  "battle",
+                       "eventID":  "InstantBattle14",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "일행은 길을 가다가 메탈리온 무리를 조우한다.\t전투가 시작된다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "The party encounters a group of Metalions while traveling the road.\tBattle begins."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "InstantBattle 15.asset",
+                       "eventName":  "Battle",
+                       "eventNameEng":  "",
+                       "eventDescription":  "battle",
+                       "eventID":  "InstantBattle15",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "일행은 길을 가다가 메탈리온 무리를 조우한다.\t전투가 시작된다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "The party encounters a group of Metalions while traveling the road.\tBattle begins."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "InstantBattle 16.asset",
+                       "eventName":  "Battle",
+                       "eventNameEng":  "",
+                       "eventDescription":  "battle",
+                       "eventID":  "InstantBattle16",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "일행은 길을 가다가 메탈리온 무리를 조우한다.\t전투가 시작된다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "The party encounters a group of Metalions while traveling the road.\tBattle begins."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "InstantBattle 17.asset",
+                       "eventName":  "Battle",
+                       "eventNameEng":  "",
+                       "eventDescription":  "battle",
+                       "eventID":  "InstantBattle17",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "일행은 길을 가다가 메탈리온 무리를 조우한다.\t전투가 시작된다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "The party encounters a group of Metalions while traveling the road.\tBattle begins."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "InstantBattle 18.asset",
+                       "eventName":  "Battle",
+                       "eventNameEng":  "",
+                       "eventDescription":  "battle",
+                       "eventID":  "InstantBattle18",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "일행은 길을 가다가 메탈리온 무리를 조우한다.\t전투가 시작된다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "The party encounters a group of Metalions while traveling the road.\tBattle begins."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "InstantBattle 19.asset",
+                       "eventName":  "Battle",
+                       "eventNameEng":  "",
+                       "eventDescription":  "battle",
+                       "eventID":  "InstantBattle19",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "일행은 길을 가다가 메탈리온 무리를 조우한다.\t전투가 시작된다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "The party encounters a group of Metalions while traveling the road.\tBattle begins."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "InstantBattle 2.asset",
+                       "eventName":  "Battle",
+                       "eventNameEng":  "",
+                       "eventDescription":  "battle",
+                       "eventID":  "InstantBattle2",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "일행은 길을 가다가 메탈리온 무리를 조우한다.\t전투가 시작된다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "The party encounters a group of Metalions while traveling the road.\tBattle begins."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "InstantBattle 3.asset",
+                       "eventName":  "Battle",
+                       "eventNameEng":  "",
+                       "eventDescription":  "battle",
+                       "eventID":  "InstantBattle3",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "일행은 길을 가다가 메탈리온 무리를 조우한다.\t전투가 시작된다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "The party encounters a group of Metalions while traveling the road.\tBattle begins."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "InstantBattle 4.asset",
+                       "eventName":  "Battle",
+                       "eventNameEng":  "",
+                       "eventDescription":  "battle",
+                       "eventID":  "InstantBattle4",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "일행은 길을 가다가 메탈리온 무리를 조우한다.\t전투가 시작된다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "The party encounters a group of Metalions while traveling the road.\tBattle begins."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "InstantBattle 5.asset",
+                       "eventName":  "Battle",
+                       "eventNameEng":  "",
+                       "eventDescription":  "battle",
+                       "eventID":  "InstantBattle5",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "일행은 길을 가다가 메탈리온 무리를 조우한다.\t전투가 시작된다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "The party encounters a group of Metalions while traveling the road.\tBattle begins."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "InstantBattle 6.asset",
+                       "eventName":  "Battle",
+                       "eventNameEng":  "",
+                       "eventDescription":  "battle",
+                       "eventID":  "InstantBattle6",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "일행은 길을 가다가 메탈리온 무리를 조우한다.\t전투가 시작된다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "The party encounters a group of Metalions while traveling the road.\tBattle begins."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "InstantBattle 7.asset",
+                       "eventName":  "Battle",
+                       "eventNameEng":  "",
+                       "eventDescription":  "battle",
+                       "eventID":  "InstantBattle7",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "일행은 길을 가다가 메탈리온 무리를 조우한다.\t전투가 시작된다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "The party encounters a group of Metalions while traveling the road.\tBattle begins."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "InstantBattle 8.asset",
+                       "eventName":  "Battle",
+                       "eventNameEng":  "",
+                       "eventDescription":  "battle",
+                       "eventID":  "InstantBattle8",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "일행은 길을 가다가 메탈리온 무리를 조우한다.\t전투가 시작된다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "The party encounters a group of Metalions while traveling the road.\tBattle begins."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "InstantBattle 9.asset",
+                       "eventName":  "Battle",
+                       "eventNameEng":  "",
+                       "eventDescription":  "battle",
+                       "eventID":  "InstantBattle9",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "일행은 길을 가다가 메탈리온 무리를 조우한다.\t전투가 시작된다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "The party encounters a group of Metalions while traveling the road.\tBattle begins."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   }
+               ]
+}

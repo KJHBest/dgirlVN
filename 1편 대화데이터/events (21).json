@@ -1,0 +1,943 @@
+﻿{
+    "sourceFolder":  "Invasion",
+    "eventCount":  13,
+    "events":  [
+                   {
+                       "sourceFile":  "0_invasion_start_001.asset",
+                       "eventName":  "메탈리온의 침공이 시작되다",
+                       "eventNameEng":  "The Metalion Invasion Begins",
+                       "eventDescription":  "메탈리온의 침공이 시작되다",
+                       "eventID":  "invasion_start_001",
+                       "dialogues":  [
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "마스터님!",
+                                                               "동쪽 구역... 아니 동쪽 뿐만이 아니에요. 서쪽. 남쪽...",
+                                                               "모든 방향에서 동시에 에너지 반응이 감지되고 있습니다!",
+                                                               "이건... 이건 제가 예상했던 규모를 완전히 넘어서는..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "잠깐만요! 이 수치... 제가 잘못 본 건가요?",
+                                                               "메탈리온 1000체... 아니, 1500... 계속 늘어나고 있어요!",
+                                                               "전자기장 간섭 패턴을 분석해보니... 네피림급 에너지 신호도 최소 6개체 이상 감지됩니다!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "으하하하! 드디어! 드디어 왔구나!",
+                                                               "기다리고 기다렸어! 메탈리온 놈들! 네피림 놈들!",
+                                                               "이번엔 확실하게! 전부! 하나도 남김없이! 다 태워버릴 거야!",
+                                                               "마스터! 내가 먼저 나가도 되지? 응?!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "에테르니아",
+                                             "sentences":  [
+                                                               "인페르니아, 진정해. 무작정 돌진하면 위험해.",
+                                                               "마스터님, 제가 선봉에 서겠습니다.",
+                                                               "왕족으로서... 아니, 마스터님의 기사로서, 모두를 지켜드리는 것이 제 의무입니다.",
+                                                               "제 메카닉 윙으로 상공을 제압하고, 적의 진형을 파악한 후 보고드리겠습니다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "글래이시아",
+                                             "sentences":  [
+                                                               "아... 아아...",
+                                                               "이렇게... 이렇게 많은 적이...",
+                                                               "화면으로만 봐도 손이 떨려요... 실제로 마주하면...",
+                                                               "우리가... 정말 이길 수 있을까요? 마스터님...?"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "루미네시아",
+                                             "sentences":  [
+                                                               "흠... 흥미롭구나.",
+                                                               "운명의 물결이 크게 일렁이고 있노라. 마치 거대한 폭풍 전야와 같구나.",
+                                                               "그런데... 이상하노라. 이 패턴... 어디선가 본 것 같은...",
+                                                               "아니, 그럴 리 없겠지. 허나 이 기시감은 대체...",
+                                                               "마스터님, 이번 전투는 단순한 전쟁이 아닐 것 같노라. 뭔가... 더 큰 의미가 숨겨져 있는 것 같구나."
+                                                           ],
+                                             "choices":  [
+                                                             "모두들 침착해.. 우리가 30일동안 준비한 순간이야.",
+                                                             "두려움은 이해하지만 우리는 함께야.",
+                                                             "나도 솔직히 무섭네... 하지만 너희들을 믿을"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "그렇다. 이순간을 위해 30일동안 준비했노라.",
+                                                                   "그렇다. 우리는 함께이기 때문에 이길것이다.",
+                                                                   "두려워 말거라! 우리가 있지 않느냐."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "Master!",
+                                                                  "The eastern sector… No, not just the east.   The west. The south…",
+                                                                  "Energy reactions are being detected simultaneously from all directions!",
+                                                                  "This… this completely exceeds the scale I had predicted…"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Wait a moment! These numbers… Did I see them wrong?",
+                                                                  "Metalion count 1000… No, 1500… and it\u0027s still increasing!",
+                                                                  "After analyzing the electromagnetic interference pattern…   At least 6 Nephilim-class energy signatures have been detected!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Hahahaha! Finally! They\u0027re finally here!",
+                                                                  "I\u0027ve waited and waited! Those Metalion bastards! Those Nephilim scum!",
+                                                                  "This time for sure! All of them! Not a single one left!   I\u0027m gonna burn them",
+                                                                  "Master! Is it okay if I head out first? Huh?!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Ethernia",
+                                                "sentences":  [
+                                                                  "Infernia, calm down. Charging in recklessly is dangerous.",
+                                                                  "Master, I shall take the lead.",
+                                                                  "As royalty… No, as your knight,   it is my duty to protect everyone.",
+                                                                  "I will use my mechanic wings to suppress the airspace,   grasp the enemy\u0027s"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Glacia",
+                                                "sentences":  [
+                                                                  "Ah… Aah…",
+                                                                  "So many… So many enemies…",
+                                                                  "Even just looking at the screen my hands are shaking…   If I actually face them…",
+                                                                  "Can we… really win this?   Master…?"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Luminesia",
+                                                "sentences":  [
+                                                                  "Hmm… Interesting.",
+                                                                  "The waves of fate are surging greatly.   Like a colossal storm before the eve",
+                                                                  "However… something feels off. This pattern…   It feels like I\u0027ve seen it somewhere before…",
+                                                                  "No, that can\u0027t be. Still, this sense of d\\xE9j\\xE0 vu is…",
+                                                                  "Master, this battle does not seem to be a simple war.   It feels like something… something greater is hidden within."
+                                                              ],
+                                                "choices":  [
+                                                                "Everyone, stay calm… This is the moment we\u0027ve prepared for over the past 30 days.",
+                                                                "I understand the fear, but we must stand together.",
+                                                                "Honestly, I\u0027m scared too… But I believe in all of you."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Indeed. We have prepared for this moment for the past 30 days.",
+                                                                      "Indeed. We will win because we are together.",
+                                                                      "Be afraid! Because we are here."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_Nephirim_Sub_Baal2.asset",
+                       "eventName":  "증오의 바알",
+                       "eventNameEng":  "Baal of Hatred",
+                       "eventDescription":  "증오의 힘",
+                       "eventID":  "1_Nephirim_Sub_Baal2",
+                       "dialogues":  [
+                                         {
+                                             "character":  "바알 - 투쟁의 화신",
+                                             "sentences":  [
+                                                               "오늘은 진심으로 대해주마",
+                                                               "허가 받은 날이니 마음껏 짓밟아주마..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "크윽... 우리도 네녀석을 가만 놔둘 생각이 없다!",
+                                                               "마스터! 가자! 인카운터다!!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Baal - Avatar of Struggle",
+                                                "sentences":  [
+                                                                  "Today, treat me with all you\u0027ve got.",
+                                                                  "Now that I\u0027ve been granted permission, I can trample you to my heart\u0027s content..."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Ugh... we won\u0027t let you get away either!",
+                                                                  "Master! Let\u0027s go! Encounter!!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_Nephirim_Sub_Lethe2.asset",
+                       "eventName":  "망각의 서리",
+                       "eventNameEng":  "Frost of Oblivion",
+                       "eventDescription":  "망각의 서리",
+                       "eventID":  "1_Nephirim_Sub_Lethe2",
+                       "dialogues":  [
+                                         {
+                                             "character":  "글레이시아",
+                                             "sentences":  [
+                                                               "레테다!! 대공동에서의 설욕을 오늘에서 씻을 수 있게 되었습니다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "망각의 서리 - 레테",
+                                             "sentences":  [
+                                                               "(감정 없는 목소리로) ...약한 존재는 여기서 사라져 줘야겠어.",
+                                                               "이제는 지긋지긋하니까."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "글레이시아",
+                                             "sentences":  [
+                                                               "오늘을 위해 우리들은 실력을 갈고 닦았어요.\n마스터님! 지휘를 부탁합니다!",
+                                                               "인카운터!!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Glacia",
+                                                "sentences":  [
+                                                                  "Lethe!! Today we can avenge the humiliation in the Underground cavern."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Frost of Oblivion - Lethe",
+                                                "sentences":  [
+                                                                  "(In an emotionless voice) ...weak beings should disappear here.",
+                                                                  "Because I\u0027ve had enough of it now."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Glacia",
+                                                "sentences":  [
+                                                                  "\u0027We have honed our skills for today.",
+                                                                  "Encounter!!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_Nephirim_Sub_Memento2.asset",
+                       "eventName":  "기록자의진실",
+                       "eventNameEng":  "Truth of the Archivist",
+                       "eventDescription":  "메멘토 전투",
+                       "eventID":  "1_Nephirim_Sub_Memento2",
+                       "dialogues":  [
+                                         {
+                                             "character":  "메멘토 - 기록하는자",
+                                             "sentences":  [
+                                                               "그 끈질김은 가상하군요..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "에테르니아",
+                                             "sentences":  [
+                                                               "최후의 침공에서 더이상 우리의 뒤는 없습니다.",
+                                                               "여기서 끝을 내겠습니다. 메멘토..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "메멘토 - 기록하는자",
+                                             "sentences":  [
+                                                               "그래요... 공주님...",
+                                                               "이번에도 오차는 없을 것입니다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "에테르니아",
+                                             "sentences":  [
+                                                               "마스터님. 인카운터 합니다!!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Memento - The Recorder",
+                                                "sentences":  [
+                                                                  "That tenacity is admirable..."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Ethernia",
+                                                "sentences":  [
+                                                                  "There is no more retreat in the final assault.",
+                                                                  "We\u0027ll end it here, Memento..."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Memento - The Recorder",
+                                                "sentences":  [
+                                                                  "Yes... princess...",
+                                                                  "There will be no error this time."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Ethernia",
+                                                "sentences":  [
+                                                                  "Master. We engage!!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "EndOfInvasion.asset",
+                       "eventName":  "비상 의료 지원",
+                       "eventNameEng":  "Emergency Medical Support",
+                       "eventDescription":  "비상 의료 지원",
+                       "eventID":  "EndOfInvasion2",
+                       "dialogues":  [
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "마스터님. 드디어 네피림을 격파하였습니다..",
+                                                               "그리고 적들의 침공이 급격히 줄어들었습니다..",
+                                                               "그래서 모두에게 제안합니다.",
+                                                               "그것은 바로.. 역습입니다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "커뮤니",
+                                             "sentences":  [
+                                                               "마스터님! 드디어 접속 되었네요!",
+                                                               "상황 보고드립니다. 대공동을 둘러싼 메탈리온의 공격이 줄어들었습니다.",
+                                                               "현재 대공동 방위 시스템과 잔존 디걸들 만으로도 방어가 가능할 것으로 보여집니다.",
+                                                               "크라노시아님의 역습은... 허황된 일이 아닐 수도 있습니다!"
+                                                           ],
+                                             "choices":  [
+                                                             "좋아.. 그렇다면 그들에게서 지상을 탈환할 기회다."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "현명하신 선택입니다. 마스터!",
+                                                                   "좌표를 검색하겠습니다."
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "감사합니다 마스터...",
+                                                               "어쩌면 우리에게.. 다시오지 않을 기회일지도 모르겠네요.",
+                                                               "지상을... 탈환할..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "Master. We have finally defeated the Nephilim..",
+                                                                  "And the enemy invasion has rapidly decreased..",
+                                                                  "So, I have a proposal for everyone.",
+                                                                  "That is.. a counteroffensive."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Communi",
+                                                "sentences":  [
+                                                                  "Master! We are finally connected!",
+                                                                  "Reporting the situation. Metalion attacks surrounding the Underground cavern",
+                                                                  "It appears defense is now possible with just the current Underground cavern",
+                                                                  "Chronosia\u0027s counteroffensive... might not be an impossible dream!"
+                                                              ],
+                                                "choices":  [
+                                                                "Alright.. If so, this is our chance to reclaim the surface from them."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "A wise choice, Master!",
+                                                                      "I will search for the coordinates."
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "Thank you, Master...",
+                                                                  "This might be a chance.. that will never come to us again.",
+                                                                  "To reclaim... the surface..."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "invasion_battle_001.asset",
+                       "eventName":  "\"\\uBA54\\uD0C8\\uB9AC\\uC628 \\uC5D8\\uB9AC\\uD2B8 \\uBD80\\uB300\\uC640\\uC758",
+                       "eventNameEng":  "Battle Against Metalion Elite Forces",
+                       "eventDescription":  "\"\\uBA54\\uD0C8\\uB9AC\\uC628 \\uC5D8\\uB9AC\\uD2B8 \\uBD80\\uB300\\uC640\\uC758",
+                       "eventID":  "invasion_battle_001",
+                       "dialogues":  [
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "전방에 메탈리온 엘리트 부대가 접근 중입니다. 바로 앞으로 나올 예정이에요.",
+                                                               "크라노시아가 차가운 눈빛으로 앞을 응시합니다. 그녀의 손에서는 푸른 에너지가 맥동하고 있습니다.",
+                                                               "마스터님, 이 부대는 일반 메탈리온보다 훨씬 강력합니다. 우리의 모든 힘을 집중해야 해요.",
+                                                               "통신기에서 여러 디걸들의 전투 준비 신호가 들어옵니다. 모두가 지휘관의 명령을 기다리고 있습니다.",
+                                                               "이 전투가 침공 초기의 흐름을 결정할 것입니다. 어떻게 진행할까요?"
+                                                           ],
+                                             "choices":  [
+                                                             "정면 돌파 공격을 지시한다",
+                                                             "측면 기습 전술을 시도한다",
+                                                             "전략적 후퇴 후 매복을 제안한다"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "「알겠습니다! 모든 디걸, 전력으로 공격하세요!」 크라노시아가 명령을 내리고 디걸들이 빠르게 전진합니다.",
+                                                                   "「현명한 판단입니다.  측면을 노려 적의 대형을 흩트려주세요.」 크라노시아가 작전을 지시합니다.",
+                                                                   "「이해했습니다. 유리한 지형으로 후퇴하여 적을 유인하겠습니다.」 크라노시아가 고개를 끄덕입니다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "A Metalion elite unit is approaching from the front. Right ahead..."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "invasion_battle_002.asset",
+                       "eventName":  "네피림과의 첫 조우",
+                       "eventNameEng":  "First Encounter with a Nephilim",
+                       "eventDescription":  "네피림과의 첫 조우",
+                       "eventID":  "invasion_battle_002",
+                       "dialogues":  [
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "적 생체 반응 감지! 그... 이건... 거대 메탈리온입니다!",
+                                                               "(화면에 나타난 적의 모습은 일반 메탈리온과는 완전히 달랐다.)",
+                                                               "일반 메탈리온이 아닙니다. 이건... 예상보다 훨씬 위험한 상황입니다.",
+                                                               "(크라노시아가 검을 꺼내들며 앞으로 나섭니다. 그녀의 눈빛이 평소와 다르게 흔들립니다.)",
+                                                               "마스터님, 이 적은 보통의 전술로는 상대하기 어려울 수 있습니다. 조심해야 해요. "
+                                                           ],
+                                             "choices":  [
+                                                             "코드 해방을 허가한다",
+                                                             "디걸들의 합동 공격을 지시한다",
+                                                             "일단 물러나 약점을 분석하자"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "「코드 해방... 허가에 감사드립니다.」 크라노시아의 몸에서 푸른 에너지가 폭발적으로 증가합니다.",
+                                                                   "「네, 모든 디걸, 합동 공격 패턴 알파로 진행합니다!」 크라노시아가 다른 디걸들에게 신호를 보냅니다.",
+                                                                   "「현명한 판단입니다. 안전 거리를 유지하며 적의 패턴을 분석하겠습니다.」 크라노시아가 후퇴 신호를 보냅니다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "Hostile lifeform reaction detected! That… that’s a giant Metalion!",
+                                                                  "(A massive figure appears on the screen…)",
+                                                                  "No way… This is… a Nephilim-class entity!",
+                                                                  "Everyone, prepare for battle! This one is on a completely different level!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "invasion_battle_003.asset",
+                       "eventName":  "메탈리온 거대 병기의 출현",
+                       "eventNameEng":  "Appearance of Metalion\u0027s Giant Weapon",
+                       "eventDescription":  "메탈리온 거대 병기의 출현",
+                       "eventID":  "invasion_battle_003",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "마스터, 전방 5km 지점에서 대형 메탈리온 병기가 탐지되었습니다. 크기... 기존 기록의 3배입니다.",
+                                                               "(인페르니아가 차갑고 기계적인 목소리로 보고합니다. 그녀의 눈동자에 거대 병기의 영상이 비춰집니다.)",
+                                                               "코드명 \u0027데바스테이터\u0027. 대공동 방어벽을 무력화할 수 있는 충분한 화력을 보유하고 있습니다.",
+                                                               "(화면 속 거대한 기계 생명체가 천천히 움직이며 주변의 모든 것을 파괴하고 있습니다.)",
+                                                               "이 병기를 무력화하지 못하면 방어선이 무너질거야! 마스터 당장 출동하자!"
+                                                           ],
+                                             "choices":  [
+                                                             "정밀 타격팀을 보내 약점을 공격하라",
+                                                             "모든 화력을 집중해 정면 공격을 허가한다",
+                                                             "해킹팀을 지원해 제어 시스템을 장악하라"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "「승인 확인. 정밀 타격팀 베타, 출동합니다.」 인페르노리아가 소형 드론들을 조종하여 거대 병기의 취약점을 찾기 시작합니다.",
+                                                                   "「화력 집중 명령 승인. 모든 화기, 최대 출력으로 발사 준비.」 인페르노리아의 어깨에서 중화기가 전개됩니다.",
+                                                                   "「전자전 개시. 글레이시아, 템페스트라, 제어 시스템 해킹 시도를 지원해주세요.」 "
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Master, at the 5km point ahead… a massive Metalion war machine is detected!",
+                                                                  "It’s huge… way bigger than anything we’ve fought before!",
+                                                                  "That thing’s energy signature is insane… This isn’t just any elite unit!",
+                                                                  "Everyone, brace yourselves! We’re going in hot!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "invasion_battle_004.asset",
+                       "eventName":  "네피림 지휘관과의 대치",
+                       "eventNameEng":  "Standoff with the Nephilim Commander",
+                       "eventDescription":  "네피림 지휘관과의 대치",
+                       "eventID":  "invasion_battle_004",
+                       "dialogues":  [
+                                         {
+                                             "character":  "글레이시아",
+                                             "sentences":  [
+                                                               "마스터님! 적 메탈리온 지휘관 확인됐습니다. 코드명 \u0027섀도우 메이커\u0027입니다.",
+                                                               "이 메탈리온은 1개 부대를 지휘하고 있어요. 이를 무력화하면 적군의 지휘체계가 무너질 것입니다.",
+                                                               "마스터님, 제가 선봉에 서겠습니다. 어떤 전술로 접근할까요?"
+                                                           ],
+                                             "choices":  [
+                                                             "정면 대결을 허가한다",
+                                                             "기습 작전을 펼쳐라",
+                                                             "유인 전술로 함정에 빠뜨려라"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "「정면 대결... 알겠습니다! 제 모든 힘을 다해 싸우겠습니다!」 글레이시아의 전신이 푸른빛으로 빛나기 시작합니다.",
+                                                                   "「기습 작전! 현명한 판단입니다. 즉시 스텔스 모드로 전환하겠습니다.」 글레이시아가 자신의 빛을 억제하며 그림자 속으로 사라집니다.",
+                                                                   "「유인 전술... 완벽합니다! 제가 적을 유인하고, 나머지 디걸들이 함정을 준비하게 하겠습니다.」 글레이시아가 작전을 지시합니다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Glacia",
+                                                "sentences":  [
+                                                                  "Master! Hostile Metalion command unit confirmed. Coordinates...",
+                                                                  "Th-this presence… it’s overwhelming…!",
+                                                                  "The Nephilim commander is personally leading this force…",
+                                                                  "Everyone… please be careful. This one feels completely different from the others!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "invasion_final_boss.asset",
+                       "eventName":  "리리스의 자녀, 아크 네피림",
+                       "eventNameEng":  "Children of Lilith: Arc Nephilim",
+                       "eventDescription":  "리리스의 자녀, 아크 네피림",
+                       "eventID":  "invasion_final_boss",
+                       "dialogues":  [
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "경고... 초대형 생체 반응 감지. 이건... 메탈리온들의 리더입니다.",
+                                                               "크라노시아의 목소리가 떨립니다. 화면에 나타난 적은 이전의 모든 네피림과는 차원이 다른 압도적인 존재감을 발산합니다.",
+                                                               "아크 메탈리온... 리리스의 첫 번째 메탈리온입니다. 우리의 모든 힘을 합쳐도 상대하기 어려울 수 있어요.",
+                                                               "모든 디걸들이 긴장한 표정으로 무기를 꺼내듭니다. 크라노시아가 지휘관을 향해 돌아섭니다.",
+                                                               "마스터님, 이것이 마지막 전투가 될 수도 있습니다. 모든 것을 걸어야 해요."
+                                                           ],
+                                             "choices":  [
+                                                             "모든 디걸의 코드 해방을 허가한다",
+                                                             "아크 네피림과의 대화를 시도한다",
+                                                             "하바에게 최종 지원을 요청한다"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "「모든 디걸, 코드 해방 허가 받았습니다. 제한 해제... 지금!」 순간 모든 디걸들의 몸에서 강렬한 에너지가 폭발합니다.",
+                                                                   "「대화를... 시도하신다고요? 위험하지만... 시도해보겠습니다.」 크라노시아가 불안한 표정으로 통신 채널을 엽니다.",
+                                                                   "... ... ...",
+                                                                   "대화는 실패하였습니다... 전원 인카운터!!",
+                                                                   "「하바에게 최종 지원을... 좋은 생각입니다!」 크라노시아가 긴급 통신을 보냅니다.",
+                                                                   "... ... ...",
+                                                                   "하지만 적군이 돌격해옵니다! 전원 인카운터!!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "Warning… Super-large entity detected. Energy signature is off the charts!",
+                                                                  "This is… Ark Nephilim… Lilith’s direct offspring!",
+                                                                  "The core of the invasion… the one commanding all the Metalions…",
+                                                                  "This is the final battle. Everyone—focus all your strength!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "invasion_rest_001.asset",
+                       "eventName":  "임시 야영지에서의 휴식",
+                       "eventNameEng":  "Rest at Temporary Camp",
+                       "eventDescription":  "임시 야영지에서의 휴식",
+                       "eventID":  "invasion_rest_001",
+                       "dialogues":  [
+                                         {
+                                             "character":  "에테르니아",
+                                             "sentences":  [
+                                                               "마스터님! 여기 음료수 가져왔어요. 모두 지쳐있으니 잠시 쉬어가는 게 어떨까요?",
+                                                               "다음 전투가 시작되기 전에 모두의 상태를 최상으로 만들어야 해요!",
+                                                               "다른 디걸들도 잠시 긴장을 풀고 각자의 자리에서 휴식을 취하고 있습니다.",
+                                                               "마스터님도 너무 무리하시면 안 돼요. 잠시라도 쉬셔야 좋은 판단을 내리실 수 있어요!"
+                                                           ],
+                                             "choices":  [
+                                                             "디걸들과 함께 휴식을 취한다",
+                                                             "방어 시설을 강화하는 데 집중한다",
+                                                             "다음 전투를 위한 작전회의를 진행한다"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "와! 지휘관님과 함께하니 정말 좋아요!",
+                                                                   "에테르니아가 기뻐하며 모두에게 간식을 나눠줍니다. 팀의 사기가 높아지고 체력이 회복됩니다.",
+                                                                   "안전이 최우선이죠! 제가 도와드릴게요! 네온이 빛을 이용해 임시 방어막을 설치합니다. 모두의 방어력이 증가합니다.",
+                                                                   "작전회의 타임! 제가 정보 정리를 도와드릴게요!」",
+                                                                   "에테르니아가 정보를 시각화해 보여줍니다. 모두의 전술 이해도가 향상됩니다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Ethernia",
+                                                "sentences":  [
+                                                                  "Master! There’s a drinkable water source here...",
+                                                                  "The temperature and humidity are also suitable for a short rest.",
+                                                                  "If we rest here for a bit, we can recover stamina and reorganize our formation",
+                                                                  "Shall we take a short break?"
+                                                              ],
+                                                "choices":  [
+                                                                "Yes, let’s rest for a while",
+                                                                "No, we should keep moving"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Understood. I’ll prepare a safe resting zone right away.",
+                                                                      "Everyone, please take a moment to recover your energy...",
+                                                                      "Roger. We’ll continue advancing immediately."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "invasion_rest_002.asset",
+                       "eventName":  "전투 사이의 숨돌리기",
+                       "eventNameEng":  "Breathing Room Between Battles",
+                       "eventDescription":  "전투 사이의 숨돌리기",
+                       "eventID":  "invasion_rest_002",
+                       "dialogues":  [
+                                         {
+                                             "character":  "루미네시아",
+                                             "sentences":  [
+                                                               "마스터님, 잠시 휴식을 취하시는 것이 좋겠습니다. 너무 무리하시면 전략적 판단에 문제가 생길 수 있어요.",
+                                                               "루미네시아가 조용히 다가와 차 한 잔을 건넵니다. ",
+                                                               "다음 네피림 부대는 이전보다 더 강력할 것으로 예상됩니다. 우리의 전략을 다시 점검할 필요가 있어요.",
+                                                               "홀로그램 지도가 펼쳐지고, 루미네시가 손짓을 하자 적군의 예상 이동 경로가 표시됩니다.",
+                                                               "홀로그램 지도가 펼쳐지고, 루미네시아가 손짓을 하자 적군의 예상 이동 경로가 표시됩니다."
+                                                           ],
+                                             "choices":  [
+                                                             "마법 보호막 강화에 집중하자",
+                                                             "공격 패턴 재조정을 제안한다",
+                                                             "디걸들과 개인적 대화 시간을 갖는다"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "현명한 판단입니다. 제 마법으로 모든 디걸의 보호막을 강화하겠습니다. 루미네시아가 고대의 주문을 외우기 시작합니다.",
+                                                                   "새로운 공격 패턴... 흥미로운 제안이네요. 제가 즉시 다른 디걸들과 조율하겠습니다. 루미네시아가 우아하게 고개를 끄덕입니다.",
+                                                                   "마음의 안정은 전투력과 직결됩니다. 현명한 선택이에요. 루미네시아가 미소 지으며 다른 디걸들을 불러모읍니다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Luminesia",
+                                                "sentences":  [
+                                                                  "Master, let\u0027s take a moment to catch our breath...",
+                                                                  "The battles have been continuous... everyone\u0027s fatigue is accumulating.",
+                                                                  "Even if it\u0027s just for a short while, replenishing mana and healing minor wounds",
+                                                                  "Would you like to rest a little?"
+                                                              ],
+                                                "choices":  [
+                                                                "Yes, let\u0027s rest briefly",
+                                                                "No, we need to press on right away"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Understood. I\u0027ll prepare a recovery area with gentle light right away.",
+                                                                      "Everyone, please sit down for a moment and breathe deeply...",
+                                                                      "Understood. We\u0027ll continue advancing immediately."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "invasion_rest_003.asset",
+                       "eventName":  "비상 의료 지원",
+                       "eventNameEng":  "Emergency Medical Support",
+                       "eventDescription":  "비상 의료 지원",
+                       "eventID":  "invasion_rest_003",
+                       "dialogues":  [
+                                         {
+                                             "character":  "에테르니아",
+                                             "sentences":  [
+                                                               "지휘관님, 여러 디걸들이 손상되었습니다. 즉시 수리와 회복이 필요해요.",
+                                                               "에테르니아가 차분한 목소리로 말합니다. 그녀의 손에서는 신성의코드 에너지가 흐르고 있습니다.",
+                                                               "제 능력으로 급한 손상은 막았지만, 더 많은 조치가 필요합니다.",
+                                                               "지친 디걸들이 임시 치료소에 모여 있습니다. 일부는 장비가 크게 손상되었고, 다른 일부는 에너지가 거의 고갈된 상태입니다.",
+                                                               "우선순위를 정해야 합니다. 어떤 행동을 하시겠습니까?"
+                                                           ],
+                                             "choices":  [
+                                                             "공격 능력을 우선 회복한다.",
+                                                             "방어능력을 우선 회복한다.",
+                                                             "모든 능력을 균등하게 회복한다."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "공격력 우선이군요. ",
+                                                                   "방어선 유지가 중요하시군요. ",
+                                                                   "모두에게 균등하게... 현명한 판단입니다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "While traveling, Chronosia discovered a dimension rift floating in mid-air.",
+                                                                  "This is... a dimensional rift. The energy flow is unstable...",
+                                                                  "We can either enter it to explore the other side, or ignore it and move on.",
+                                                                  "But be warned—if we go in, there\u0027s a high chance of encountering powerful entities or anomalies from the other dimension."
+                                                              ],
+                                                "choices":  [
+                                                                "Enter the Dimension Rift",
+                                                                "Ignore it and continue on the path"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Entering the rift... Everyone, prepare for impact!",
+                                                                      "Understood. We’ll bypass it and keep moving."
+                                                                  ]
+                                            }
+                                        ]
+                   }
+               ]
+}

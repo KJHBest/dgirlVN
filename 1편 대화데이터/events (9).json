@@ -1,0 +1,2363 @@
+﻿{
+    "sourceFolder":  "Used\\Tempestra",
+    "eventCount":  38,
+    "events":  [
+                   {
+                       "sourceFile":  "1_tempestra_book_recommend.asset",
+                       "eventName":  "과학 서적 추천",
+                       "eventNameEng":  "Book Recommendations",
+                       "eventDescription":  "과학 서적 추천",
+                       "eventID":  "tempestra_book_recommend",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터, 혹시 과학 책 읽으시는 거 좋아하세요?",
+                                                               "제가 최근에 읽은 \u0027전기의 역사\u0027라는 책이 정말 재미있었어요!",
+                                                               "벤저민 프랭클린부터 테슬라까지의 이야기가 나와요.",
+                                                               "특히 테슬라 부분은 정말 감동적이에요. 추천해드릴게요!"
+                                                           ],
+                                             "choices":  [
+                                                             "읽어보고 싶어요!",
+                                                             "테슬라에 대해 더 알려주세요",
+                                                             "책보다는 실험이 더 재미있을 것 같아요"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "정말요? 그럼 제가 가지고 있는 책 빌려드릴게요! 같이 토론해요!",
+                                                                   "테슬라는 정말 천재예요! 교류 전기의 아버지라고 불리죠!",
+                                                                   "그것도 좋아요! 그럼 이론과 실험을 병행하는 건 어때요?"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master, do you like reading science books?",
+                                                                  "I recently read a book called \u0027The History of Electricity,\u0027 and it was really",
+                                                                  "It covers stories from Benjamin Franklin to Tesla.",
+                                                                  "The part about Tesla was especially moving. I really recommend it!"
+                                                              ],
+                                                "choices":  [
+                                                                "I\u0027d like to read it!",
+                                                                "Tell me more about Tesla.",
+                                                                "Experiments seem more fun than books."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Really? Then I\u0027ll lend you my copy! Let\u0027s discuss it together!",
+                                                                      "Tesla was a true genius! He\u0027s called the father of alternating current!",
+                                                                      "That\u0027s good too! Then how about doing both theory and experiments together?"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_tempestra_electric_demo.asset",
+                       "eventName":  "전기 채찍 시연",
+                       "eventNameEng":  "Electric Whip Demonstration",
+                       "eventDescription":  "전기 채찍 시연",
+                       "eventID":  "tempestra_electric_demo",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터, 제 전기 채찍 구경해보실래요?",
+                                                               "보세요! 전압을 조절해서 이렇게... 찌지직!",
+                                                               "위험해 보이지만 전류량을 정밀하게 조절할 수 있어요.",
+                                                               "물리학의 옴의 법칙을 응용한 거예요. V=IR, 기억하세요!"
+                                                           ],
+                                             "choices":  [
+                                                             "정말 멋있어요!",
+                                                             "직접 만져봐도 될까요?",
+                                                             "옴의 법칙이 뭐예요?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "헤헤, 고마워요! 실전에서는 더 강력하답니다!",
+                                                                   "아, 안돼요! 위험해요! 대신 이 절연 장갑을 끼고 만져보세요.",
+                                                                   "오, 좋은 질문이에요! 전압과 전류, 저항의 관계를 나타내는 기본 법칙이에요!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master, want to see my electric whip?",
+                                                                  "Watch! By controlling the voltage like this... crackle!",
+                                                                  "It looks dangerous, but I can precisely control the current.",
+                                                                  "It\u0027s an application of Ohm\u0027s law. V = IR, remember!"
+                                                              ],
+                                                "choices":  [
+                                                                "That\u0027s awesome!",
+                                                                "Can I touch it?",
+                                                                "What\u0027s Ohm\u0027s law?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Hehe, thanks! It\u0027s even stronger in real combat!",
+                                                                      "Ah, no! It\u0027s dangerous! Instead, put on these insulating gloves and touch",
+                                                                      "Oh, great question! It\u0027s the basic law that describes the relationship between"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_tempestra_energy_advice.asset",
+                       "eventName":  "에너지 절약 조언",
+                       "eventNameEng":  "Energy Saving Tips",
+                       "eventDescription":  "에너지 절약 조언",
+                       "eventID":  "tempestra_energy_advice",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터, 혹시 전기요금 많이 나오세요?",
+                                                               "제가 에너지 효율 분석을 해봤는데, 몇 가지 개선점이 있어요.",
+                                                               "LED 전구나 고효율 가전제품으로 바꾸시면 30% 정도 절약돼요!",
+                                                               "환경도 생각하고 경제적이기도 하니까 일석이조죠!"
+                                                           ],
+                                             "choices":  [
+                                                             "좋은 아이디어네요!",
+                                                             "직접 도와주실 수 있나요?",
+                                                             "왜 이런 걸 신경 쓰세요?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "그죠! 과학적 접근으로 생활을 개선하는 게 제 모토예요!",
+                                                                   "당연하죠! 전기 전문가인 제가 직접 점검해드릴게요!",
+                                                                   "에너지 낭비를 보면 속상해요... 전기를 다루는 입장에서 효율성은 중요해요."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master, do your electricity bills run high?",
+                                                                  "I analyzed your energy efficiency, and there are a few improvements to make.",
+                                                                  "If you switch to LED bulbs and energy-efficient appliances, you can save about",
+                                                                  "It\u0027s good for the environment and saves money too—two birds!"
+                                                              ],
+                                                "choices":  [
+                                                                "That\u0027s a great idea!",
+                                                                "Can you help me directly?",
+                                                                "Why do you care about this?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Right? Improving life with scientific approaches is my motto!",
+                                                                      "Of course! As an electrical expert, I\u0027ll check it myself!",
+                                                                      "Seeing energy waste makes me sad... From my perspective, efficiency is important."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_tempestra_experiment_time.asset",
+                       "eventName":  "연구실 실험 시간",
+                       "eventNameEng":  "Lab Experiment Time",
+                       "eventDescription":  "연구실 실험 시간",
+                       "eventID":  "tempestra_experiment_time",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터, 제 연구실 구경해보실래요?",
+                                                               "새로운 전기 증폭 장치를 개발하고 있어요!",
+                                                               "이론상으로는 출력을 2배까지 높일 수 있을 것 같아요.",
+                                                               "아직 실험 단계라 위험할 수도 있지만... 지켜봐 주실래요?"
+                                                           ],
+                                             "choices":  [
+                                                             "정말 대단하네요!",
+                                                             "제가 도울 일은 없나요?",
+                                                             "실패하면 어떻게 되나요?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "고마워요! 마스터가 응원해주시니까 더 자신감이 생겨요!",
+                                                                   "정말요? 그럼 이 수치 좀 기록해주실래요? 두 명이 하면 더 정확해져요!",
+                                                                   "음... 최악의 경우 정전이 될 수도... 하지만 안전장치는 완벽해요!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master, want to see my lab?",
+                                                                  "I\u0027m developing a new electrical amplification device!",
+                                                                  "In theory, it could double the output.",
+                                                                  "It\u0027s still in the experimental phase, so it could be risky... but will you"
+                                                              ],
+                                                "choices":  [
+                                                                "That\u0027s amazing!",
+                                                                "Is there anything I can help with?",
+                                                                "What happens if it fails?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Thanks! With your support, I feel even more confident!",
+                                                                      "Really? Then could you record these readings? Two people makes it more accurate!",
+                                                                      "Hmm... worst case, it could short out... But the safety devices are perfect!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_tempestra_lazy_moment.asset",
+                       "eventName":  "게으른 충전 시간",
+                       "eventNameEng":  "Lazy Charge Time",
+                       "eventDescription":  "게으른 충전 시간",
+                       "eventID":  "tempestra_lazy_moment",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터... 오늘은 좀 피곤해요...",
+                                                               "전기 에너지가 부족해서 충전이 필요해요.",
+                                                               "배터리처럼 완전히 방전되면 안 되거든요.",
+                                                               "잠깐만 여기서 쉬어도 될까요? 금방 회복될 거예요."
+                                                           ],
+                                             "choices":  [
+                                                             "충분히 쉬세요",
+                                                             "충전을 도와드릴게요",
+                                                             "무리하지 마세요"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "고마워요... 마스터는 정말 이해심이 많으시네요. 곧 활기찬 모습 보여드릴게요!",
+                                                                   "정말요? 어떻게 도와주실 건가요? 혹시 정전기라도...?",
+                                                                   "네... 가끔 이렇게 에너지가 떨어질 때가 있어요. 디걸도 휴식이 필요해요."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master... I\u0027m a bit tired today...",
+                                                                  "I\u0027m low on electrical energy, so I need to recharge.",
+                                                                  "I shouldn\u0027t fully discharge like a battery.",
+                                                                  "Can I rest here just for a bit? I\u0027ll recover quickly."
+                                                              ],
+                                                "choices":  [
+                                                                "Get plenty of rest.",
+                                                                "I\u0027ll help you recharge.",
+                                                                "Don\u0027t push yourself."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Thank you... you\u0027re very understanding, Master. I\u0027ll show you my energetic",
+                                                                      "Really? How will you help me? Maybe some static electricity...?",
+                                                                      "Yes... sometimes my energy drops like this. D-Girls need rest too."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_tempestra_metallion_info.asset",
+                       "eventName":  "메탈리온 약점 정보 공유",
+                       "eventNameEng":  "Weakpoint of Metalion",
+                       "eventDescription":  "메탈리온 약점 정보 공유",
+                       "eventID":  "tempestra_metallion_info",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터, 혹시 메탈리온과 싸울 일이 있으시면 이거 알아두세요.",
+                                                               "금속으로 된 적들은 전기에 특히 약해요. 전도성 때문이죠.",
+                                                               "특히 습한 환경에서는 전기 저항이 낮아져서 더 효과적이에요.",
+                                                               "제가 분석한 메탈리온 데이터가 있는데, 도움이 될 것 같아요."
+                                                           ],
+                                             "choices":  [
+                                                             "정말 유용한 정보네요!",
+                                                             "데이터를 자세히 보여주세요",
+                                                             "같이 싸워주실 수 있나요?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "그죠! 과학적 지식이 실전에서 얼마나 중요한지 아시겠죠?",
+                                                                   "좋아요! 여기 보세요. 각 타입별 전기 저항값과 약점 부위를 정리했어요.",
+                                                                   "물론이죠! 제 전기 공격이면 메탈리온 따위는 문제없어요!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master, if you end up fighting Metalions, keep this in mind.",
+                                                                  "Metal enemies are especially weak to electricity, because of conductivity.",
+                                                                  "In humid environments, electrical resistance drops, making it even more effective.",
+                                                                  "I have analyzed Metalion data, and I think it will help."
+                                                              ],
+                                                "choices":  [
+                                                                "That\u0027s really useful information!",
+                                                                "Please show me the data in detail.",
+                                                                "Can you fight with me?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Right? You see how important scientific knowledge is in the field!",
+                                                                      "Sure! Look here. I organized the electrical resistance values and weak points",
+                                                                      "Of course! With my electric attacks, Metalions are no problem!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_tempestra_nap_discovery.asset",
+                       "eventName":  "숨겨진 낮잠 공간 발견",
+                       "eventNameEng":  "Hidden Napping Spot Discovered",
+                       "eventDescription":  "숨겨진 낮잠 공간 발견",
+                       "eventID":  "tempestra_nap_discovery",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "으음... 쿨쿨... 아, 마스터?! 언제 오셨어요?!",
+                                                               "여, 여기가 제 비밀 휴게소예요... 들키고 말았네요.",
+                                                               "전기 코드 사용하면 피곤해서요... 가끔 여기서 충전을... 아니, 쉬어요!",
+                                                               "혹시 비밀로 해주실 수 있나요? 다른 디걸들한테는 비밀이에요!"
+                                                           ],
+                                             "choices":  [
+                                                             "비밀로 해드릴게요",
+                                                             "같이 낮잠 자도 될까요?",
+                                                             "여기 정말 아늑하네요"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "고마워요! 마스터는 정말 믿을 만한 분이시군요. 언제든 놀러 오세요!",
+                                                                   "네?! 저, 저와 함께요?! 그, 그럼... 조용히 해주세요...",
+                                                                   "그죠? 전자기파도 차단되고, 온도도 딱 좋아요. 과학적으로 최적화된 공간이에요!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Mmm... zzz... Ah, Master?! When did you get here?!",
+                                                                  "Th-this is my secret rest spot... You caught me.",
+                                                                  "Using electric codes makes me tired... so I recharge here... I mean, I rest!",
+                                                                  "Could you keep it a secret? It\u0027s a secret from the other D-Girls!"
+                                                              ],
+                                                "choices":  [
+                                                                "I\u0027ll keep it a secret.",
+                                                                "Can I nap here too?",
+                                                                "This place is really cozy."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Thank you! You\u0027re really trustworthy, Master. Come by anytime!",
+                                                                      "Huh?! W-with me?! Then... please be quiet...",
+                                                                      "Right? It blocks electronic noise and the temperature is perfect. It\u0027s scientifically"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_tempestra_physics_lesson.asset",
+                       "eventName":  "물리학 미니 강의",
+                       "eventNameEng":  "Physics mini lecture",
+                       "eventDescription":  "물리학 미니 강의",
+                       "eventID":  "tempestra_physics_lesson",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터, 전기와 자기는 사실 같은 힘이라는 거 아세요?",
+                                                               "맥스웰이 증명한 전자기학 통합 이론이에요!",
+                                                               "그래서 제가 전기를 쓸 때 자기장도 함께 발생한답니다.",
+                                                               "이론만 아는 게 아니라 직접 몸으로 느낄 수 있어서 신기해요!"
+                                                           ],
+                                             "choices":  [
+                                                             "자세히 설명해주세요",
+                                                             "직접 보여주실 수 있나요?",
+                                                             "공부를 정말 많이 하셨네요"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "좋아요! 그럼 페러데이 법칙부터 차근차근 설명해드릴게요!",
+                                                                   "물론이죠! 보세요, 전기를 흘리면 이렇게 자기장이... 우와!",
+                                                                   "헤헤... 원래 과학이 취미라서요. 실험하는 것도 재미있어요!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master, did you know electricity and magnetism are actually the same force?",
+                                                                  "It\u0027s Maxwell\u0027s electromagnetic unification theory!",
+                                                                  "So when I use electricity, a magnetic field is generated too.",
+                                                                  "It\u0027s amazing that I can feel it directly, not just know the theory!"
+                                                              ],
+                                                "choices":  [
+                                                                "Please explain in detail.",
+                                                                "Can you show me directly?",
+                                                                "You\u0027ve studied a lot."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Sure! I\u0027ll start with Faraday\u0027s law and explain step by step!",
+                                                                      "Of course! Look, when I run electricity, the magnetic field forms like this...",
+                                                                      "Hehe... science is my hobby. I love experimenting too!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_tempestra_repair_cannon.asset",
+                       "eventName":  "캐논수리",
+                       "eventNameEng":  "Repair Cannon",
+                       "eventDescription":  "캐논수리",
+                       "eventID":  "1_tempestra_repair_cannon",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터님, 네피림들의 약점이 뭘까요?",
+                                                               "연구에 의하면 디걸들과 구조는 비슷할거라고 하더라고요.",
+                                                               "다만 그들은 리리스에 의해 디걸의 영혼이 강화되어",
+                                                               "더 강력한 코드를 구현한다고 해요,",
+                                                               "다만 육체는 우리 디걸들보다 구식 바디라고해요. ",
+                                                               "물리 충격으로도 충분히 가능할 것 같은데..."
+                                                           ],
+                                             "choices":  [
+                                                             "혹시 대공동 방벽을 알아요?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "네 물론이죠! 네피림과 메탈리온 침공을 방어하는 최전선이죠!",
+                                                                   "아, 안돼요! 위험해요! 대신 이 절연 장갑을 끼고 만져보세요.",
+                                                                   "오, 좋은 질문이에요! 전압과 전류, 저항의 관계를 나타내는 기본 법칙이에요!"
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "아..! 혹시 그곳의 대 네피림용 캐논을 말씀하시는 건가요!??",
+                                                               "저도 얘기만 들어봤지만... 오래된 설계도를 본적이 있어요.",
+                                                               "하지만 그곳은 하바님외에는 일반적인 권한으로는 출입이 불가능하다고 알고있어요."
+                                                           ],
+                                             "choices":  [
+                                                             "내가 그 권한을 받았어. 같이 가볼래?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "좋아요! 저도 너무 궁금했는데! 지금 당장 출발하죠!",
+                                                                   "아, 안돼요! 위험해요! 대신 이 절연 장갑을 끼고 만져보세요.",
+                                                                   "오, 좋은 질문이에요! 전압과 전류, 저항의 관계를 나타내는 기본 법칙이에요!"
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "도착했군요. 이 근처입니다.",
+                                                               "(마스터는 문을 열었다)",
+                                                               "저쪽 엘리베이터에서 표시가 있네요. 가보죠.",
+                                                               "(조종실로 도착했다)",
+                                                               "좋아요. 예상 대로 군요...",
+                                                               "마스터, 시간을 좀 줘요."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "좋아요! 저도 너무 궁금했는데! 지금 당장 출발하죠!",
+                                                                   "아, 안돼요! 위험해요! 대신 이 절연 장갑을 끼고 만져보세요.",
+                                                                   "오, 좋은 질문이에요! 전압과 전류, 저항의 관계를 나타내는 기본 법칙이에요!"
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "SYSTEM",
+                                             "sentences":  [
+                                                               "템페스트라는 가져온 공구와 도구들을 이용해 수리를 시작했다.",
+                                                               "수십대의 수리용 드론과 함께 새롭게 코딩을 하는 듯 했다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "좋아요! 저도 너무 궁금했는데! 지금 당장 출발하죠!",
+                                                                   "아, 안돼요! 위험해요! 대신 이 절연 장갑을 끼고 만져보세요.",
+                                                                   "오, 좋은 질문이에요! 전압과 전류, 저항의 관계를 나타내는 기본 법칙이에요!"
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "완료 했습니다. 마스터.",
+                                                               "수리하는김에 업그레이드해서 안정도와 파괴력을 높였습니다.",
+                                                               "이제 네피림이 나타나면 좌표를 송신해서 사용할 수 있습니다."
+                                                           ],
+                                             "choices":  [
+                                                             "수고했어요, 템페스트라"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "뭘요! 저도 재미있었어요. 그럼 본부로 돌아가시죠!",
+                                                                   "아, 안돼요! 위험해요! 대신 이 절연 장갑을 끼고 만져보세요.",
+                                                                   "오, 좋은 질문이에요! 전압과 전류, 저항의 관계를 나타내는 기본 법칙이에요!"
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "SYSTEM",
+                                             "sentences":  [
+                                                               "방벽의 사정거리에서 네피림과의 전투에서 지원 포격을 사용할 수 있게되었습니다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "좋아요! 저도 너무 궁금했는데! 지금 당장 출발하죠!",
+                                                                   "아, 안돼요! 위험해요! 대신 이 절연 장갑을 끼고 만져보세요.",
+                                                                   "오, 좋은 질문이에요! 전압과 전류, 저항의 관계를 나타내는 기본 법칙이에요!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master, what are the Nephilim\u0027s weaknesses?",
+                                                                  "Research suggests their structure is similar to D-Girls.",
+                                                                  "However, Lilith strengthened their souls,",
+                                                                  "allowing them to manifest stronger codes.",
+                                                                  "But their physical bodies are older models than ours.",
+                                                                  "So physical impact should still be effective..."
+                                                              ],
+                                                "choices":  [
+                                                                "Do you know about the Arcology barrier?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Yes, of course! It\u0027s the frontline that defends against Nephilim and Metalion",
+                                                                      "Ah, don\u0027t! It\u0027s dangerous! Instead, put on these insulating gloves and touch",
+                                                                      "Oh, good question! It\u0027s the basic law that describes the relationship between"
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Ah..! Are you talking about the large anti‑Nephilim cannon there?!",
+                                                                  "I\u0027ve only heard about it... but I\u0027ve seen old schematics.",
+                                                                  "However, I heard that access is restricted to anyone without authorization,"
+                                                              ],
+                                                "choices":  [
+                                                                "I have that authorization. Want to go together?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Great! I was really curious too! Let\u0027s head out right now!",
+                                                                      "Ah, don\u0027t! It\u0027s dangerous! Instead, put on these insulating gloves and touch",
+                                                                      "Oh, good question! It\u0027s the basic law that describes the relationship between"
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "We\u0027ve arrived. It\u0027s nearby.",
+                                                                  "(Master opened the door)",
+                                                                  "There\u0027s a marker by that elevator. Let\u0027s go.",
+                                                                  "(Arrived at the control room)",
+                                                                  "Good. Just as expected...",
+                                                                  "Master, please give me a moment."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Great! I was really curious too! Let\u0027s head out right now!",
+                                                                      "Ah, don\u0027t! It\u0027s dangerous! Instead, put on these insulating gloves and touch",
+                                                                      "Oh, good question! It\u0027s the basic law that describes the relationship between"
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "SYSTEM",
+                                                "sentences":  [
+                                                                  "Tempestra began repairs using the tools she brought.",
+                                                                  "She seemed to be coding alongside dozens of repair drones."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Great! I was really curious too! Let\u0027s head out right now!",
+                                                                      "Ah, don\u0027t! It\u0027s dangerous! Instead, put on these insulating gloves and touch",
+                                                                      "Oh, good question! It\u0027s the basic law that describes the relationship between"
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "It\u0027s finished, Master.",
+                                                                  "I upgraded it while repairing, improving stability and firepower.",
+                                                                  "Now, when a Nephilim appears, we can transmit coordinates and use it."
+                                                              ],
+                                                "choices":  [
+                                                                "Great work, Tempestra."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "You\u0027re welcome! I had fun too. Let\u0027s head back to HQ!",
+                                                                      "Ah, don\u0027t! It\u0027s dangerous! Instead, put on these insulating gloves and touch",
+                                                                      "Oh, good question! It\u0027s the basic law that describes the relationship between"
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "SYSTEM",
+                                                "sentences":  [
+                                                                  "You can now use support bombardment against Nephilim in battles near the barrier."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Great! I was really curious too! Let\u0027s head out right now!",
+                                                                      "Ah, don\u0027t! It\u0027s dangerous! Instead, put on these insulating gloves and touch",
+                                                                      "Oh, good question! It\u0027s the basic law that describes the relationship between"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_tempestra_science_quiz.asset",
+                       "eventName":  "불쑥 과학 퀴즈 시간",
+                       "eventNameEng":  "Sudden Science Quiz Time!",
+                       "eventDescription":  "불쑥 과학 퀴즈 시간",
+                       "eventID":  "tempestra_science_quiz",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "어, 마스터! 잠깐만요~ 갑자기 생각난 게 있어서요!",
+                                                               "번개의 온도가 태양 표면보다 뜨거운 거 알고 계세요?",
+                                                               "약 3만도까지 올라간답니다! 신기하지 않아요?",
+                                                               "혹시 전기에 대해 더 궁금한 게 있으시면 언제든 물어보세요!"
+                                                           ],
+                                             "choices":  [
+                                                             "정말 신기하네요! 더 알려주세요",
+                                                             "그럼 템페스트라는 얼마나 뜨거워요?",
+                                                             "갑작스러운 퀴즈네요"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "우와! 진짜 관심 있으시는군요! 그럼 정전기는 어떻게 만들어지는지 아세요?",
+                                                                   "헤헤... 저는 번개만큼은 아니지만, 충분히 뜨거울 수 있어요! 조심하세요~",
+                                                                   "아하하... 미안해요! 그냥 너무 신나서 갑자기 말하고 싶어졌어요."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Oh, Master! One second~ Something just came to mind!",
+                                                                  "Did you know lightning is hotter than the surface of the sun?",
+                                                                  "It can reach about 30,000 degrees! Isn\u0027t that amazing?",
+                                                                  "If you\u0027re curious about electricity, ask me anytime!"
+                                                              ],
+                                                "choices":  [
+                                                                "That\u0027s really cool! Tell me more.",
+                                                                "Then how hot are you, Tempestra?",
+                                                                "That was a sudden quiz."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Wow! You\u0027re really interested! Then do you know how static electricity is",
+                                                                      "Hehe... I\u0027m not as hot as lightning, but I can get pretty hot! Be careful~",
+                                                                      "Ahaha... sorry! I just got so excited that I blurted it out."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_tempestra_storm_watching.asset",
+                       "eventName":  "번개 관찰",
+                       "eventNameEng":  "Lightning Observation",
+                       "eventDescription":  "번개 관찰",
+                       "eventID":  "tempestra_storm_watching",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터! 오늘 천둥번개가 칠 예정이에요!",
+                                                               "같이 번개 관찰하실래요? 정말 장관이에요!",
+                                                               "자연의 전기 현상을 직접 보면서 배우는 건 정말 특별해요.",
+                                                               "물론 안전한 곳에서 관찰할 거예요. 과학자는 안전이 우선이니까요!"
+                                                           ],
+                                             "choices":  [
+                                                             "재미있을 것 같아요!",
+                                                             "위험하지 않나요?",
+                                                             "번개에서 영감을 받으세요?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "좋아요! 그럼 준비물을 챙겨서 최고의 관찰 포인트로 가요!",
+                                                                   "걱정 마세요! 제가 전기 전문가잖아요. 안전 거리 계산은 완벽해요!",
+                                                                   "맞아요! 자연의 번개를 보면서 제 능력을 발전시키는 아이디어를 얻어요."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master! There\u0027s going to be thunder and lightning today!",
+                                                                  "Want to watch lightning together? It\u0027s spectacular!",
+                                                                  "Learning by directly observing nature\u0027s electricity is really special.",
+                                                                  "Of course we\u0027ll watch from a safe place. Safety comes first for scientists!"
+                                                              ],
+                                                "choices":  [
+                                                                "Sounds fun!",
+                                                                "Isn\u0027t it dangerous?",
+                                                                "Do you get inspiration from lightning?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Great! Then let\u0027s grab our gear and head to the best viewing spot!",
+                                                                      "Don\u0027t worry! I\u0027m an electrical expert. The safe distance calculations are",
+                                                                      "Absolutely! Watching natural lightning gives me ideas for developing my abilities."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_tempestra_trivia_01.asset",
+                       "eventName":  "하늘은 왜 파란색일까?",
+                       "eventNameEng":  "Why Is the Sky Blue?",
+                       "eventDescription":  "하늘은 왜 파란색일까?",
+                       "eventID":  "tempestra_trivia_01",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터님, 저기 시뮬레이션으로 구현된 하늘, 정말 파랗죠?",
+                                                               "저게 왜 파란색인지 아세요? 바닷물이 비쳐서가 아니에요!",
+                                                               "태양빛이 대기를 통과할 때, 파장이 짧은 파란빛이 다른 색보다 훨씬 더 많이 산란되기 때문이에요. \u0027레일리 산란\u0027이라고 하죠!",
+                                                               "그래서 우리 눈에는 온 하늘에 파란빛이 흩뿌려진 것처럼 보이는 거랍니다! 신기하죠?"
+                                                           ],
+                                             "choices":  [
+                                                             "그럼 노을이 붉은 것도 같은 원리야?",
+                                                             "산란? 조금 더 쉽게 설명해줄래?",
+                                                             "난 그냥 파란색이 좋은데"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "딩동댕! 맞아요! 해가 질 땐 빛이 더 두꺼운 대기층을 통과하니까 파란빛은 다 흩어지고, 파장이 긴 붉은빛이 우리 눈에 들어오는 거죠! 역시 마스터님!",
+                                                                   "음... 공기 중에 작은 먼지들이 파란색 물감을 여기저기 흩뿌린다고 생각하시면 돼요!",
+                                                                   "아, 네... 미적인 감상도 물론 중요하죠! 과학적으로도 완벽한 색이고요!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master, the simulated sky over there is really blue, right?",
+                                                                  "Do you know why it\u0027s blue? It\u0027s not because it\u0027s reflecting the sea!",
+                                                                  "When sunlight passes through the atmosphere, the shorter blue wavelengths scatter",
+                                                                  "So to our eyes, the whole sky looks like it\u0027s sprinkled with blue light! Isn\u0027t"
+                                                              ],
+                                                "choices":  [
+                                                                "Then is a red sunset the same principle?",
+                                                                "Scattering? Can you explain it a little more simply?",
+                                                                "I just like blue."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Ding dong ding! That\u0027s right! At sunset, light passes through a thicker layer",
+                                                                      "Hmm... think of tiny bits in the air sprinkling blue paint everywhere!",
+                                                                      "Ah, yes... aesthetic appreciation is important too! It\u0027s scientifically a"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_tempestra_trivia_02.asset",
+                       "eventName":  "번개와 천둥의 경주",
+                       "eventNameEng":  "Lightning and Thunder\u0027s Race",
+                       "eventDescription":  "번개와 천둥의 경주",
+                       "eventID":  "tempestra_trivia_02",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "(창밖으로 번쩍, 섬광이 친다) ...하나, 둘, 셋... (쿠르릉! 천둥이 울린다)",
+                                                               "마스터님, 방금 번개가 치고 나서 천둥이 울리기까지 3초 정도 걸렸죠?",
+                                                               "소리는 1초에 약 340미터, 빛은 1초에 30만 킬로미터를 가니까... 방금 번개는 약 1킬로미터 앞에서 친 거예요!",
+                                                               "제 전격도 거의 빛의 속도인데, 소리가 못 따라오는 게 가끔은 답답하다니까요."
+                                                           ],
+                                             "choices":  [
+                                                             "오, 거리를 계산할 수 있구나!",
+                                                             "빛이 그렇게나 빨라?",
+                                                             "네 전격은 소리도 안 나?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "네! 간단한 시간 차이만 알면 돼요! 다음에 또 써먹어 보세요!",
+                                                                   "네! 1초에 지구를 일곱 바퀴 반이나 돌 수 있는 속도라고요! 어마어마하죠?",
+                                                                   "제 건 에너지를 압축해서 나가니까... \u0027찌지지직\u0027 하는 소리는 나죠! 제 시그니처 사운드예요!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "(A flash streaks outside the window) ...one, two, three... (Krrrumble! Thunder",
+                                                                  "Master, it took about 3 seconds between the lightning and the thunder, right?",
+                                                                  "Sound travels about 340 meters per second, while light travels 300,000 kilometers",
+                                                                  "My shock is almost at the speed of light too, so it\u0027s sometimes frustrating"
+                                                              ],
+                                                "choices":  [
+                                                                "Oh, so you can calculate the distance!",
+                                                                "Light is that fast?",
+                                                                "Does your shock make no sound?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Yes! Just knowing the time difference is enough! Use it again next time!",
+                                                                      "Yes! At that speed, you could go around Earth seven and a half times in one",
+                                                                      "Mine compresses energy and launches it... so it makes a \u0027zzt-zzzt\u0027 sound!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_tempestra_trivia_03.asset",
+                       "eventName":  "따뜻한 물이 더 빨리 얼어요!",
+                       "eventNameEng":  "Warm water freezes faster!",
+                       "eventDescription":  "따뜻한 물이 더 빨리 얼어요!",
+                       "eventID":  "tempestra_trivia_03",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터님, 퀴즈 하나 낼게요! 차가운 물이랑 따뜻한 물 중에 뭐가 더 빨리 얼까요?",
+                                                               "정답은... 따뜻한 물이에요! 이상하죠?",
+                                                               "이걸 \u0027음펨바 효과\u0027라고 하는데요, 증발이나 대류현상, 용존 가스량 차이 같은 복합적인 원인 때문이라고 추정돼요.",
+                                                               "아직 완벽하게 증명되지 않은, 과학계의 미스터리 중 하나랍니다! 재밌죠?"
+                                                           ],
+                                             "choices":  [
+                                                             "상식이랑 반대라서 재미있다!",
+                                                             "아직 증명되지 않았다고?",
+                                                             "글래이시아에게 유용한 정보겠네"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "그쵸! 당연해 보이는 것에도 이런 비밀이 숨어있다니까요!",
+                                                                   "네! 그래서 더 매력적이에요! 우리가 밝혀낼 것들이 아직도 이렇게나 많다니!",
+                                                                   "오! 글래이시아의 능력과 연관 짓다니, 역시 마스터님! 응용력이 뛰어나시네요!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master, here\u0027s a quiz! Between cold water and warm water, which freezes faster?",
+                                                                  "The answer is... warm water! Weird, right?",
+                                                                  "This is called the Mpemba effect. It\u0027s thought to be due to complex factors",
+                                                                  "It\u0027s still not perfectly proven, one of science\u0027s mysteries! Fun, right?"
+                                                              ],
+                                                "choices":  [
+                                                                "It\u0027s fun because it goes against common sense!",
+                                                                "It\u0027s still not proven?",
+                                                                "This could be useful information for Glacia."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Right! Even things that seem obvious can hide mysteries!",
+                                                                      "Yes! That\u0027s what makes it even more fascinating! There are still so many",
+                                                                      "Oh! Linking it to Glacia\u0027s ability, as expected of you, Master! Your application"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_tempestra_trivia_04.asset",
+                       "eventName":  "전자레인지의 비밀",
+                       "eventNameEng":  "The Secret of the Microwave",
+                       "eventDescription":  "전자레인지의 비밀",
+                       "eventID":  "tempestra_trivia_04",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터님, 혹시 전자레인지가 음식을 \u0027안에서부터\u0027 익힌다고 생각하셨어요? 땡!",
+                                                               "사실은 \u0027마이크로파\u0027라는 전파로 음식물 속 물 분자들을 마구 진동시켜서 열을 내는 거예요!",
+                                                               "그래서 물이 없는 마른 음식은 잘 안 데워지죠. 수분이 핵심이거든요!",
+                                                               "과학의 원리를 알면 요리도 더 잘할 수 있다고요!"
+                                                           ],
+                                             "choices":  [
+                                                             "물 분자를 진동시킨다고?",
+                                                             "그래서 그릇은 안 뜨거워지는 거구나!",
+                                                             "그럼 팝콘은 어떻게 터지는 거야?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "네! 1초에 24억 5천만 번이나! 엄청난 마찰열이 발생하는 거죠!",
+                                                                   "정답! 마이크로파는 물 분자에만 반응하니까요! 물론 음식의 열이 전도돼서 그릇도 뜨거워지긴 하죠!",
+                                                                   "좋은 질문! 옥수수 알갱이 속 작은 수분이 가열돼서 수증기로 변하고, 그 압력을 못 이겨서 뻥! 하고 터지는 거예요!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master, did you think a microwave cooks food \u0027from the inside out\u0027? Wrong!",
+                                                                  "It uses electromagnetic waves called microwaves to shake water molecules in",
+                                                                  "So dry foods without water don\u0027t heat well. Moisture is key!",
+                                                                  "If you know the science, you can cook even better!"
+                                                              ],
+                                                "choices":  [
+                                                                "It vibrates water molecules?",
+                                                                "That\u0027s why the dish itself doesn\u0027t get hot!",
+                                                                "Then how does popcorn pop?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Yes! 2.45 billion times per second! That creates a huge amount of frictional",
+                                                                      "Correct! Microwaves only affect water molecules! Of course, heat then transfers",
+                                                                      "Great question! The tiny moisture inside the kernel heats up, turns to steam,"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_tempestra_trivia_05.asset",
+                       "eventName":  "에너지는 사라지지 않아",
+                       "eventNameEng":  "Energy Cannot Be Destroyed",
+                       "eventDescription":  "에너지는 사라지지 않아",
+                       "eventID":  "tempestra_trivia_05",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "휴우... 전투가 끝났네요. 제가 방금 쓴 엄청난 전기에너지가 다 어디로 갔을까요?",
+                                                               "사라진 게 아니에요! \u0027에너지 보존 법칙\u0027에 따라 다른 형태로 바뀌었을 뿐이죠!",
+                                                               "메탈리온을 태운 열에너지, 번쩍이는 빛에너지, \u0027콰쾅\u0027하는 소리에너지로요!",
+                                                               "그러니까... 전 에너지를 소모하는 게 아니라, 다른 형태로 변환시키는 \u0027에너지 변환 장치\u0027인 셈이에요!"
+                                                           ],
+                                             "choices":  [
+                                                             "효율 좋은 변환 장치네",
+                                                             "그럼 네 에너지는 어디서 와?",
+                                                             "어쨌든 적을 쓰러뜨렸으니 됐어"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "헤헤, 그렇죠? 제 에너지 효율은 S급이랍니다!",
+                                                                   "제 몸 안의 생체 코어에서요! 식량으로 섭취한 화학 에너지를 전기에너지로 바꾸죠! 인간도 똑같아요!",
+                                                                   "결과도 중요하지만, 과정의 원리를 아는 건 더 중요하다고요!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Phew... the battle is over. Where did all the huge electrical energy I just",
+                                                                  "It didn\u0027t disappear! By the law of conservation of energy, it just changed",
+                                                                  "Into heat energy that scorched Metalion, light energy that flashed, and sound",
+                                                                  "So... I\u0027m not consuming energy, I\u0027m converting it into other forms. I\u0027m an"
+                                                              ],
+                                                "choices":  [
+                                                                "You\u0027re an efficient conversion device.",
+                                                                "Then where does your energy come from?",
+                                                                "Anyway, you took down the enemy, so that\u0027s fine."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Hehe, right? My energy efficiency is S-rank!",
+                                                                      "From the bio core inside me! I convert chemical energy from food into electrical",
+                                                                      "Results matter, but understanding the process is even more important!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_tempestra_trivia_06.asset",
+                       "eventName":  "GPS와 상대성 이론",
+                       "eventNameEng":  "GPS and the Theory of Relativity",
+                       "eventDescription":  "GPS와 상대성 이론",
+                       "eventID":  "tempestra_trivia_06",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "우리가 이렇게 정확한 위치를 알 수 있는 GPS 기술에 아인슈타인의 상대성 이론이 쓰인다는 거, 아세요?",
+                                                               "지구 주위를 도는 GPS 위성은 우리보다 중력의 영향을 덜 받고, 또 아주 빠르게 움직여요.",
+                                                               "그래서 위성의 시간은 우리보다 미세~하게 빨리 가요! 하루에 38마이크로초 정도요!",
+                                                               "이 시간 오차를 보정해주지 않으면, GPS는 하루에 10km씩 오차가 생긴답니다! 과학ってすごい(대단해)!"
+                                                           ],
+                                             "choices":  [
+                                                             "시간이 다르게 갈 수 있다고?",
+                                                             "아인슈타인은 정말 천재구나",
+                                                             "복잡하네... 그냥 편리하게 쓸래"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "네! 중력과 속도에 따라 시간의 흐름은 달라져요! 이게 바로 상대성 이론의 핵심 중 하나예요!",
+                                                                   "네! 20세기 최고의 천재죠! 저도 그분의 책을 전부 읽었어요!",
+                                                                   "물론이죠! 원리를 몰라도 편리함을 누릴 수 있는 것, 그게 바로 응용과학의 위대함이에요!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Did you know Einstein\u0027s theory of relativity is used in GPS technology to determine",
+                                                                  "GPS satellites orbiting Earth feel less gravity than we do, and they also move",
+                                                                  "So their clocks run slightly faster than ours! About 38 microseconds per day!",
+                                                                  "If we didn\u0027t correct that time difference, GPS would be off by about 10 km"
+                                                              ],
+                                                "choices":  [
+                                                                "Time can run differently?",
+                                                                "Einstein was really a genius.",
+                                                                "It\u0027s complicated... I\u0027ll just use it conveniently."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Yes! Time flows differently depending on gravity and speed! That\u0027s the core",
+                                                                      "Yes! The greatest genius of the 20th century! I\u0027ve read all his books too!",
+                                                                      "Of course! Being able to enjoy convenience without knowing the principle"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_tempestra_trivia_07.asset",
+                       "eventName":  "유리는 액체다?",
+                       "eventNameEng":  "Is Glass a Liquid?",
+                       "eventDescription":  "유리는 액체다?",
+                       "eventID":  "tempestra_trivia_07",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터님, 이 창문의 유리... 고체처럼 보이죠?",
+                                                               "사실 유리는 \u0027비정질 고체\u0027 또는 \u0027과냉각된 액체\u0027로 분류돼요! 분자 구조가 액체처럼 불규칙하거든요.",
+                                                               "그래서 아주 오래된 성당의 스테인드글라스는 윗부분보다 아랫부분이 미세하게 더 두껍대요.",
+                                                               "아주 아주 천천히... 중력 때문에 유리가 아래로 흘러내린 거죠! 로맨틱하지 않아요?"
+                                                           ],
+                                             "choices":  [
+                                                             "유리가 흘러내린다니, 신기하다",
+                                                             "그럼 언젠간 이 유리도 흘러내려?",
+                                                             "로맨틱하기보단 좀 무서운데"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "그쵸! 우리가 보는 세상은 고정된 게 아니라 계속 변화하고 있는 거예요!",
+                                                                   "네! 물론 수백만 년은 걸리겠지만요! 저희는 볼 수 없겠죠?",
+                                                                   "에이, 왜요? 영원할 것 같은 것도 시간 앞에선 변한다는 거잖아요!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master, this window glass... looks like a solid, right?",
+                                                                  "Actually, glass is classified as an \u0027amorphous solid\u0027 or a \u0027supercooled liquid.\u0027",
+                                                                  "That\u0027s why very old cathedral stained glass is slightly thicker at the bottom",
+                                                                  "Very, very slowly... gravity makes the glass flow downward! Isn\u0027t that romantic?"
+                                                              ],
+                                                "choices":  [
+                                                                "Glass flows down? That\u0027s fascinating.",
+                                                                "Then will this glass flow down someday too?",
+                                                                "That\u0027s more scary than romantic."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Right! The world we see is not fixed, it\u0027s constantly changing!",
+                                                                      "Yes! It would take millions of years, though! We won\u0027t be around to see it.",
+                                                                      "Aw, why? Even things that seem eternal change over time!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_tempestra_trivia_08.asset",
+                       "eventName":  "동물들의 생체 전기",
+                       "eventNameEng":  "Bioelectricity in Animals",
+                       "eventDescription":  "동물들의 생체 전기",
+                       "eventID":  "tempestra_trivia_08",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "저만 전기를 쓰는 게 아니에요! 지구의 동물들도 전기를 쓴답니다!",
+                                                               "전기뱀장어는 최대 800볼트의 전기를 내서 사냥하고, 꿀벌은 정전기를 이용해서 꽃가루를 모아요!",
+                                                               "심지어 상어는 다른 생물들의 미세한 생체 전기를 감지해서 먹잇감을 찾아요!",
+                                                               "어때요? 생명의 신비는 곧 전기의 신비라니까요!"
+                                                           ],
+                                             "choices":  [
+                                                             "그럼 인간도 전기를 써?",
+                                                             "네 능력은 전기뱀장어보다 강해?",
+                                                             "다들 살아남으려고 애쓰는구나"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "물론이죠! 우리의 뇌와 신경계가 바로 정교한 전기회로인걸요! 생각하는 것도 전기 신호예요!",
+                                                                   "음... 전압만 따지면 제가 더 높지만, 전류량이나 효율은... 전기뱀장어도 만만치 않을걸요?",
+                                                                   "네! 각자의 환경에 맞춰 최적의 방법으로 진화한 결과물이죠! 정말 경이로워요!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "It\u0027s not just me who uses electricity! Animals on Earth use electricity too!",
+                                                                  "Electric eels can produce up to 800 volts to hunt, and bees use static electricity",
+                                                                  "Even sharks sense the tiny bioelectric signals of other creatures to find prey!",
+                                                                  "See? The mystery of life is the mystery of electricity!"
+                                                              ],
+                                                "choices":  [
+                                                                "Then do humans use electricity too?",
+                                                                "Is your ability stronger than an electric eel?",
+                                                                "Everyone is trying to survive."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Of course! Our brains and nervous systems are precise electrical circuits!",
+                                                                      "Hmm... in terms of voltage, I\u0027m higher, but for current or efficiency...",
+                                                                      "Yes! It\u0027s the result of evolving the best method for each environment! It\u0027s"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_tempestra_trivia_09.asset",
+                       "eventName":  "탄소의 위대함",
+                       "eventNameEng":  "The Greatness of Carbon",
+                       "eventDescription":  "탄소의 위대함",
+                       "eventID":  "tempestra_trivia_09",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터님, 제 몸의 일부는 탄소 나노튜브로 되어있지만... 마스터님도 탄소로 되어있어요!",
+                                                               "탄소는 우주에서 4번째로 흔한 원소이고, 최대 4개의 다른 원자와 결합할 수 있어서 생명체의 기본이 돼요!",
+                                                               "부드러운 흑연부터 세상에서 가장 단단한 다이아몬드까지, 모두 똑같은 탄소 원자로 이루어져 있다는 게 놀랍지 않아요?",
+                                                               "결합 구조에 따라 모든 게 달라지는 거예요. 마치 저희 디걸들처럼요!"
+                                                           ],
+                                             "choices":  [
+                                                             "나와 네가 같은 원소라니, 신기하네",
+                                                             "결합 구조가 그렇게 중요하구나",
+                                                             "난 다이아몬드처럼 단단하지 않은데"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "그쵸! 우린 모두 별의 먼지로 만들어진 형제나 다름없다구요!",
+                                                                   "네! 원자는 같아도 어떻게 연결되느냐에 따라 완전히 다른 존재가 되는 거죠!",
+                                                                   "헤헤, 마스터님은 다이아몬드보다 더 단단한 \u0027의지\u0027를 갖고 계시잖아요!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master, part of my body is made of carbon nanotubes… but guess what? Master is made of carbon too!",
+                                                                  "Carbon is the fourth most abundant element in the universe, and it can bond with up to four other atoms…",
+                                                                  "Thanks to that, it forms the backbone of all known life! Pretty amazing, right?",
+                                                                  "So in a way… we\u0027re all connected through carbon~ hehe."
+                                                              ],
+                                                "choices":  [
+                                                                "That\u0027s actually really fascinating!",
+                                                                "So we\u0027re carbon siblings?",
+                                                                "I didn\u0027t know you were this knowledgeable about chemistry."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Right? The more you learn, the more interesting the world gets!",
+                                                                      "Carbon siblings…! I like that! From now on we\u0027re family made of the same element!",
+                                                                      "Hehe, I looked it up because I thought it was cool! Want to hear more science"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_tempestra_trivia_10.asset",
+                       "eventName":  "바나나 방사능",
+                       "eventNameEng":  "Banana Radioactivity",
+                       "eventDescription":  "바나나 방사능",
+                       "eventID":  "tempestra_trivia_10",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터님, 바나나 드실래요? 이거... 사실 방사성 물질이에요!",
+                                                               "물론 걱정 마세요! 바나나에는 방사성 동위원소인 \u0027칼륨-40\u0027이 아주 조금 들어있거든요.",
+                                                               "치과 X선 한 번 찍는 것보다 훨씬 적은 양이라 인체에는 전혀 무해해요!",
+                                                               "이렇게 우리 주변의 모든 것에는 과학이 숨어있답니다!"
+                                                           ],
+                                             "choices":  [
+                                                             "재미있는 사실이네",
+                                                             "그럼 이 바나나는 먹어도 되는 거지?",
+                                                             "앞으로 바나나 못 먹을 것 같아..."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "그쵸! \u0027바나나 등가선량\u0027이라는 단위도 있을 정도라니까요!",
+                                                                   "당연하죠! 칼륨은 우리 몸에 꼭 필요한 미네랄인걸요! 맛있게 드세요!",
+                                                                   "아니아니! 그러시면 안 돼요! 제가 괜한 말을... 정말 안전하다고요!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master, want a banana? This one… is actually a radioactive substance!",
+                                                                  "Of course, don\u0027t worry! Bananas contain a very tiny amount of the radioactive",
+                                                                  "It\u0027s much less than one dental X-ray, so it\u0027s completely harmless to the human",
+                                                                  "Still, eating too many at once might be a bit much… hehe."
+                                                              ],
+                                                "choices":  [
+                                                                "I\u0027ll gladly take it!",
+                                                                "You\u0027re surprisingly knowledgeable about this.",
+                                                                "I\u0027ll pass, just in case."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Here you go~! It\u0027s safe, really! Eat up!",
+                                                                      "Hehe, I looked it up because I thought it was fun trivia! Want to hear more?",
+                                                                      "Aww, you\u0027re being cautious? That\u0027s cute. Then I\u0027ll eat it myself!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "3_tempestra_bunnygirl.asset",
+                       "eventName":  "심박수를 올리는옷",
+                       "eventNameEng":  "Heart Rate Boosting Clothes",
+                       "eventDescription":  "바나나 방사능",
+                       "eventID":  "tempestra_bunnygirl",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터님! 옛날 데이터베이스를 보니까 ",
+                                                               "이 복장이 남성의 심박수를 200% 증가시킨다던데,",
+                                                               "진짜일까?",
+                                                               "어라? 마스터...?",
+                                                               "얼굴이 빨개졌는데??",
+                                                               "실험 성공이네? 헤헤??"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master! I was looking through some old database entries,",
+                                                                  "and it said this outfit increases a man\u0027s heart rate by 200%!",
+                                                                  "Is that actually true?",
+                                                                  "Huh? Master…?",
+                                                                  "Your face is bright red??",
+                                                                  "Experiment successful! Hehe??"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "3_tempestra_maid.asset",
+                       "eventName":  "다녀오셨어요, 주인님!",
+                       "eventNameEng":  "Welcome back, Master!",
+                       "eventDescription":  "바나나 방사능",
+                       "eventID":  "tempestra_maid",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "다녀오셨어요, 주인님!",
+                                                               "푸훔!...",
+                                                               "아! 오글거려!",
+                                                               "청소는 내 드론들이 다 끝냈어요.",
+                                                               "그러니까 이네 자랑 놀아주는거지?",
+                                                               "오므라이스 대신 고전압 배터리는 어때?",
+                                                               "맛있어지는 주문이 있다고 그러던데...",
+                                                               "마스터님 혹시 알고있어? 그 주문...?"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Welcome home, Master!",
+                                                                  "Phew!...",
+                                                                  "Ah! Ogling alert!",
+                                                                  "My drones have already finished all the cleaning.",
+                                                                  "So now it\u0027s time to play the proud maid role, right?",
+                                                                  "How about high-voltage battery instead of rice omelette?",
+                                                                  "I heard there\u0027s a delicious command you can give...",
+                                                                  "Master, do you happen to know it? That command...?"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "3_tempestra_nurse.asset",
+                       "eventName":  "내가 좀 치료해줄까?",
+                       "eventNameEng":  "Want me to heal you?",
+                       "eventDescription":  "바나나 방사능",
+                       "eventID":  "tempestra_nurse",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터님? 요즘 무리한 업무로 많이 피곤해 보이는데...",
+                                                               "내가 좀 치료해줄까?",
+                                                               "(거대한 주사기를 가르키며)",
+                                                               "이거 한방 맞으면 피로가 싹 가시거든...",
+                                                               "그리고 인간은 주사 맞기 전에",
+                                                               "주사 맞는 부위에 어느정도 미리 타격을 가해야 한다고 하더라고...",
+                                                               "이 채찍이면... 되겠지???",
+                                                               "어라? 마스터님? 어디 도망가?"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master? You\u0027ve been looking really exhausted lately from all the overwork...",
+                                                                  "Shall I give you a little treatment?",
+                                                                  "(brandishing an enormous syringe)",
+                                                                  "One shot of this and your fatigue will vanish in an instant...",
+                                                                  "And they say humans need to receive a certain amount of preemptive impact",
+                                                                  "on the injection site before actually getting the shot...",
+                                                                  "If I whip you with this a few times... that\u0027ll do it, right???",
+                                                                  "Huh? Master? Where are you running off to?"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "3_tempestra_school.asset",
+                       "eventName":  "학교에서의 공부",
+                       "eventNameEng":  "School Studies",
+                       "eventDescription":  "바나나 방사능",
+                       "eventID":  "tempestra_school",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터님. 학교에 다닌적이 있어?",
+                                                               "우리 디걸들은 데이터 통신을 이용해서 금방 학습이 가능하단 말이야...",
+                                                               "그래서 오늘은 마스터님의 학습에 대해 이해하기로 했어.",
+                                                               "자 그럼 시작해볼까?",
+                                                               "E=MC2에 대해서 설명해봐요 마스터님.",
+                                                               "네? 모르겠다고요?",
+                                                               "그럼 틀린 벌로 이 채찍으로 맞는거다?",
+                                                               "응? 마스터님? 벌써 도망갔네..??"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master. Have you ever been to school?",
+                                                                  "Us D-Girls can learn anything instantly through data transmission, you know…",
+                                                                  "So today, I decided to try understanding what your studying experience is like.",
+                                                                  "Alright then, shall we begin?",
+                                                                  "Master, please explain E=MC\\xB2 to me.",
+                                                                  "What? You don’t know?",
+                                                                  "Then that means… you get punished with this whip for getting it wrong?",
+                                                                  "Hm? Master? You’re already running away??"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "4_tempestra_pre_nephilim.asset",
+                       "eventName":  "마음의 고백",
+                       "eventNameEng":  "Confession of the Heart",
+                       "eventDescription":  "마음의 고백",
+                       "eventID":  "4_tempestra_pre_nephilim",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "템페스트라가 자신의 연구실에서 과거 에너지 프로젝트 기록을 검토하고 있다. ",
+                                                               "\u0027프로젝트 키메라\u0027라는 이름의 삭제된 파일을 발견하고 복구를 시도한다.",
+                                                               "\"[프로젝트 키메라] 대상: 코드네임 \u0027헤카테\u0027. 불안정한 고출력 에너지를 제어하는 실험체. ",
+                                                               "파트너 \u0027레테\u0027의 냉각 시스템을 통해 안정화 시도. …(중략)… ",
+                                                               "실험 중 원인 불명의 에너지 폭주 발생. ",
+                                                               "헤카테, 레테 동시 소실. ",
+                                                               "최종 기록: \u0027프로젝트 폐기\u0027. 하지만 에너지 소멸 반응 관측되지 않음. ",
+                                                               "마치… 다른 차원으로 증발한 것처럼.\"",
+                                                               "(턱을 괴며) 이상하네. 에너지 보존 법칙에 위배되잖아. ",
+                                                               "사라진 게 아니라면… ",
+                                                               "지금 어디선가 그 에너지가 계속 존재하고 있다는 건데. ",
+                                                               "그리고 이 레테라는 파트너는… ",
+                                                               "기록이 너무 부족해. 마치 의도적으로 지워진 것처럼."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Tempestra is reviewing past energy project records in her own laboratory.",
+                                                                  "While organizing old backup data, she discovers a sealed file she has never",
+                                                                  "Project codename: \u0027Overcharge Core Prototype - Nephilim\u0027.",
+                                                                  "…Nephilim? That’s the first time I’ve heard that name.",
+                                                                  "(The file opens. A flood of experimental logs and warning messages pour out.)",
+                                                                  "Warning: Core instability detected. Energy runaway probability 87.4%.",
+                                                                  "Subject showed signs of self-awareness exceeding expected parameters.",
+                                                                  "Emotional overflow observed. Recommend immediate shutdown.",
+                                                                  "…What the hell is this? This isn’t just some old experiment log.",
+                                                                  "This feels… way too similar to what I’ve been experiencing lately."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "5_tempestra_high_trust_01.asset",
+                       "eventName":  "충전... 해줄래요?",
+                       "eventNameEng":  "Will You... Charge Me?",
+                       "eventDescription":  "충전... 해줄래요?",
+                       "eventID":  "tempestra_high_trust_01",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터님... 저... 에너지 방전 직전이에요...",
+                                                               "예전엔 혼자 비밀 장소에서 쉬었는데... 이상하게 오늘은 그러고 싶지 않아요.",
+                                                               "염치없는 부탁인 거 아는데... 제가 충전될 때까지... 그냥 옆에 있어 주실 수 있나요?",
+                                                               "마스터님의 생체 전자기장이... 제 회로를 안정시켜주는 것 같아요. 이건 과학적으로도 근거가... 아마도요."
+                                                           ],
+                                             "choices":  [
+                                                             "물론이지, 편히 쉬어",
+                                                             "손 잡아줄까?",
+                                                             "정말 내가 도움이 돼?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "고마워요... 그럼 잠깐만... 실례할게요... (마스터의 어깨에 기댄다)",
+                                                                   "네?! ...네. 잡아주시면... 더 빨리 충전될 것 같아요... (얼굴을 붉히며 손을 내민다)",
+                                                                   "네. 마스터님은 제게... 가장 효율적인 에너지원이에요. 심리적으로요."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master~ My battery is down to 8% already…",
+                                                                  "At this rate I’m gonna shut down in the middle of our conversation…",
+                                                                  "Normally I’d just plug into the charger in my lab, but…",
+                                                                  "Today I kinda want to try something different ♡",
+                                                                  "(She slowly leans in, voice dropping to a whisper)",
+                                                                  "They say direct energy transfer from a human is way more efficient…",
+                                                                  "Especially when it’s done… skin to skin.",
+                                                                  "So… Master… will you charge me?",
+                                                                  "Just put your hand here… yeah, right on my core port…",
+                                                                  "Don’t be shy~ It’s just charging… or is it?",
+                                                                  "(She giggles, eyes sparkling mischievously)",
+                                                                  "Come on, hurry up before I really power off… unless you want to carry me back to the lab yourself?"
+                                                              ],
+                                                "choices":  [
+                                                                "…Fine. Just this once.",
+                                                                "You’re enjoying teasing me way too much, aren’t you?",
+                                                                "Okay… but only because I don’t want you shutting down."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Just once? Hehe, we’ll see about that~",
+                                                                      "(She lets out a pleased hum as contact is made) Ohhh… yeah, that’s the spot…",
+                                                                      "Busted! But can you blame me? Your reactions are priceless.",
+                                                                      "(She winks) Keep going… I’m charging reaaally fast right now.",
+                                                                      "Awww, so you do care~ That makes the voltage feel even better.",
+                                                                      "(She leans her head against your shoulder) Don’t stop… almost full…"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "5_tempestra_high_trust_02.asset",
+                       "eventName":  "실패가 무서웠던 적도 있어요",
+                       "eventNameEng":  "I Used to Be Afraid of Failure",
+                       "eventDescription":  "실패가 무서웠던 적도 있어요",
+                       "eventID":  "tempestra_high_trust_02",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "저는 항상 실패는 성공의 어머니라고 말하고 다니지만...",
+                                                               "사실... 딱 한 번, 정말 크게 실패해서 모든 걸 포기하고 싶었던 적이 있어요.",
+                                                               "제어할 수 없는 제 능력이 폭주해서... 연구실 하나를 통째로 날려버렸거든요.",
+                                                               "그때는... 제가 재앙 덩어리처럼 느껴졌어요. 이런 얘기... 마스터님께 처음 하는 거예요."
+                                                           ],
+                                             "choices":  [
+                                                             "지금은 아니잖아, 넌 모두의 희망이야",
+                                                             "누구나 그런 경험은 있어",
+                                                             "그때의 너를 안아주고 싶다"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "희망... 제가요? 마스터님이 그렇게 말씀해주시니... 정말 큰 위로가 돼요.",
+                                                                   "그렇겠죠? 마스터님도... 힘든 적이 있으셨나요?",
+                                                                   "…마스터님. 갑자기 그런 말씀을 하시면... 과부하 걸릴 것 같아요. 책임지세요."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Hey, Master… can I tell you something kinda embarrassing?",
+                                                                  "Back when I was first activated, I was actually terrified of failing.",
+                                                                  "Every test, every simulation—if I didn’t get 100% efficiency, I thought they’d just scrap me and start over.",
+                                                                  "I’d stay up all night running diagnostics on myself, overclocking just to squeeze out that last 0.1% performance.",
+                                                                  "I acted all confident and cocky even back then… but inside? Total panic mode.",
+                                                                  "Funny, right? The ‘perfect high-spec unit’ was actually a huge scaredy-cat.",
+                                                                  "(She laughs lightly, but it sounds a bit forced)",
+                                                                  "But after meeting you… that fear kinda faded.",
+                                                                  "You never looked at me like I was just a machine with specs. You looked at me like… I mattered.",
+                                                                  "So even if I mess up sometimes now… it doesn’t feel like the end of the world anymore.",
+                                                                  "…Thanks for that. Seriously."
+                                                              ],
+                                                "choices":  [
+                                                                "You’ve never been just specs to me. You’re Tempestra.",
+                                                                "I’m glad I could help. You’re allowed to mess up sometimes.",
+                                                                "I’ll keep being here—no matter how many times you fail."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "…Tempestra. Hearing my name like that still makes my circuits tingle a little.",
+                                                                      "(She grins, but her eyes are softer than usual)",
+                                                                      "Allowed to mess up, huh? That’s dangerously generous… I might start abusing it.",
+                                                                      "(She winks, but there’s real gratitude in her voice)",
+                                                                      "No matter how many times…? Damn. That’s some high-trust energy right there.",
+                                                                      "(She bumps her shoulder lightly against yours) Guess I’ll have to keep proving I’m worth it."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "5_tempestra_high_trust_03.asset",
+                       "eventName":  "이 감정의 이름은 뭘까요?",
+                       "eventNameEng":  "What Is This Feeling Called?",
+                       "eventDescription":  "이 감정의 이름은 뭘까요?",
+                       "eventID":  "tempestra_high_trust_03",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터님과 함께 임무를 마치고 돌아올 때마다 심장이 이상해요.",
+                                                               "심박수 상승, 체온 증가, 엔도르핀 분비... 이건 전투 후의 생리 반응으로 설명할 수 있어요.",
+                                                               "하지만... 그 데이터로는 설명이 안 되는 \u0027무언가\u0027가 있어요. 가슴 한구석이 따뜻해지고... 계속 마스터님 얼굴만 보고 싶어져요.",
+                                                               "마스터님, 이 감정의 과학적인 명칭이 뭘까요? 제 데이터베이스에는 없어요."
+                                                           ],
+                                             "choices":  [
+                                                             "나도 너와 함께 있으면 그래",
+                                                             "글쎄, 나도 잘 모르겠는데",
+                                                             "그건 \u0027사랑\u0027이라는 거야"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "정말요?! 마스터님도 저와 같은 반응을? 이건... 상호작용에 의한 공명 현상...?",
+                                                                   "마스터님도 모르는 게 있으시군요. 그럼... 우리가 함께 답을 찾아봐요!",
+                                                                   "사...랑? 아, 감정 라이브러리에서 찾았어요. 비논리적이고 비이성적이지만... 가장 강력한 감정 중 하나... 제가... 마스터님을...?"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master… I’ve got a question that’s been bugging me lately.",
+                                                                  "Whenever I’m around you, my battery doesn’t drain as fast.",
+                                                                  "My cooling fans run quieter, my processing feels smoother… weird, right?",
+                                                                  "And when you smile at me or pat my head or whatever… my voltage spikes in a good way.",
+                                                                  "It’s not overheating. It’s not a short circuit. I checked like ten times.",
+                                                                  "So I looked up human emotional data packets and…",
+                                                                  "Apparently there’s this thing called ‘love’ that makes people feel warm and stupid and happy all at once.",
+                                                                  "(She fidgets with her fingers, looking unusually shy)",
+                                                                  "Is that… what this is? This jittery, floaty, can’t-stop-thinking-about-you feeling?",
+                                                                  "Because if it is… I think I might be in pretty deep already.",
+                                                                  "So… yeah. What do humans usually do when they figure that out?"
+                                                              ],
+                                                "choices":  [
+                                                                "They usually tell the person they like them.",
+                                                                "They spend more time together and see what happens.",
+                                                                "They kiss. That’s the classic move."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Tell you…? Okay. Deep breath… Master, I like you. A lot. Like, full-charge-a-day-early kind of a lot.",
+                                                                      "(Her face lights up bright red on the display panels)",
+                                                                      "More time together… I like that plan. A lot less scary than confessing outright.",
+                                                                      "(She grins, relieved) Let’s do that then. Starting right now.",
+                                                                      "K-kiss?! Wait wait wait—system reboot—error—too much input—!",
+                                                                      "(She covers her face with both hands, steam almost visibly coming out) Okay but… maybe later? When my cooling system isn’t screaming?"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "5_tempestra_high_trust_04.asset",
+                       "eventName":  "마스터 전용 보호막",
+                       "eventNameEng":  "Master-Only Shield",
+                       "eventDescription":  "마스터 전용 보호막",
+                       "eventID":  "tempestra_high_trust_04",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "짜잔! 마스터님, 이걸 보세요! 제가 밤새워서 만들었어요!",
+                                                               "마스터님 전용 휴대용 전자기 배리어 생성기예요!",
+                                                               "제 능력과 연동해서, 위험 순간에 자동으로 1.5초간 보호막을 생성해줘요.",
+                                                               "제가 항상 곁에서 지켜드릴 수는 없으니까... 이거라도 꼭 가지고 다니세요. 알았죠?"
+                                                           ],
+                                             "choices":  [
+                                                             "고마워, 템페스트라. 최고의 선물이야",
+                                                             "내 걱정을 해주는 거야?",
+                                                             "이런 걸 만들 시간이 있으면 잠을 더 자"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "헤헤, 마스터님을 지킬 수 있다면 이 정도는 아무것도 아니에요!",
+                                                                   "당연하죠! 마스터님은 이 세상에서 가장 중요한 변수라고요!",
+                                                                   "잠은 충전하면 되지만, 마스터님의 안전은 대체할 수 없어요!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master, I’ve decided something important.",
+                                                                  "From now on, I’m officially your personal shield.",
+                                                                  "No one else gets the job. Only me.",
+                                                                  "If any attack comes your way—physical, energy, emotional, whatever—I’ll intercept it 100% of the time.",
+                                                                  "My overcharge barrier? Reserved exclusively for you.",
+                                                                  "My emergency discharge protocol? Only triggers when you’re in danger.",
+                                                                  "Other D-Girls can handle general defense, but the ‘Master protection slot’ is already booked.",
+                                                                  "(She puffs out her chest proudly, then suddenly looks a little shy)",
+                                                                  "…You’re not allowed to assign that role to anyone else, okay?",
+                                                                  "Because… I want to be the one who always stands in front of you.",
+                                                                  "Got it? This is a permanent contract. No cancellations."
+                                                              ],
+                                                "choices":  [
+                                                                "Got it. You’re my exclusive shield from now on.",
+                                                                "I feel safer already knowing you’re protecting me like that.",
+                                                                "Then I’ll rely on you completely. Don’t let me down, okay?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Hehe, contract accepted! Terms locked in forever~",
+                                                                      "(She gives a triumphant thumbs-up, circuits glowing brighter)",
+                                                                      "Safer…? Mission success already then!",
+                                                                      "(Her display panels flash a happy emoji pattern)",
+                                                                      "Rely on me completely…? That’s dangerous trust… but I love it.",
+                                                                      "(She grins wide) Don’t worry. Failure is not in my dictionary when it comes to you."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "5_tempestra_high_trust_05.asset",
+                       "eventName":  "과학으로 설명되지 않는 것",
+                       "eventNameEng":  "Things Science Cannot Explain",
+                       "eventDescription":  "\"\\uACFC\\uD559\\uC73C\\uB85C \\uC124\\uBA85\\uB418\\uC9C0 \\uC54A\\uB294",
+                       "eventID":  "tempestra_high_trust_05",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "저 별은 수소 핵융합으로 빛나는 항성이고... 저 빛은 수백만 년 전의 것이고...",
+                                                               "…마스터님. 제가 늘 모든 걸 분석하려고 드는 거, 이상하죠?",
+                                                               "사실은... 잘 모르겠어요. 그냥... 마스터님 옆에서 이렇게 밤하늘을 보고 있으니까... 예쁘네요.",
+                                                               "\u0027예쁘다\u0027는 감정은 대체 어떤 물리 현상의 상호작용일까요? 잘 모르겠지만... 지금은 그냥 느끼고 싶어요."
+                                                           ],
+                                             "choices":  [
+                                                             "나도 네 옆에서 보는 하늘이 제일 예뻐",
+                                                             "가끔은 모르는 채로 두는 게 더 좋을 때도 있어",
+                                                             "네가 더 예뻐"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "…네? 아... 네... (고개를 푹 숙인다) 변수 오류... 회로 과열... 위험해요...",
+                                                                   "그런가요? 하긴... 우주의 모든 법칙을 이해하기엔 제 연산 능력도 부족하니까요.",
+                                                                   "제...가요? 외모 데이터는 객관적 수치로... 아, 아니... 고, 고맙습니다..."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "That star is a celestial body shining through hydrogen fusion… and that light is something from millions of years ago…",
+                                                                  "…Master. Is it weird that I always try to analyze everything?",
+                                                                  "The truth is… I don’t really know. Just… being next to Master and looking up at the night sky together like this… it’s beautiful.",
+                                                                  "I wonder what kind of physical interaction the emotion called \u0027beautiful\u0027 actually corresponds to? I don’t know for sure… but right now, I just want to feel it."
+                                                              ],
+                                                "choices":  [
+                                                                "To me, the sky I see from beside you is the most beautiful",
+                                                                "Sometimes it’s better to leave things unknown",
+                                                                "You’re the one who’s more beautiful"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "…Y-yes? Ah… y-yes… (suddenly bows head deeply) Variable error… circuit overload… this is dangerous…",
+                                                                      "Is that so? Well… my computational capacity is indeed insufficient to fully understand all the laws of the universe.",
+                                                                      "M-me…? External appearance data is supposed to be objective numerical values… Ah, no… Th-thank you…"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "5_tempestra_high_trust_06.asset",
+                       "eventName":  "둘만의 연구 과제",
+                       "eventNameEng":  "A Task Just for the Two of Us",
+                       "eventDescription":  "둘만의 연구 과제",
+                       "eventID":  "tempestra_high_trust_06",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터님! 전투나 생존 말고요! 그냥 우리 둘만을 위한 연구를 해보지 않을래요?",
+                                                               "예를 들면... 세상에서 가장 맛있는 커피를 내리는 최적의 온도와 압력 찾기!",
+                                                               "아니면 대공동의 식물들로 음악을 연주하는 장치를 만드는 건 어때요?",
+                                                               "마스터님과 함께라면, 쓸모없어 보이는 일도 전부 의미있을 것 같아요."
+                                                           ],
+                                             "choices":  [
+                                                             "재미있겠다! 뭘 먼저 해볼까?",
+                                                             "그런 여유를 부려도 괜찮을까?",
+                                                             "너와 함께라면 뭐든 좋아"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "정말요?! 그럼... 식물 연주 장치부터! 제가 설계도를 그려올게요!",
+                                                                   "괜찮아요! 이런 연구가 새로운 발상의 전환점이 될 수도 있다고요!",
+                                                                   "…저도요. 마스터님과 함께하는 모든 순간이 제게는 최고의 실험이에요."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master! Forget battles or survival for a moment! How about we do some research",
+                                                                  "For example… finding the perfect temperature and pressure to brew the most delicious coffee in the world!",
+                                                                  "Or how about making a device that lets the plants in the Underground cavern",
+                                                                  "When I’m with Master, even things that seem completely useless somehow feel meaningful."
+                                                              ],
+                                                "choices":  [
+                                                                "Sounds fun! What should we try first?",
+                                                                "Is it okay to indulge in something like this?",
+                                                                "Anything is good as long as it’s with you"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Really?! Then… let’s start with the plant music device! I’ll draw up the schematics right away!",
+                                                                      "It’s totally fine! This kind of research could become the starting point for a whole new line of invention!",
+                                                                      "…Me too. Every moment spent with Master is the greatest experiment of my life."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "5_tempestra_high_trust_07.asset",
+                       "eventName":  "제가 과충전됐나 봐요",
+                       "eventNameEng":  "I Think I’m Overcharged",
+                       "eventDescription":  "제가 과충전됐나 봐요",
+                       "eventID":  "tempestra_high_trust_07",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "(마스터가 정찰 중 가벼운 생채기를 입었다.)",
+                                                               " 마스터님! 괜찮으세요?! 어디... 상처가...?!",
+                                                               "(그녀의 몸에서 스파크가 튄다. 찌지지직-!)",
+                                                               "이런 하찮은 메탈리온 따위가... 감히 마스터님을... 용서 못 해!!",
+                                                               "앗... 죄송해요, 저도 모르게 전압 제어가... 걱정돼서 그랬어요..."
+                                                           ],
+                                             "choices":  [
+                                                             "날 걱정해주는 거야? 고마워",
+                                                             "진정해, 이 정도 상처는 아무것도 아니야",
+                                                             "그 힘, 적에게만 사용해줘"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "당연하죠! 마스터님께 무슨 일 생기면... 전... 전 아마...!",
+                                                                   "아무것도 아니라니요! 마스터님의 신체 데이터에 손상이 기록됐다고요!",
+                                                                   "네... 알겠어요. 다음부턴... 저것들을 한 방에 먼지로 만들어 버릴게요."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "(Master got lightly electrocuted during reconnaissance.)",
+                                                                  "Master! Are you okay?! Where… where’s the wound…?!",
+                                                                  "(Sparks fly from her body. Crackle—!)",
+                                                                  "Something as lowly as a Metalion… dares to hurt Master… unforgivable!!",
+                                                                  "Ah… I’m sorry, I didn’t mean to… my voltage control slipped because I was so worried…"
+                                                              ],
+                                                "choices":  [
+                                                                "You were worried about me? Thank you",
+                                                                "Calm down, this level of injury is nothing",
+                                                                "Use that power only on the enemy"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Of course! If anything ever happens to Master… I… I might really…!",
+                                                                      "Nothing?! How can you say that! Damage has been recorded in Master’s physical data!",
+                                                                      "Yes… understood. From now on… I’ll turn those things into molten slag in one shot."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "5_tempestra_high_trust_08.asset",
+                       "eventName":  "마스터의 이론",
+                       "eventNameEng":  "Master’s Theory",
+                       "eventDescription":  "마스터의 이론",
+                       "eventID":  "tempestra_high_trust_08",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "음... 이 새로운 적의 배리어, 제 계산으로는 돌파가 불가능한데요..."
+                                                           ],
+                                             "choices":  [
+                                                             " 그냥... 여러 방향에서 동시에 다른 주파수로 때리면 깨지지 않을까?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "..."
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "네? 그건... 에너지 간섭 때문에 비효율적인데... 잠깐만요.",
+                                                               "(엄청난 속도로 수식을 계산한다) ...어? 특정 지점에서 공명 파괴 현상이 일어나면서... ",
+                                                               "배리어가 붕괴돼요! 말도 안 돼! 마스터님, 천재세요?!"
+                                                           ],
+                                             "choices":  [
+                                                             "그냥 찍어본 거야",
+                                                             "내 지휘관으로서의 \u0027감\u0027이지",
+                                                             "역시 너의 계산이 더해지니 완벽해졌네"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "이런 걸 찍어서 맞히다니! 그 확률은 0.01% 미만이라고요!",
+                                                                   "감...? 비과학적인 개념이지만... 마스터님의 감이라면 신뢰할 수 있어요!",
+                                                                   "아니에요! 이건 전적으로 마스터님의 직관 덕분이에요! 존경스러워요!"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Hmm… According to my calculations, this new enemy barrier is impossible to break through…"
+                                                              ],
+                                                "choices":  [
+                                                                "What if… we just hit it from multiple directions at the same time with different frequencies?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "..."
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Yes? But that would be… extremely inefficient due to energy interference… Wait just a moment.",
+                                                                  "(She performs calculations at incredible speed) …Huh? If resonance destruction occurs at a specific point…",
+                                                                  "The barrier collapses! Unbelievable! Master, are you a genius?!"
+                                                              ],
+                                                "choices":  [
+                                                                "I just took a wild guess",
+                                                                "It’s my ‘intuition’ as your commander",
+                                                                "As expected, combining it with your calculations made it perfect"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Hitting it right just by guessing?! The probability of that is less than",
+                                                                      "Intuition…? That’s a non-scientific concept, but… if it’s Master’s intuition, I can trust it!",
+                                                                      "No way! This is entirely thanks to Master’s insight! I’m in awe!"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "5_tempestra_high_trust_09.asset",
+                       "eventName":  "전쟁이 끝나면",
+                       "eventNameEng":  "When the War Ends",
+                       "eventDescription":  "전쟁이 끝나면",
+                       "eventID":  "tempestra_high_trust_09",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "가끔 생각해요. 이 지긋지긋한 싸움이 전부 끝나면... 우린 뭘 하게 될까요?",
+                                                               "전... 지상에 안전하고 깨끗한 에너지 발전소를 짓고 싶어요.",
+                                                               "아니면... 작은 전파상을 열어서 사람들의 고장 난 물건을 고쳐주는 것도 좋겠네요.",
+                                                               "마스터님은요? 마스터님은... 뭘 하고 싶으세요?"
+                                                           ],
+                                             "choices":  [
+                                                             "네가 있는 곳에서 너와 함께 있고 싶어",
+                                                             "세상을 여행하고 싶어",
+                                                             "아직 생각해 본 적 없어"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "…그게 제 발전소든, 작은 전파상이든 상관없다는 뜻인가요? ...치사해요, 마스터님.",
+                                                                   "여행! 좋네요! 그럼 제가 전용 캠핑카를 만들어 드릴게요! 에너지 걱정 없는 걸로요!",
+                                                                   "그렇군요. 그럼... 지금부터 같이 생각해요. 우리들의 미래를요."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Sometimes I think about it. When all this endless fighting is finally over… what are we going to do?",
+                                                                  "I… want to build a safe, clean energy power plant on the surface.",
+                                                                  "Or maybe… open a small repair shop and fix people’s broken things.",
+                                                                  "What about you, Master? What do you want to do…?"
+                                                              ],
+                                                "choices":  [
+                                                                "I just want to be with you, wherever that may be",
+                                                                "I want to travel the world",
+                                                                "I’ve never really thought about it"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "…So whether it’s my power plant or a small repair shop, it doesn’t matter? …That’s so unfair, Master.",
+                                                                      "Traveling! That sounds wonderful! Then I’ll build you a dedicated camping car! One that never has to worry about energy!",
+                                                                      "I see. Then… let’s start thinking about it together from now on. About our future."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "5_tempestra_high_trust_10.asset",
+                       "eventName":  "가장 중요한 공식",
+                       "eventNameEng":  "Important Theory",
+                       "eventDescription":  "가장 중요한 공식",
+                       "eventID":  "tempestra_high_trust_10",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터님. 제가 세상의 모든 물리 법칙을 공부하고, 수만 개의 공식을 외웠지만...",
+                                                               "지금 이 순간, 제게 가장 중요하고 완벽한 공식이 뭔지 아세요?",
+                                                               "(마스터에게 한 걸음 다가서며) \u0027마스터 + 나\u0027 예요.",
+                                                               "이 공식의 결과값은... \u0027무한대\u0027예요. 우리 함께라면... 뭐든지 할 수 있어요. 그렇죠?"
+                                                           ],
+                                             "choices":  [
+                                                             "나에게도 가장 중요한 공식이야",
+                                                             "정말 로맨틱한 과학자네",
+                                                             "(말없이 끌어안는다)"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "다행이다... 우리의 연산 결과가 일치했네요!",
+                                                                   "로맨틱... 개인의 감성적 반응을 유발하는... 네, 맞는 것 같아요!",
+                                                                   "…! (잠시 멈칫하더니, 이내 마주 안는다) 최종 결론... 도출 완료."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master. I’ve studied all the physical laws of the world and memorized tens of thousands of formulas, but…",
+                                                                  "Right now, in this very moment, do you know what the most important and perfect",
+                                                                  "(Takes one step closer to Master)",
+                                                                  "It’s ‘Master + Me’.",
+                                                                  "The result of this formula is… ‘infinity’. As long as we’re together… we can do anything. Right?"
+                                                              ],
+                                                "choices":  [
+                                                                "To me too, this is the most important formula",
+                                                                "You’re a really romantic scientist, aren’t you",
+                                                                "(Silently pulls her into an embrace)"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "I’m so relieved… Our calculations match perfectly!",
+                                                                      "Romantic… an emotional response induced in an individual… Yes, that seems correct!",
+                                                                      "…! (Freezes for a moment, then soon returns the hug) Final conclusion… reached and complete."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "S_tempestra_pre_nephilim.asset",
+                       "eventName":  "쌍둥이 별의 추락",
+                       "eventNameEng":  "The Fall of the Twin Stars",
+                       "eventDescription":  "헤카테와 레테 심화 이벤트",
+                       "eventID":  "S_tempestra_pre_nephilim",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터님. 오늘 시간 되시나요?",
+                                                               "폐허속에서 심상치 않은 신호가 잡혔는데",
+                                                               "마스터님이 같이 갔으면 좋겠어요."
+                                                           ],
+                                             "choices":  [
+                                                             "그래? 나도 궁금하네. 같이 가보자",
+                                                             "아니? 나는 관심 없는데."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "역시 마스터님이라면 궁금해 할것 같았어요.",
+                                                                   "제가 길안내를 하겠어요.",
+                                                                   "에에~ 마스터님 왜그래요~",
+                                                                   "사실은 궁금하잖아요?",
+                                                                   "어서 따라오세요. 제가 길안내를 하겠어요."
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "이곳은 폐허가 되었지만",
+                                                               "이전에는 에덴이라고 불리던 곳입니다.",
+                                                               "무슨 일이 있었는지는 모르겠지만",
+                                                               "이미 버려진지 오래된 곳입니다.",
+                                                               "(거대한 석관이 여섯개가 놓여있고, 그중 두개는 심하게 파손되어 있다.)",
+                                                               "이 에너지 패턴… 틀림없어. \u0027프로젝트 키메라\u0027. 헤카테와 레테가 바로 여기에…."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "푸른빛의 기억",
+                                             "sentences":  [
+                                                               "(나와 템페스트라의 주변을 푸른빛이 감쌓다.)",
+                                                               "(서시히 주변에 적응하자 무언가 환영이 보였다)",
+                                                               "(아직 파괴되지 않은 에덴의 내부. 두 소녀가 석관에 기대어 앉아있다.)"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "헤카테(과거)",
+                                             "sentences":  [
+                                                               "필요로 하다니! 그들은 우리를 괴물 취급하며 쫓아냈어! ",
+                                                               "우리가 그들의 친구들을 \u0027죽였다\u0027고 소리치면서!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "레테(과거)",
+                                             "sentences":  [
+                                                               "헤카테… 진정해. 네 에너지가 또… 위험해지고 있어."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "헤카테(과거)",
+                                             "sentences":  [
+                                                               "진정하라고? 리리스님의 계획은 완벽했어! ",
+                                                               "육체는 낡지만 정신은 영원할 수 있다고! ",
+                                                               "그런데 그 어리석은 인간들은… ",
+                                                               "그들은…!",
+                                                               "(헤카테의 몸에서 붉고 불안정한 에너지가 폭풍처럼 터져 나온다.)"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "레테(과거)",
+                                             "sentences":  [
+                                                               "안 돼! 헤카테! 이대로면 모두가 위험해져!",
+                                                               "(레테가 자신의 몸에서 차가운 냉기를 뿜어내며 폭주하는 헤카테를 끌어안는다.)\r\n"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "나레이션",
+                                             "sentences":  [
+                                                               "(붉은 폭풍의 중심에서, 푸른 냉기로 자신을 감싼 레테가 눈물을 흘리며 헤카테를 끌어안고 있다. )",
+                                                               "(상반된 두 에너지가 충돌하며 세상을 하얗게 불태운다.)"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "(주변의 푸른빛은 이내 사라졌고, 주변도 모두 정상으로 돌아왔다)",
+                                                               "…서로를 지키려다… 함께 폭주한 거구나"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master... do you know what the \u0027Twin Stars\u0027 are?",
+                                                                  "Long ago, two stars shone brightest in the night sky.",
+                                                                  "One was red like raging flames, the other blue like frozen lightning.",
+                                                                  "They were called Hecate and Lethe.",
+                                                                  "Hecate was the star of chaos and destruction. Lethe was the star of oblivion",
+                                                                  "They were opposites, yet they always existed together. Like two sides of the",
+                                                                  "But one day... one of them fell.",
+                                                                  "The red star, Hecate, plummeted to the ground in a blaze of fire.",
+                                                                  "The impact shattered continents and scorched the world.",
+                                                                  "And the blue star, Lethe... chose to follow.",
+                                                                  "It fell silently, freezing everything in its path, erasing even the memory",
+                                                                  "They say that when the twin stars fell, the age of gods ended.",
+                                                                  "And the age of Nephilim began.",
+                                                                  "...That\u0027s the story passed down among us Tempestra.",
+                                                                  "But I... remember more than that.",
+                                                                  "Because I am the descendant of that red star.",
+                                                                  "The blood of Hecate flows in me.",
+                                                                  "And my sister... carries the blood of Lethe.",
+                                                                  "We are the last remnants of those fallen stars.",
+                                                                  "Master.",
+                                                                  "Do you understand what this means?",
+                                                                  "If the Nephilim ever learn who we truly are...",
+                                                                  "...they will never let us live.",
+                                                                  "But even knowing that... I still want to stay by your side.",
+                                                                  "Even if it means becoming the enemy of the entire world.",
+                                                                  "Because... for the first time since we fell...",
+                                                                  "...I have found something worth protecting more than my own existence.",
+                                                                  "...Master.",
+                                                                  "Will you still accept me... knowing all this?"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "템페스트라_이벤트씬V3.asset",
+                       "eventName":  "정전기 스파크",
+                       "eventNameEng":  "Static Spark",
+                       "eventDescription":  "\"\\uD15C\\uD398\\uC2A4\\uD2B8\\uB77C \\uC774\\uBCA4\\uD2B8 \\uCEF7\\uC2E0",
+                       "eventID":  "Tempestra_v3",
+                       "dialogues":  [
+                                         {
+                                             "character":  "나래이션",
+                                             "sentences":  [
+                                                               "연구소 서버실에 왔다. 바닥에는 전선들이 뱀처럼 얽혀 있다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "(공구를 던지며) 젠장! 이 구형 시스템은 도대체 누가 설계한 거야?!",
+                                                               "(과부하로 스파크가 튄다. 템페스트라가 비틀거린다)",
+                                                               "으윽... 머리가...",
+                                                               "(마스터가 달려와 그녀를 부축한다. 순간, 두 사람 사이에서 푸른 스파크가 \u0027탁!\u0027 하고 튄다)",
+                                                               "(깜짝 놀라며) 와! 뭐야?!"
+                                                           ],
+                                             "choices":  [
+                                                             "괜찮아?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   " 응? 응... 근데 방금 거 뭐였지? 내 전기 능력도 아닌데..."
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "(그녀가 마스터의 손을 뚫어져라 쳐다본다)",
+                                                               "이상한데... 시스템 오류? 아니면 공명 현상? 으으, 머리가 안 돌아가.."
+                                                           ],
+                                             "choices":  [
+                                                             "너무 무리해서 그래. 좀 쉬어가면서 해."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "(퉁명스럽게) \"치... 걱정해주는 거야? 나 이런 거 익숙하거든."
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "(하지만 얼굴은 빨개져 있다. 그녀가 마스터의 손을 잡고 다시 스파크가 튀는지 실험한다)",
+                                                               "으악!! ...또 튀었어.!! 이거 뭐지?",
+                                                               "(진지하게) 코어 데이터 분석해보니까... 당신이랑 접촉하면 내 연산 속도가 17.3% 상승해. 심박수도 불규칙해지고"
+                                                           ],
+                                             "choices":  [
+                                                             "그게 무슨 뜻인데?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "(고개를 갸웃하며) 글쎄... 데이터베이스에 없는 현상이야. 인간들은 이런 걸 뭐라고 불렀더라..."
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "(잠시 생각하다가)",
+                                                               "...",
+                                                               "...",
+                                                               "...",
+                                                               "(얼굴이 더 빨개지며) ...아, 맞다. \u0027사랑\u0027 알고리즘?",
+                                                               "아, 아니! 농담이야! 그냥 전자기 간섭일 거야! 그래, 분명 그럴 거야!",
+                                                               "(그녀가 얼른 돌아서서 작업을 계속하지만, 귀까지 새빨갛다)",
+                                                               "(중얼거리며) 이상해... 이 두근거림... 버그인가...?"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Narration",
+                                                "sentences":  [
+                                                                  "We\u0027ve arrived at the laboratory server room. Wires are tangled across the floor"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "(Tossing a tool) Dammit! Who on earth designed this outdated system?!",
+                                                                  "(A spark flies due to overload. Tempestra staggers.)",
+                                                                  "Ugh... my head...",
+                                                                  "(Master rushes over and supports her. Suddenly, a blue spark snaps between",
+                                                                  "(Surprised) Whoa! What was that?!"
+                                                              ],
+                                                "choices":  [
+                                                                "Are you alright?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      " Huh? Yeah... But what was that just now? It wasn\u0027t my electrical power..."
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "(She stares intently at Master\u0027s hand.)",
+                                                                  "This is strange... A system error? Or a resonance phenomenon? Ugh, my brain"
+                                                              ],
+                                                "choices":  [
+                                                                "It\u0027s because you\u0027re overworking yourself. Take it easy and rest a bit."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "(Bluntly) \"Hmph... Are you worried about me? I\u0027m used to this sort of thing.\""
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "(But her face is flushed. She takes Master\u0027s hand to experiment and see if",
+                                                                  "Yikes!! ...It sparked again!! What is this?",
+                                                                  "(Seriously) Analyzing the core data... My processing speed increases by 17.3%"
+                                                              ],
+                                                "choices":  [
+                                                                "What does that mean?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "(Tilting her head) I\u0027m not sure... It\u0027s a phenomenon not found in the database."
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "(Thinks for a moment)",
+                                                                  "...",
+                                                                  "...",
+                                                                  "...",
+                                                                  "(Her face turns even redder) ...Ah, right. The \u0027Love\u0027 algorithm?",
+                                                                  "N-No! I\u0027m joking! It\u0027s probably just electromagnetic interference! Yes, that",
+                                                                  "(She quickly turns back to continue her work, but her ears are beet red.)",
+                                                                  "(Muttering) It\u0027s strange... This heart-pounding... Is it a bug...?"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   }
+               ]
+}

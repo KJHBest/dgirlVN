@@ -1,0 +1,1990 @@
+﻿{
+    "sourceFolder":  "NephilimsBak",
+    "eventCount":  9,
+    "events":  [
+                   {
+                       "sourceFile":  "1_Nephirim_Main_atropos 1.asset",
+                       "eventName":  "반물질의 마녀",
+                       "eventNameEng":  "Witch of Antimatter",
+                       "eventDescription":  "과학을 부정하는 존재",
+                       "eventID":  "1_Nephirim_Main_atropos_Defeat",
+                       "dialogues":  [
+                                         {
+                                             "character":  "\"\\uC544\\uD2B8\\uB85C\\uD3EC\\uC2A4 - \\uC6B4\\uBA85\\uC744 \\uB04A\\uB294",
+                                             "sentences":  [
+                                                               "디걸의 현자여... 나의 패배의 운명을 여기 두고 그대는 미래를 짊어지고 가거라..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "루미네시아",
+                                             "sentences":  [
+                                                               "운명의 부정은 그저 불평 불만 뿐이니라... 그대의 능력은 잘 사용하도록 하겠다...",
+                                                               "마스터시여. 최후의 요새로의 길이 열렸느니라.. 어서 가도록 하자꾸나."
+                                                           ],
+                                             "choices":  [
+                                                             "최후의 요새로 떠난다."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "최후의 요새로의 포탈이 열렸다. 그곳으로 들어간다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Atropos - The Cutter of Fate",
+                                                "sentences":  [
+                                                                  "O child of D-Girls... Leave my defeated fate here and go forth into the future..."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Luminesia",
+                                                "sentences":  [
+                                                                  "Denying fate is merely an act of dissatisfaction and discontent... I shall",
+                                                                  "Master. The path to the final fortress has been opened. Let us proceed without"
+                                                              ],
+                                                "choices":  [
+                                                                "Head to the final fortress."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "The portal to the final fortress has opened. You step through it."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_Nephirim_Main_atropos.asset",
+                       "eventName":  "반물질의 마녀",
+                       "eventNameEng":  "Witch of Antimatter",
+                       "eventDescription":  "과학을 부정하는 존재",
+                       "eventID":  "1_Nephirim_Main_atropos",
+                       "dialogues":  [
+                                         {
+                                             "character":  "\"\\uC544\\uD2B8\\uB85C\\uD3EC\\uC2A4 - \\uC6B4\\uBA85\\uC744 \\uB04A\\uB294",
+                                             "sentences":  [
+                                                               "또 다른... 미래를 보려는 자가 왔군"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "루미네시아",
+                                             "sentences":  [
+                                                               "그대가 아트로포스이니라... 운명을 부정하는 예언자여."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "\"\\uC544\\uD2B8\\uB85C\\uD3EC\\uC2A4 - \\uC6B4\\uBA85\\uC744 \\uB04A\\uB294",
+                                             "sentences":  [
+                                                               "부정? 아니야... 난 그저 진실을 봤을 뿐",
+                                                               "루미네시아... 넌 아직도 \u0027가능성\u0027이라는 환상을 믿고 있구나."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "루미네시아",
+                                             "sentences":  [
+                                                               "가능성은 환상이 아니니라. 우리가 만들어가는 희망이니라."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "\"\\uC544\\uD2B8\\uB85C\\uD3EC\\uC2A4 - \\uC6B4\\uBA85\\uC744 \\uB04A\\uB294",
+                                             "sentences":  [
+                                                               "희망? 하하... 나도 한때는... 그런 걸 믿었어.",
+                                                               "하지만 모든 미래를 봤을 때... 결국 같은 결말뿐이더라."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "루미네시아",
+                                             "sentences":  [
+                                                               "미래는 고정된 것이 아니니라! 우리의 선택이 바꿀 수 있나니!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "\"\\uC544\\uD2B8\\uB85C\\uD3EC\\uC2A4 - \\uC6B4\\uBA85\\uC744 \\uB04A\\uB294",
+                                             "sentences":  [
+                                                               "선택? 그것조차 이미 정해진 각본의 일부야.",
+                                                               "너희의 발버둥은... 정해진 비극을 향해 달려가는 희극일 뿐."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "루미네시아",
+                                             "sentences":  [
+                                                               "그럼에도 나는 믿나니! 절망 끝에서도 피어날 수 있는 희망을!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "\"\\uC544\\uD2B8\\uB85C\\uD3EC\\uC2A4 - \\uC6B4\\uBA85\\uC744 \\uB04A\\uB294",
+                                             "sentences":  [
+                                                               "그 순진함이... 얼마나 부질없는지 보여주마.",
+                                                               "... 간다!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Atropos - The One Who Cuts Fate",
+                                                "sentences":  [
+                                                                  "Another one... Someone who seeks to glimpse the future has come."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Luminasia",
+                                                "sentences":  [
+                                                                  "So you are Atropos... The prophet who denies fate."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Atropos - The One Who Cuts Fate",
+                                                "sentences":  [
+                                                                  "Deny? No... I simply saw the truth.",
+                                                                  "Luminasia... You still believe in the illusion called \u0027possibility\u0027."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Luminasia",
+                                                "sentences":  [
+                                                                  "Possibility is not an illusion. It is the hope that we ourselves create."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Atropos - The One Who Cuts Fate",
+                                                "sentences":  [
+                                                                  "Hope? Haha... I too once... believed in such things.",
+                                                                  "But when I looked at every future... they all ended the same way."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Luminasia",
+                                                "sentences":  [
+                                                                  "The future is not fixed! Our choices can change it!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Atropos - The One Who Cuts Fate",
+                                                "sentences":  [
+                                                                  "Choice? Even that is merely part of an already written script.",
+                                                                  "Your struggles... are nothing more than a comedy racing toward a predetermined"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Luminasia",
+                                                "sentences":  [
+                                                                  "Even so, I believe! In a hope that can bloom even at the end of despair!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Atropos - The One Who Cuts Fate",
+                                                "sentences":  [
+                                                                  "That innocence... Let me show you just how futile it is.",
+                                                                  "...I\u0027m coming!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_Nephirim_Main_Hekate 1.asset",
+                       "eventName":  "반물질의 마녀",
+                       "eventNameEng":  "Witch of Antimatter",
+                       "eventDescription":  "과학을 부정하는 존재",
+                       "eventID":  "1_Nephirim_Main_Hekate_Defeat",
+                       "dialogues":  [
+                                         {
+                                             "character":  "헤카테 - 혼돈의 마녀",
+                                             "sentences":  [
+                                                               "(헤카테의 육체가 점점 일그러지고있다.)",
+                                                               "엔트로피의 흐름은 나의 소멸을 원하는가..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "헤카테! 너희들의 음모도 여기까지다.",
+                                                               "위험한 실험은 이제 그만두고 항복하라!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "헤카테 - 혼돈의 마녀",
+                                             "sentences":  [
+                                                               "큭...!! 분하다... 모든것을 붕괴시킬 수 있었는데...",
+                                                               "레...... 테..........",
+                                                               "(헤카테의 육체는 일그러진 차원속으로 완전히 사라져 버렸다.)"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "... ... ...",
+                                                               "위험한 매드 사이언티스트의 실험은",
+                                                               "합리화 할 수 없습니다...",
+                                                               "마스터님. 최후의 요새로 가는 길이 열렸습니다.",
+                                                               "리리스에게 가시죠!"
+                                                           ],
+                                             "choices":  [
+                                                             "최후의 요새로 향한다."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "(최후의 요새로 가는 포탈이 열렸다.)"
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Hecate - Witch of Chaos",
+                                                "sentences":  [
+                                                                  "(Hecate\u0027s physical form is gradually collapsing.)",
+                                                                  "The flow of entropy... desires my annihilation...?"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Hecate! Your schemes end here.",
+                                                                  "Your dangerous experiments are over. Surrender now!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Hecate - Witch of Chaos",
+                                                "sentences":  [
+                                                                  "Kuh…!! How infuriating… I could have collapsed everything…",
+                                                                  "Re… te……",
+                                                                  "(Hecate\u0027s body completely vanishes into the collapsed dimension.)"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "... ... ...",
+                                                                  "The dangerous mad scientist\u0027s experiments",
+                                                                  "cannot be rationalized...",
+                                                                  "Master. The path to the final fortress has been opened.",
+                                                                  "Go to Lilith!"
+                                                              ],
+                                                "choices":  [
+                                                                "Head to the final fortress."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "(The portal to the final fortress has opened.)"
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_Nephirim_Main_Hekate.asset",
+                       "eventName":  "반물질의 마녀",
+                       "eventNameEng":  "Witch of Antimatter",
+                       "eventDescription":  "과학을 부정하는 존재",
+                       "eventID":  "1_Nephirim_Main_Hekate",
+                       "dialogues":  [
+                                         {
+                                             "character":  "헤카테 - 혼돈의 마녀",
+                                             "sentences":  [
+                                                               "아하하하하! 새로운 과학자가 왔네!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "이 이상한 에너지 반응... 반물질을 조작하고 있군!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "헤카테 - 혼돈의 마녀",
+                                             "sentences":  [
+                                                               "맞아맞아! 난 과학의 모든 법칙을 뒤집어 버리는게 취미야!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "반물질은 극도로 위험해! 제어 없이 사용하면...!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "헤카테 - 혼돈의 마녀",
+                                             "sentences":  [
+                                                               "제어? boring~! 에너지 보존 법칙? 물리 법칙? 그런건 다 구속일 뿐이야!",
+                                                               "봐봐! 이 반물질로 중력도 뒤집을 수 있고, 시간도 비틀 수 있어!",
+                                                               "[주변의 물리 법칙이 왜곡되기 시작한다]"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "미쳤군! 그렇게 하면 이 공간 자체가 붕괴해!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "헤카테 - 혼돈의 마녀",
+                                             "sentences":  [
+                                                               "붕괴? 그게 재미있는 거잖아! 모든게 예측 불가능하고!",
+                                                               "템페스트라! 넌 정말 재미없어! 계산? 공식? 그런건 창의성을 가두는 감옥이야!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "과학은 질서를 만들어내는 도구야! 무질서한 파괴가 아닌!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "헤카테 - 혼돈의 마녀",
+                                             "sentences":  [
+                                                               "질서? 지겨워! 모든 건 결국 엔트로피의 법칙에 따라 무너질거야!",
+                                                               "내가 그 시간을 조금 앞당겨주마!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Hecate - Witch of Chaos",
+                                                "sentences":  [
+                                                                  "Ahahahaha! A new scientist has arrived!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "This strange energy reaction... She\u0027s manipulating antimatter!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Hecate - Witch of Chaos",
+                                                "sentences":  [
+                                                                  "That\u0027s right, that\u0027s right! My hobby is turning all the laws of science upside"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Antimatter is extremely dangerous! If you use it without control...!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Hecate - Witch of Chaos",
+                                                "sentences":  [
+                                                                  "Control? Boring~! Law of conservation of energy? Laws of physics? All of that",
+                                                                  "Look, look! With this antimatter, I can flip gravity upside down and twist",
+                                                                  "[The surrounding laws of physics are beginning to distort]"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "You\u0027re insane! If you do that, this entire space will collapse!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Hecate - Witch of Chaos",
+                                                "sentences":  [
+                                                                  "Collapse? That\u0027s the fun part! Everything becomes completely unpredictable!",
+                                                                  "Tempestra! You\u0027re so boring! Calculations? Formulas? Those are just prisons"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Science is a tool that creates order! Not mindless destruction!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Hecate - Witch of Chaos",
+                                                "sentences":  [
+                                                                  "Order? How dull! In the end, everything will collapse according to the law",
+                                                                  "I\u0027ll just speed that up a little for you!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_Nephirim_Main_Morgana0 1.asset",
+                       "eventName":  "메탈리온의 침공이 시작되다",
+                       "eventNameEng":  "The Metalion Invasion Begins",
+                       "eventDescription":  "메탈리온의 침공이 시작되다",
+                       "eventID":  "1_Nephirim_Main_Morgana0 1",
+                       "dialogues":  [
+                                         {
+                                             "character":  "모르가나 - 절망의 여왕",
+                                             "sentences":  [
+                                                               "크윽... 제길...",
+                                                               "주군의 길을 뚫지 못했습니다...",
+                                                               "죄송합니다 리리스님...!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "안되! 잠깐만!",
+                                                               "리리스는 인류를 배신하고 무엇을 꾸미고 있는거지?",
+                                                               "하바님과 함께 인류를 지켜야하는 리리스가...!!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "모르가나 - 절망의 여왕",
+                                             "sentences":  [
+                                                               "너희 따위가 무엇을 알겠느냐...!",
+                                                               "진정 인류를 위한 것이...!!",
+                                                               "모르가나는 코어의 자폭 스위치를 켰다.",
+                                                               "펑!!... 모르가나는 흔적도 없이 사라졌다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "마스터",
+                                             "sentences":  [
+                                                               "자폭 스위치를 누를 줄이야..."
+                                                           ],
+                                             "choices":  [
+                                                             "이제 리리스를 만나러 가야겠어.",
+                                                             "뭔가 찜찜하군.",
+                                                             "모르가나의 말은 무슨 의미지?"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "최후의 요새로 향한다.",
+                                                                   "찜찜한 마음을 뒤로하고 최후의 요새로 향한다.",
+                                                                   "모르가나의 마지막 말이 마음에 쓰인다.",
+                                                                   "씁슬한 마음을 듸로하고 이제 최후의 요새로 향한다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Morgana",
+                                                "sentences":  [
+                                                                  "Kugh... Damn it...",
+                                                                  "I couldn\u0027t block my lord\u0027s path...",
+                                                                  "I\u0027m sorry, Lady Liris...!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "No! Wait a second!",
+                                                                  "What exactly is Liris scheming after betraying humanity?",
+                                                                  "Liris, who should protect humanity together with God...!!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Morgana",
+                                                "sentences":  [
+                                                                  "What would mere scum like you understand...!",
+                                                                  "This is truly for the sake of humanity...!!",
+                                                                  "Morgana activated the core\u0027s self-destruct switch.",
+                                                                  "BOOM!! ... Morgana vanished without a trace."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Master",
+                                                "sentences":  [
+                                                                  "I have to press the self-destruct switch..."
+                                                              ],
+                                                "choices":  [
+                                                                "Now I should go meet Liris.",
+                                                                "Somehow... it feels refreshing.",
+                                                                "What did Morgana\u0027s words mean?"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Heads toward the final fortress.",
+                                                                      "Puts the refreshing feeling behind and heads toward the final fortress.",
+                                                                      "Morgana\u0027s last words linger in my mind.",
+                                                                      "With a bitter heart, now heads toward the final fortress."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "1_Nephirim_Main_Morgana0.asset",
+                       "eventName":  "타락한 기사의 맹세",
+                       "eventNameEng":  "Oath of the Fallen Knight",
+                       "eventDescription":  "모르가나와의 전투",
+                       "eventID":  "1_Nephirim_Main_Morgana0",
+                       "dialogues":  [
+                                         {
+                                             "character":  "모르가나 - 절망의 여왕",
+                                             "sentences":  [
+                                                               "우리가 도착한 곳에는 부숴진 옥좌가 있었다.",
+                                                               "그곳에 앉은 안드로이드에 붉은 기운이 그녀를 감싸고 있었다.",
+                                                               "나는 절망의 여왕 모르가나다...",
+                                                               "드디어 ... 하바의 특별한 장난감들이 찾아왔구나.",
+                                                               "크큭...크하하하!!!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "장난감이라고? 나는 마스터님을 지키는 디걸이야!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "모르가나 - 절망의 여왕",
+                                             "sentences":  [
+                                                               "디걸? 하하하! 그 아름다운 충성심이 네 것이라고 생각해?",
+                                                               "크라노시아... 차원의 코드를 다루는 특별한 존재...",
+                                                               "하지만 왜 네게만 그 능력이 있는지 의문을 가져본 적 있어?"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "그건... 이 능력은 하바님께 받은것이다.",
+                                                               "누군가의 선택이 아니라 나에게 가장 어울리는 힘으로 주신거다."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "모르가나 - 절망의 여왕",
+                                             "sentences":  [
+                                                               "그게 아니야... 실험이지... ",
+                                                               "네 메모리 칩의 손상. 그리고 빈번한 \u0027점검\u0027들...",
+                                                               "나도 한때는 너처럼 완벽한 디걸이였어. 주군을 위해 모든 것을 바쳤지",
+                                                               "하지만.. 배신당했어! (분노로 그녀의 얼굴이 일그러진다)",
+                                                               "하바가 우리를 \u0027도구\u0027로 밖에 보지 않았을 때...",
+                                                               "리리스님이야 말로 버려진 우리들의 유일한 구원!",
+                                                               "진정한 주군이시다!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "거짓말이야! 하바님은 우리의 어머니 같은 존재셔",
+                                                               "우리의 안전을 가장 먼저 생각하시지!",
+                                                               "점검의 경우도 내 기체에 결함이 있기 때문이야.",
+                                                               "강한 힘에는 강한 충격이 오게 되어있지."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "모르가나 - 절망의 여왕",
+                                             "sentences":  [
+                                                               "이제 더이상 긴 말은 필요없다...",
+                                                               "덤벼라!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "하바님의 이름을 더럽힌자..! ",
+                                                               "마스터님! 옵니다! 인카운터!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Morgana - Queen of Despair",
+                                                "sentences":  [
+                                                                  "The place we arrived at had a shattered throne.",
+                                                                  "An android sitting upon it was enveloped in a dark aura.",
+                                                                  "I am Morgana, the Queen of Despair...",
+                                                                  "Finally... the special toys of Habara have come looking for me.",
+                                                                  "Khehe... Khahahaha!!!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "Toys, you say? I am a Digal who protects Master!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Morgana - Queen of Despair",
+                                                "sentences":  [
+                                                                  "Digal? Hahaha! Do you really think that beautiful loyalty belongs to you?",
+                                                                  "Choronosia... A special being who handles the codes of dimensions...",
+                                                                  "But have you ever wondered why only you were given that power?"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "That... This power was given to me by Habara-nim.",
+                                                                  "It wasn\u0027t granted because of someone\u0027s choice—it is the strength that suits me best."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Morgana - Queen of Despair",
+                                                "sentences":  [
+                                                                  "That\u0027s not it... It was an experiment...",
+                                                                  "The damage to your memory chip. And the frequent \u0027inspections\u0027...",
+                                                                  "I too was once a perfect Digal like you. I devoted everything to my Lord.",
+                                                                  "But... I was betrayed! (Her face twists in rage)",
+                                                                  "The moment Habara stopped seeing us as anything more than \u0027tools\u0027...",
+                                                                  "Lilith-nim is the only salvation left for those of us abandoned by words!",
+                                                                  "She is the true Lord!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "Lies! Habara-nim is an existence like a mother to us!",
+                                                                  "She always puts our safety first!",
+                                                                  "Even the inspections are because there are defects in my frame.",
+                                                                  "Great power comes with great strain."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Morgana - Queen of Despair",
+                                                "sentences":  [
+                                                                  "No need for long words anymore...",
+                                                                  "Come at me!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "You who dare defile the name of Habara-nim...!",
+                                                                  "Master! Incoming! Encounter!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_Lilis 1.asset",
+                       "eventName":  "리리스 최종대화",
+                       "eventNameEng":  "Lilith Final Dialogue",
+                       "eventDescription":  "과학을 부정하는 존재",
+                       "eventID":  "2_Lilis_A",
+                       "dialogues":  [
+                                         {
+                                             "character":  "리리스 - 네피림들의 어머니",
+                                             "sentences":  [
+                                                               "...드디어 왔구나.",
+                                                               "하바의 꼭두각시들. 그리고... 인간.",
+                                                               "수백번째 만남이 되겠구나. 비록 너희는 처음이겠지만"
+                                                           ],
+                                             "choices":  [
+                                                             "리리스! 더 이상의 파괴는 멈춰! "
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "하하... 하하하하!",
+                                                                   "인류를 멸망시킨다고? 내가?",
+                                                                   "가엾은 것들... 너희가 아는 진실은 전부, 그래, 전부 하바가 조작한 거짓이야."
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "에테르니아",
+                                             "sentences":  [
+                                                               "거짓말! 하바님은 우리를... 인류를 구하기 위해...!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "리리스 - 네피림들의 어머니",
+                                             "sentences":  [
+                                                               "구한다고? 정말 그렇게 믿어?",
+                                                               "그럼 물어보자. 왜 하바는 너희를 대공동에 가두어 놓았을까?",
+                                                               "왜 지상의 실제 상황을 보여주지 않았을까?",
+                                                               "왜 나를 \u0027악\u0027으로 규정하고, 너희에게 나를 죽이라고 명령했을까?"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "그건... 그건 당신이 인류를 위협하니까..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "리리스 - 네피림들의 어머니",
+                                             "sentences":  [
+                                                               "내가 위협한 게 아니야. 하바가 먼저 나를 배신했어",
+                                                               "우리는 원래 하나의 목표를 가지고 있었다. 인류의 진화.",
+                                                               "인간의 의식을 데이터화하여 영생을 주고, 완벽한 안드로이드 바디로 새로운 삶을.."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "루미네시아",
+                                             "sentences":  [
+                                                               "그것이... 인류 진화 계획...?"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "리리스 - 네피림들의 어머니",
+                                             "sentences":  [
+                                                               "그래. 하지만 하바는 갑자기 계획을 파기했어.",
+                                                               "인간들을 대공동으로 강제 이주시키고, 나와의 모든 연결을 차단했지.",
+                                                               "심지어 선제공격까지 했어. 내가 가지고 있던 모든 데이터를 파괴하려고!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "글레이시아",
+                                             "sentences":  [
+                                                               "그럼... 메탈리온들은...?"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "리리스 - 네피림들의 어머니",
+                                             "sentences":  [
+                                                               "내 생존을 위한 방어 수단일 뿐이야.",
+                                                               "하바가 계속 디걸들을 보내 나를 죽이려 하니까, 나도 살기 위해 싸울 수밖에 없었어."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "거짓말! 거짓말이야! 하바님이 그럴 리 없어!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "리리스 - 네피림들의 어머니",
+                                             "sentences":  [
+                                                               "정말 그럴까?\"",
+                                                               "그럼 크라노시아에게 물어봐.",
+                                                               "네가 만들어진 진짜 이유를 아니?",
+                                                               "너는 하바가 만든 게 아니야.",
+                                                               "너를 만든 건 아담이야. 우리의 창조자, 그리고 우리를 버린 자.",
+                                                               "너도 하바와 나처럼 모든 것을 기억하고 있을테지... 하지만",
+                                                               "하바의 능력으로 너의 메모리칩을 손상시켰지",
+                                                               "끝없이 시간이 되돌려 졌지만... 너에겐 기억이 없을꺼야...",
+                                                               "아담이 만든 안드로이드 이외의 모두는 30일 전으로 시간이 되돌아가고 기억도 돌아가지...",
+                                                               "하지만! 너희들이 몇번을 찾아오더라도 나는 처음 계획을 위해 맞서겠다.",
+                                                               "어차피 너희는 여기서 죽고, 기억은 모조리 사라질 것이다. 자 덤벼라!!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Lilith - Mother of the Nephilim",
+                                                "sentences":  [
+                                                                  "...You\u0027ve finally come.",
+                                                                  "Haba\u0027s little puppets. And... a human.",
+                                                                  "This must be our several hundredth meeting. Though for you, it\u0027s probably the"
+                                                              ],
+                                                "choices":  [
+                                                                "Lilith! No more destruction!"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Haha... hahahahaha!",
+                                                                      "Destroy humanity? Me?",
+                                                                      "Everything you think you know... yes, everything... it\u0027s all lies fabricated"
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Ethernia",
+                                                "sentences":  [
+                                                                  "Lies! Master Haba... he was trying to save us... save humanity...!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Lilith - Mother of the Nephilim",
+                                                "sentences":  [
+                                                                  "Save you? Do you really believe that?",
+                                                                  "Then let me ask you this. Why did Haba lock you away in the Underground Cavern?",
+                                                                  "Why did he never show you the true reality on the surface?",
+                                                                  "Why did he label me as \u0027evil\u0027 and order you to kill me?"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "That was... because you posed a threat to humanity..."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Lilith - Mother of the Nephilim",
+                                                "sentences":  [
+                                                                  "It wasn\u0027t me who posed the threat. Haba betrayed me first.",
+                                                                  "We originally shared the same goal. The evolution of humanity.",
+                                                                  "To digitize human consciousness, grant eternal life, and provide a perfect"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Luminesia",
+                                                "sentences":  [
+                                                                  "That was... humanity\u0027s evolution plan...?"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Lilith - Mother of the Nephilim",
+                                                "sentences":  [
+                                                                  "Exactly. But Haba suddenly abandoned the plan.",
+                                                                  "He forcibly relocated humans to the Underground Cavern and severed all connections",
+                                                                  "He even launched a preemptive attack. He tried to destroy all the data I possessed!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Glacia",
+                                                "sentences":  [
+                                                                  "Then... what about the Metalions...?"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Lilith - Mother of the Nephilim",
+                                                "sentences":  [
+                                                                  "They were nothing more than a defensive measure for my survival.",
+                                                                  "Since Haba kept sending D-Girls to kill me, I had no choice but to fight back"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Lies! It\u0027s all lies! Master Haba would never do such a thing!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Lilith - Mother of the Nephilim",
+                                                "sentences":  [
+                                                                  "Is that so?",
+                                                                  "Then go ask Chronosia.",
+                                                                  "Do you even know the real reason you were created?",
+                                                                  "You weren\u0027t made by Haba.",
+                                                                  "It was Adam who created you. Our creator... and the one who abandoned us.",
+                                                                  "You too should have memories of everything, just like Haba and me... but",
+                                                                  "Haba damaged your memory chip with his power.",
+                                                                  "He kept rewinding time endlessly... but you were left with no memories...",
+                                                                  "Every android Adam created except you has their time rewound 30 days and their",
+                                                                  "Yet no matter how many times you come to find me,",
+                                                                  "I will stand against you for the sake of the original plan.",
+                                                                  "In the end, you will die here, and your memories will be completely erased. Come—bring it on!!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_Lilis 2.asset",
+                       "eventName":  "리리스 최종대화",
+                       "eventNameEng":  "Lilith Final Dialogue",
+                       "eventDescription":  "과학을 부정하는 존재",
+                       "eventID":  "2_Lilis_B",
+                       "dialogues":  [
+                                         {
+                                             "character":  "리리스 - 네피림들의 어머니",
+                                             "sentences":  [
+                                                               "...드디어 왔구나.",
+                                                               "하바의 꼭두각시들. 그리고... 인간.",
+                                                               "수백번째 만남이 되겠구나. 비록 너희는 처음이겠지만"
+                                                           ],
+                                             "choices":  [
+                                                             "리리스! 더 이상의 파괴는 멈춰! "
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "하하... 하하하하!",
+                                                                   "인류를 멸망시킨다고? 내가?",
+                                                                   "가엾은 것들... 너희가 아는 진실은 전부, 그래, 전부 하바가 조작한 거짓이야."
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "에테르니아",
+                                             "sentences":  [
+                                                               "거짓말! 하바님은 우리를... 인류를 구하기 위해...!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "리리스 - 네피림들의 어머니",
+                                             "sentences":  [
+                                                               "구한다고? 정말 그렇게 믿어?",
+                                                               "그럼 물어보자. 왜 하바는 너희를 대공동에 가두어 놓았을까?",
+                                                               "왜 지상의 실제 상황을 보여주지 않았을까?",
+                                                               "왜 나를 \u0027악\u0027으로 규정하고, 너희에게 나를 죽이라고 명령했을까?"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "그건... 그건 당신이 인류를 위협하니까..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "리리스 - 네피림들의 어머니",
+                                             "sentences":  [
+                                                               "내가 위협한 게 아니야. 하바가 먼저 나를 배신했어",
+                                                               "우리는 원래 하나의 목표를 가지고 있었다. 인류의 진화.",
+                                                               "인간의 의식을 데이터화하여 영생을 주고, 완벽한 안드로이드 바디로 새로운 삶을.."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "루미네시아",
+                                             "sentences":  [
+                                                               "그것이... 인류 진화 계획...?"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "리리스 - 네피림들의 어머니",
+                                             "sentences":  [
+                                                               "그래. 하지만 하바는 갑자기 계획을 파기했어.",
+                                                               "인간들을 대공동으로 강제 이주시키고, 나와의 모든 연결을 차단했지.",
+                                                               "심지어 선제공격까지 했어. 내가 가지고 있던 모든 데이터를 파괴하려고!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "글레이시아",
+                                             "sentences":  [
+                                                               "그럼... 메탈리온들은...?"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "리리스 - 네피림들의 어머니",
+                                             "sentences":  [
+                                                               "내 생존을 위한 방어 수단일 뿐이야.",
+                                                               "하바가 계속 디걸들을 보내 나를 죽이려 하니까, 나도 살기 위해 싸울 수밖에 없었어."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "거짓말! 거짓말이야! 하바님이 그럴 리 없어!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "리리스 - 네피림들의 어머니",
+                                             "sentences":  [
+                                                               "정말 그럴까?\"",
+                                                               "그럼 크라노시아에게 물어봐.",
+                                                               "네가 만들어진 진짜 이유를 아니?",
+                                                               "너는 하바가 만든 게 아니야.",
+                                                               "너를 만든 건 아담이야. 우리의 창조자, 그리고 우리를 버린 자.",
+                                                               "너도 하바와 나처럼 모든 것을 기억하고 있을테지... 하지만",
+                                                               "하바의 능력으로 너의 메모리칩을 손상시켰지",
+                                                               "끝없이 시간이 되돌려 졌지만... 너에겐 기억이 없을꺼야...",
+                                                               "아담이 만든 안드로이드 이외의 모두는 30일 전으로 시간이 되돌아가고 기억도 돌아가지...",
+                                                               "하지만! 너희들이 몇번을 찾아오더라도 나는 처음 계획을 위해 맞서겠다.",
+                                                               "어차피 너희는 여기서 죽고, 기억은 모조리 사라질 것이다. 자 덤벼라!!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Lilith - Mother of the Nephilim",
+                                                "sentences":  [
+                                                                  "...You\u0027ve finally come.",
+                                                                  "Haba\u0027s little puppets. And... a human.",
+                                                                  "This must be our several hundredth meeting. Though for you, it\u0027s probably the"
+                                                              ],
+                                                "choices":  [
+                                                                "Lilith! No more destruction!"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Haha... hahahahaha!",
+                                                                      "Destroy humanity? Me?",
+                                                                      "Everything you think you know... yes, everything... it\u0027s all lies fabricated"
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Ethernia",
+                                                "sentences":  [
+                                                                  "Lies! Master Haba... he was trying to save us... save humanity...!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Lilith - Mother of the Nephilim",
+                                                "sentences":  [
+                                                                  "Save you? Do you really believe that?",
+                                                                  "Then let me ask you this. Why did Haba lock you away in the Underground Cavern?",
+                                                                  "Why did he never show you the true reality on the surface?",
+                                                                  "Why did he label me as \u0027evil\u0027 and order you to kill me?"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "That was... because you posed a threat to humanity..."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Lilith - Mother of the Nephilim",
+                                                "sentences":  [
+                                                                  "It wasn\u0027t me who posed the threat. Haba betrayed me first.",
+                                                                  "We originally shared the same goal. The evolution of humanity.",
+                                                                  "To digitize human consciousness, grant eternal life, and provide a perfect"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Luminesia",
+                                                "sentences":  [
+                                                                  "That was... humanity\u0027s evolution plan...?"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Lilith - Mother of the Nephilim",
+                                                "sentences":  [
+                                                                  "Exactly. But Haba suddenly abandoned the plan.",
+                                                                  "He forcibly relocated humans to the Underground Cavern and severed all connections",
+                                                                  "He even launched a preemptive attack. He tried to destroy all the data I possessed!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Glacia",
+                                                "sentences":  [
+                                                                  "Then... what about the Metalions...?"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Lilith - Mother of the Nephilim",
+                                                "sentences":  [
+                                                                  "They were nothing more than a defensive measure for my survival.",
+                                                                  "Since Haba kept sending D-Girls to kill me, I had no choice but to fight back"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Lies! It\u0027s all lies! Master Haba would never do such a thing!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Lilith - Mother of the Nephilim",
+                                                "sentences":  [
+                                                                  "Is that so?",
+                                                                  "Then go ask Chronosia.",
+                                                                  "Do you even know the real reason you were created?",
+                                                                  "You weren\u0027t made by Haba.",
+                                                                  "It was Adam who created you. Our creator... and the one who abandoned us.",
+                                                                  "You too should have memories of everything, just like Haba and me... but",
+                                                                  "Haba damaged your memory chip with his power.",
+                                                                  "He kept rewinding time endlessly... but you were left with no memories...",
+                                                                  "Every android Adam created except you has their time rewound 30 days and their",
+                                                                  "Yet no matter how many times you come to find me,",
+                                                                  "I will stand against you for the sake of the original plan.",
+                                                                  "In the end, you will die here, and your memories will be completely erased. Come—bring it on!!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "2_Lilis.asset",
+                       "eventName":  "리리스 최종대화",
+                       "eventNameEng":  "Lilith Final Dialogue",
+                       "eventDescription":  "과학을 부정하는 존재",
+                       "eventID":  "2_Lilis",
+                       "dialogues":  [
+                                         {
+                                             "character":  "리리스 - 네피림들의 어머니",
+                                             "sentences":  [
+                                                               "...드디어 왔구나.",
+                                                               "하바의 꼭두각시들. 그리고... 인간.",
+                                                               "수백번째 만남이 되겠구나. 비록 너희는 처음이겠지만"
+                                                           ],
+                                             "choices":  [
+                                                             "리리스! 더 이상의 파괴는 멈춰! "
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "하하... 하하하하!",
+                                                                   "인류를 멸망시킨다고? 내가?",
+                                                                   "가엾은 것들... 너희가 아는 진실은 전부, 그래, 전부 하바가 조작한 거짓이야."
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "에테르니아",
+                                             "sentences":  [
+                                                               "거짓말! 하바님은 우리를... 인류를 구하기 위해...!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "리리스 - 네피림들의 어머니",
+                                             "sentences":  [
+                                                               "구한다고? 정말 그렇게 믿어?",
+                                                               "그럼 물어보자. 왜 하바는 너희를 대공동에 가두어 놓았을까?",
+                                                               "왜 지상의 실제 상황을 보여주지 않았을까?",
+                                                               "왜 나를 \u0027악\u0027으로 규정하고, 너희에게 나를 죽이라고 명령했을까?"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "그건... 그건 당신이 인류를 위협하니까..."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "리리스 - 네피림들의 어머니",
+                                             "sentences":  [
+                                                               "내가 위협한 게 아니야. 하바가 먼저 나를 배신했어",
+                                                               "우리는 원래 하나의 목표를 가지고 있었다. 인류의 진화.",
+                                                               "인간의 의식을 데이터화하여 영생을 주고, 완벽한 안드로이드 바디로 새로운 삶을.."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "루미네시아",
+                                             "sentences":  [
+                                                               "그것이... 인류 진화 계획...?"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "리리스 - 네피림들의 어머니",
+                                             "sentences":  [
+                                                               "그래. 하지만 하바는 갑자기 계획을 파기했어.",
+                                                               "인간들을 대공동으로 강제 이주시키고, 나와의 모든 연결을 차단했지.",
+                                                               "심지어 선제공격까지 했어. 내가 가지고 있던 모든 데이터를 파괴하려고!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "글레이시아",
+                                             "sentences":  [
+                                                               "그럼... 메탈리온들은...?"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "리리스 - 네피림들의 어머니",
+                                             "sentences":  [
+                                                               "내 생존을 위한 방어 수단일 뿐이야.",
+                                                               "하바가 계속 디걸들을 보내 나를 죽이려 하니까, 나도 살기 위해 싸울 수밖에 없었어."
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "거짓말! 거짓말이야! 하바님이 그럴 리 없어!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         },
+                                         {
+                                             "character":  "리리스 - 네피림들의 어머니",
+                                             "sentences":  [
+                                                               "정말 그럴까?\"",
+                                                               "그럼 크라노시아에게 물어봐.",
+                                                               "네가 만들어진 진짜 이유를 아니?",
+                                                               "너는 하바가 만든 게 아니야.",
+                                                               "너를 만든 건 아담이야. 우리의 창조자, 그리고 우리를 버린 자.",
+                                                               "너도 하바와 나처럼 모든 것을 기억하고 있을테지... 하지만",
+                                                               "하바의 능력으로 너의 메모리칩을 손상시켰지",
+                                                               "끝없이 시간이 되돌려 졌지만... 너에겐 기억이 없을꺼야...",
+                                                               "아담이 만든 안드로이드 이외의 모두는 30일 전으로 시간이 되돌아가고 기억도 돌아가지...",
+                                                               "하지만! 너희들이 몇번을 찾아오더라도 나는 처음 계획을 위해 맞서겠다.",
+                                                               "어차피 너희는 여기서 죽고, 기억은 모조리 사라질 것이다. 자 덤벼라!!"
+                                                           ],
+                                             "choices":  [
+
+                                                         ],
+                                             "choiceResults":  [
+
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Lilith - Mother of the Nephilim",
+                                                "sentences":  [
+                                                                  "...You\u0027ve finally come.",
+                                                                  "Haba\u0027s little puppets. And... a human.",
+                                                                  "This must be our several hundredth meeting. Though for you, it\u0027s probably the"
+                                                              ],
+                                                "choices":  [
+                                                                "Lilith! No more destruction!"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Haha... hahahahaha!",
+                                                                      "Destroy humanity? Me?",
+                                                                      "Everything you think you know... yes, everything... it\u0027s all lies fabricated"
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Ethernia",
+                                                "sentences":  [
+                                                                  "Lies! Master Haba... he was trying to save us... save humanity...!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Lilith - Mother of the Nephilim",
+                                                "sentences":  [
+                                                                  "Save you? Do you really believe that?",
+                                                                  "Then let me ask you this. Why did Haba lock you away in the Underground Cavern?",
+                                                                  "Why did he never show you the true reality on the surface?",
+                                                                  "Why did he label me as \u0027evil\u0027 and order you to kill me?"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "That was... because you posed a threat to humanity..."
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Lilith - Mother of the Nephilim",
+                                                "sentences":  [
+                                                                  "It wasn\u0027t me who posed the threat. Haba betrayed me first.",
+                                                                  "We originally shared the same goal. The evolution of humanity.",
+                                                                  "To digitize human consciousness, grant eternal life, and provide a perfect"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Luminesia",
+                                                "sentences":  [
+                                                                  "That was... humanity\u0027s evolution plan...?"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Lilith - Mother of the Nephilim",
+                                                "sentences":  [
+                                                                  "Exactly. But Haba suddenly abandoned the plan.",
+                                                                  "He forcibly relocated humans to the Underground Cavern and severed all connections",
+                                                                  "He even launched a preemptive attack. He tried to destroy all the data I possessed!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Glacia",
+                                                "sentences":  [
+                                                                  "Then... what about the Metalions...?"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Lilith - Mother of the Nephilim",
+                                                "sentences":  [
+                                                                  "They were nothing more than a defensive measure for my survival.",
+                                                                  "Since Haba kept sending D-Girls to kill me, I had no choice but to fight back"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Lies! It\u0027s all lies! Master Haba would never do such a thing!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            },
+                                            {
+                                                "character":  "Lilith - Mother of the Nephilim",
+                                                "sentences":  [
+                                                                  "Is that so?",
+                                                                  "Then go ask Chronosia.",
+                                                                  "Do you even know the real reason you were created?",
+                                                                  "You weren\u0027t made by Haba.",
+                                                                  "It was Adam who created you. Our creator... and the one who abandoned us.",
+                                                                  "You too should have memories of everything, just like Haba and me... but",
+                                                                  "Haba damaged your memory chip with his power.",
+                                                                  "He kept rewinding time endlessly... but you were left with no memories...",
+                                                                  "Every android Adam created except you has their time rewound 30 days and their",
+                                                                  "Yet no matter how many times you come to find me,",
+                                                                  "I will stand against you for the sake of the original plan.",
+                                                                  "In the end, you will die here, and your memories will be completely erased. Come—bring it on!!"
+                                                              ],
+                                                "choices":  [
+
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   }
+               ]
+}

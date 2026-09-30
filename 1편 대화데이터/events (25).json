@@ -1,0 +1,1244 @@
+﻿{
+    "sourceFolder":  "CouterStrike\\InstantEvent",
+    "eventCount":  27,
+    "events":  [
+                   {
+                       "sourceFile":  "dystopia_abandoned_lab.asset",
+                       "eventName":  "버려진 연구소",
+                       "eventNameEng":  "Abandoned Laboratory",
+                       "eventDescription":  "버려진 연구소",
+                       "eventID":  "dystopia_abandoned_lab",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "길을 가다가 낡은 사이언스 캡슐을 발견했다.",
+                                                               "낡은 캡슐 안에 실험 데이터와 에너지가 남아 있다.",
+                                                               "활성화하면 강력한 버프를 얻을 수 있지만, 돌연변이 위험이 있다."
+                                                           ],
+                                             "choices":  [
+                                                             "캡슐을 활성화한다(성공확률 100%)",
+                                                             "데이터를 이더로 변환한다(성공확률 100%)",
+                                                             "즉시 떠난다"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "실험 에너지가 스며들어 스탯이 강화되었으나, 체력 피해를 입었다.",
+                                                                   "데이터를 안전하게 추출해 이더를 얻었다.",
+                                                                   "위험을 피했다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "You discovered an old Science Capsule while traveling along the path.",
+                                                                  "Inside the worn-out capsule, experimental data and energy still remain.",
+                                                                  "Activating it could grant a powerful buff, but there is a risk of mutation."
+                                                              ],
+                                                "choices":  [
+                                                                "Activate the capsule (Success Rate 100%)",
+                                                                "Convert data to Ethernia (Success Rate 100%)",
+                                                                "Leave immediately"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "The experimental energy surged through you, strengthening your stats, but",
+                                                                      "You safely extracted the data and obtained Ethernia.",
+                                                                      "You avoided the danger."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "dystopia_bending_macine.asset",
+                       "eventName":  "버려진 연구소",
+                       "eventNameEng":  "Abandoned Laboratory",
+                       "eventDescription":  "버려진 연구소",
+                       "eventID":  "dystopia_abandoned_lab",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "길을 가다 낡은 자판기를 발견했다.",
+                                                               "이더를 넣으면 체력을 회복시켜 줄 수 있다고 써있다. 이더를 넣어볼까?"
+                                                           ],
+                                             "choices":  [
+                                                             "이더를 넣어본다. (성공확률 80%)",
+                                                             "자리를 떠난다."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "이더를 넣고 자판기를 돌려보았다.",
+                                                                   "다른곳으로 이동한다.",
+                                                                   "위험을 피했다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "You found a worn-out vending machine along the path.",
+                                                                  "A sign says it can restore HP if you insert Ethernia. Should you try putting"
+                                                              ],
+                                                "choices":  [
+                                                                "Insert Ether (Success Rate 80%)",
+                                                                "Leave the area"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "You inserted Ethernia and operated the vending machine.",
+                                                                      "You move to another location.",
+                                                                      "You avoided the danger."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "dystopia_broken_android.asset",
+                       "eventName":  "고장난 안드로이드",
+                       "eventNameEng":  "Broken Android",
+                       "eventDescription":  "고장난 안드로이드",
+                       "eventID":  "dystopia_broken_android",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "길거리에서 고장난 안드로이드가 쓰러져 있다. 디걸과 비슷해 보이지만, 리리스의 네피림일 수도 있다.",
+                                                               "그 안에 저장된 데이터가 유용할 수 있다. 하지만 만지다 해킹될 위험이 있다.",
+                                                               "데이터를 추출하거나, 수리해 카드를 업그레이드할 수 있을지도 모른다."
+                                                           ],
+                                             "choices":  [
+                                                             "데이터를 추출해 카드를 업그레이드한다.(성공 80%)",
+                                                             "이더로 변환한다(성공확률 100%)",
+                                                             "버리고 간다"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "안드로이드의 코어를 이용해 카드를 강화했다. ",
+                                                                   "안드로이드를 분해해 이더를 얻었다. 안전한 선택이었다.",
+                                                                   "위험을 피했다. 아무 변화도 없다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "A broken android lies collapsed on the street. It looks similar to a D-Girl,",
+                                                                  "The data stored inside might be useful, but there is a risk of being hacked",
+                                                                  "You might be able to extract data or repair it to upgrade your cards."
+                                                              ],
+                                                "choices":  [
+                                                                "Extract data to upgrade cards (Success Rate 80%)",
+                                                                "Convert to Ether (Success Rate 100%)",
+                                                                "Leave it behind"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "You used the android\u0027s core to strengthen your cards.",
+                                                                      "You dismantled the android and obtained Ether. It was a safe choice.",
+                                                                      "You avoided the danger. Nothing has changed."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "dystopia_card_recycler.asset",
+                       "eventName":  "카드 재활용기",
+                       "eventNameEng":  "Card Recycler",
+                       "eventDescription":  "카드 재활용기",
+                       "eventID":  "dystopia_card_recycler",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "고대 하바의 재활용기를 발견했다. 지상 인류 시대의 유물이다.",
+                                                               "낡은 카드를 넣으면 업그레이드되거나 이더로 바뀐다.",
+                                                               "시도해볼까?"
+                                                           ],
+                                             "choices":  [
+                                                             "카드를 업그레이드한다(성공확률 80%)",
+                                                             "카드를 이더로 변환한다(성공확률 100%)",
+                                                             "사용하지 않는다"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "재활용기로 카드가 강화되었다. 이더도 약간 얻었다.",
+                                                                   "카드를 녹여 이더를 대량 얻었다.",
+                                                                   "기계를 피했다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "You discovered a recycler from ancient hava. It is a relic from the era of",
+                                                                  "If you insert old cards, they are either upgraded or converted into Ether.",
+                                                                  "Would you like to try it?"
+                                                              ],
+                                                "choices":  [
+                                                                "Upgrade cards (Success Rate 80%)",
+                                                                "Convert cards to Ether (Success Rate 100%)",
+                                                                "Do not use"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "The recycler has strengthened the cards. You also obtained a small amount",
+                                                                      "You melted down the cards and obtained a large amount of Ether.",
+                                                                      "You avoided the machine."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "dystopia_corrupted_crystal.asset",
+                       "eventName":  "부식된 이더 수정",
+                       "eventNameEng":  "Corroded Ether Crystal",
+                       "eventDescription":  "부식된 이더 수정",
+                       "eventID":  "dystopia_corrupted_crystal",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "거대한 부식된 이더 수정을 발견했다.",
+                                                               "터뜨리면 대량 이더를 획득지만 폭발 피해가 크다. 어떻게 할까?"
+                                                           ],
+                                             "choices":  [
+                                                             "수정을 파괴한다(성공확률 100%)",
+                                                             "안전하게 채취한다(성공확률 100%)",
+                                                             "무시한다"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "이더를 대량 얻었으나 큰 피해를 입었다.",
+                                                                   "소량 이더를 챙겼다.",
+                                                                   "안전하게 지나갔다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "You discovered a massive Corrupted Ether Crystal.",
+                                                                  "Breaking it will yield a large amount of Ether, but the explosion damage is"
+                                                              ],
+                                                "choices":  [
+                                                                "Destroy the crystal (Success Rate 100%)",
+                                                                "Harvest safely (Success Rate 100%)",
+                                                                "Ignore it"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "You obtained a large amount of Ether but sustained heavy damage.",
+                                                                      "You collected a small amount of Ether.",
+                                                                      "You passed by safely."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "dystopia_energy_core 1.asset",
+                       "eventName":  "폐허 속 에너지 코어",
+                       "eventNameEng":  "Energy Core in the Ruins",
+                       "eventDescription":  "폐허 속 에너지 코어",
+                       "eventID":  "dystopia_energy_core",
+                       "dialogues":  [
+                                         {
+                                             "character":  "[SYSTEM]",
+                                             "sentences":  [
+                                                               "폐허가 된 공장에서 빛나는 에너지 코어를 발견했다.",
+                                                               "이 코어는 메탈리온의 잔해로 보인다. 불안정해 보이지만, 강력한 에너지를 뿜어내고 있다.",
+                                                               "코어를 흡수하면 힘을 얻을 수 있을지도 모른다. 하지만 위험할 수 있다."
+                                                           ],
+                                             "choices":  [
+                                                             "코어를 흡수한다(성공확률 100%)",
+                                                             "분해해서 이더를 추출한다(성공확률 100%)",
+                                                             "무시하고 지나간다"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "코어의 에너지가 몸으로 스며든다. 강력한 버프를 얻었지만, 약간의 피해를 입었다.",
+                                                                   "코어를 분해해 이더를 얻었다. 안전하게 이득을 챙겼다.",
+                                                                   "위험을 피했다. 아무 일도 일어나지 않았다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "[SYSTEM]",
+                                                "sentences":  [
+                                                                  "You discovered a glowing energy core in an abandoned factory.",
+                                                                  "This core appears to be the remains of a Metalion. It looks unstable, but it\u0027s",
+                                                                  "Absorbing the core might grant you power, but it could be dangerous."
+                                                              ],
+                                                "choices":  [
+                                                                "Absorb the core",
+                                                                "Dismantle to extract Ether",
+                                                                "Ignore and pass by"
+                                                            ],
+                                                "choiceResults":  [
+
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "dystopia_hava_supply.asset",
+                       "eventName":  "하바 보급 드롭",
+                       "eventNameEng":  "Hava Supply Drop",
+                       "eventDescription":  "하바 보급 드롭",
+                       "eventID":  "dystopia_hava_supply",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "하바의 보급 캡슐이 떨어졌다!",
+                                                               "열어보면 체력 회복과 이더를 얻을 수 있다.",
+                                                               "즉시 열까?"
+                                                           ],
+                                             "choices":  [
+                                                             "캡슐을 연다(성공확률 100%)",
+                                                             "이더를 추가 추출한다(성공확률 100%)",
+                                                             "의심하고 피한다"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "보급품으로 체력이 회복되었다!",
+                                                                   "추가 이더를 얻었다.",
+                                                                   "아무 일 없었다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "A hava supply capsule has dropped!",
+                                                                  "Opening it can grant HP recovery and Ether.",
+                                                                  "Should you open it immediately?"
+                                                              ],
+                                                "choices":  [
+                                                                "Open the capsule (Success Rate 100%)",
+                                                                "Extract additional Ether (Success Rate 100%)",
+                                                                "Be suspicious and avoid it"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Your HP has been restored with the supplies!",
+                                                                      "You obtained additional Ether.",
+                                                                      "Nothing happened."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "dystopia_healing_pod.asset",
+                       "eventName":  "치유 포드",
+                       "eventNameEng":  "Healing Pod",
+                       "eventDescription":  "치유 포드",
+                       "eventID":  "dystopia_healing_pod",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "전쟁 중 사용된 치유 포드를 찾았다. 하바의 기술이다.",
+                                                               "사용하면 체력을 회복하지만, 오염되어 스탯 디버프를 줄 수 있다."
+                                                           ],
+                                             "choices":  [
+                                                             "포드를 사용한다.(성공확률 100%)",
+                                                             "이더를 주입해 안전하게 회복한다.(성공확률 100%)",
+                                                             "포드를 파괴한다"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "체력이 크게 회복되었지만, 약간의 스탯 디버프를 입었다.",
+                                                                   "이더를 써서 안전하게 체력을 회복했다.",
+                                                                   "위험을 제거했다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "You found a healing pod used during the war. It is hava technology.",
+                                                                  "Using it restores HP, but since it\u0027s contaminated, it might give you a stat"
+                                                              ],
+                                                "choices":  [
+                                                                "Use the pod (Success Rate 100%)",
+                                                                "Inject Ether to recover safely (Success Rate 100%)",
+                                                                "Destroy the pod"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Your HP has been significantly restored, but you suffered a slight stat debuff.",
+                                                                      "You used Ether to safely restore your HP.",
+                                                                      "You removed the danger."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "dystopia_lilith_fragment.asset",
+                       "eventName":  "리리스 데이터 파편",
+                       "eventNameEng":  "Lilith Data Fragment",
+                       "eventDescription":  "리리스 데이터 파편",
+                       "eventID":  "dystopia_lilith_fragment",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "공중에 떠 있는 리리스의 데이터 파편을 발견했다.",
+                                                               "파편을 흡수하면  카드가 강화될 수 있지만, 정신 오염 위험이 있다.",
+                                                               "어떻게 할까?"
+                                                           ],
+                                             "choices":  [
+                                                             "파편을 흡수해 카드 업그레이드(성공확률80%)",
+                                                             "이더로 변환한다(성공확률80%)",
+                                                             "파괴한다"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "데이터가 카드를 강화했다. ",
+                                                                   "파편을 분해해 이더를 얻었다.",
+                                                                   "파편을 파괴했다. 안전하다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "You discovered a fragment of Lilith\u0027s data floating in the air.",
+                                                                  "Absorbing the fragment could strengthen your cards, but there is a risk of",
+                                                                  "What will you do?"
+                                                              ],
+                                                "choices":  [
+                                                                "Absorb fragment to upgrade cards (Success Rate 80%)",
+                                                                "Convert to Ether (Success Rate 80%)",
+                                                                "Destroy it"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "The data has strengthened your cards.",
+                                                                      "You dismantled the fragment and obtained Ether.",
+                                                                      "You destroyed the fragment. It\u0027s safe now."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "dystopia_metalion_ambush.asset",
+                       "eventName":  "메탈리온 매복",
+                       "eventNameEng":  "Metalion Ambush",
+                       "eventDescription":  "메탈리온 매복",
+                       "eventID":  "dystopia_metalion_ambush",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "갑자기 메탈리온 무리가 매복에서 튀어나왔다!",
+                                                               "싸워서 이기면 전리품을 얻을 수 있지만, 피해가 클 수 있다."
+                                                           ],
+                                             "choices":  [
+                                                             "전투하여 전리품을 얻는다.",
+                                                             "도망치며 이더 상자를 노린다",
+                                                             "숨는다"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "메탈리온을 물리치고 STR 버프를 얻었으나 피해를 입었다.",
+                                                                   "도망치며 이더를 챙겼다.",
+                                                                   "위험을 피했다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "A pack of Metalions suddenly jumped out from an ambush!",
+                                                                  "If you fight and win, you can obtain spoils, but you might sustain heavy damage."
+                                                              ],
+                                                "choices":  [
+                                                                "Fight to obtain spoils",
+                                                                "Target an Ether box while escaping",
+                                                                "Hide"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "You defeated the Metalions and gained a STR buff, but you sustained damage.",
+                                                                      "You secured some Ether while escaping.",
+                                                                      "You avoided the danger."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "dystopia_mysterious_hacker.asset",
+                       "eventName":  "미스터리한 해커",
+                       "eventNameEng":  "Mysterious Hacker",
+                       "eventDescription":  "미스터리한 해커",
+                       "eventID":  "dystopia_mysterious_hacker",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "폐허에서 홀로그램 해커가 나타났다. 리리스의 잔재일 수 있다.",
+                                                               "해커가 시스템을 해킹해 스탯을 버프해주겠다고 제안한다. 하지만 피해를 줄 수도 있다."
+                                                           ],
+                                             "choices":  [
+                                                             "해킹을 수락한다",
+                                                             "이더를 주고 거래한다(-200이더)",
+                                                             "거절한다"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "해킹으로 스탯이 버프되었지만, 약간의 체력 피해를 입었다.",
+                                                                   "이더를 주고 안전하게 스탯 버프를 얻었다.",
+                                                                   "위험을 피했다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "A hologram hacker has appeared in the ruins. It could be a remnant of Lilith.",
+                                                                  "The hacker offers to hack the system to buff your stats, but it might also"
+                                                              ],
+                                                "choices":  [
+                                                                "Accept the hacking",
+                                                                "Trade by giving Ether (-200 Ether)",
+                                                                "Decline"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "The hacking buffed your stats, but you sustained some HP damage.",
+                                                                      "You safely obtained a stat buff by paying Ether.",
+                                                                      "You avoided the danger."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "dystopia_nephilim_corpse.asset",
+                       "eventName":  "네피림 시체",
+                       "eventNameEng":  "Nephilim Corpse",
+                       "eventDescription":  "네피림 시체",
+                       "eventID":  "dystopia_nephilim_corpse",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "네피림의 시체를 발견했다. 카드 데이터가 남아 있다.",
+                                                               "추출하면  카드가 강화된다.",
+                                                               "시도해볼까?"
+                                                           ],
+                                             "choices":  [
+                                                             "카드를 업그레이드한다(성공확률 60%)",
+                                                             "이더로 변환한다(성공확률 100%)",
+                                                             "태워버린다"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "네피림의 힘으로 카드가 강화되었다!",
+                                                                   "시체를 분해해 이더를 얻었다.",
+                                                                   "위험을 제거했다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "You discovered the corpse of a Nephilim. Some card data still remains.",
+                                                                  "Extracting it will strengthen your cards.",
+                                                                  "Would you like to try?"
+                                                              ],
+                                                "choices":  [
+                                                                "Upgrade cards (Success Rate 60%)",
+                                                                "Convert to Ether (Success Rate 100%)",
+                                                                "Burn it"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "The power of the Nephilim has strengthened your cards!",
+                                                                      "You dismantled the corpse and obtained Ether.",
+                                                                      "You removed the danger."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "dystopia_power_generator.asset",
+                       "eventName":  "고장난 발전기",
+                       "eventNameEng":  "Broken Power Generator",
+                       "eventDescription":  "고장난 발전기",
+                       "eventID":  "dystopia_power_generator",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "디스토피아 폐허의 발전기를 발견했다.",
+                                                               "재가동하면 STR 버프를 얻을 수 있지만 과부하로 피해 가능."
+                                                           ],
+                                             "choices":  [
+                                                             "발전기를 재가동한다",
+                                                             "부품을 이더로 만든다",
+                                                             "파괴한다"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "에너지가 STR을 강화했으나 피해를 입었다.",
+                                                                   "부품으로 이더를 추출했다.",
+                                                                   "안전하게 지나갔다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "You discovered a power generator in the dystopian ruins.",
+                                                                  "Restarting it may grant a STR buff, but overload damage is possible."
+                                                              ],
+                                                "choices":  [
+                                                                "Restart the generator",
+                                                                "Turn parts into Ether",
+                                                                "Destroy it"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "The energy strengthened your STR, but you sustained damage.",
+                                                                      "You extracted Ether from the parts.",
+                                                                      "You passed by safely."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "dystopia_radiation_storm.asset",
+                       "eventName":  "방사능 폭풍",
+                       "eventNameEng":  "Radiation Storm",
+                       "eventDescription":  "방사능 폭풍",
+                       "eventID":  "dystopia_radiation_storm",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "갑자기 방사능 폭풍이 몰아친다!",
+                                                               "피신처로 들어가 DEF를 강화할 수 있지만 피해를 입는다.",
+                                                               "대처를 선택하라."
+                                                           ],
+                                             "choices":  [
+                                                             "피신처로 들어간다",
+                                                             "이더 쉴드를 사용한다",
+                                                             "폭풍을 뚫고 간다"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "DEF가 강화되었으나 피해를 입었다.",
+                                                                   "이더를 소모해 피해를 줄였다.",
+                                                                   "추가 피해를 입었다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "A radiation storm is suddenly blowing in!",
+                                                                  "You can strengthen your DEF by entering a shelter, but you will take damage.",
+                                                                  "Choose your action."
+                                                              ],
+                                                "choices":  [
+                                                                "Enter the shelter",
+                                                                "Use Ether Shield",
+                                                                "Push through the storm"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Your DEF was strengthened, but you sustained damage.",
+                                                                      "You consumed Ether to reduce the damage.",
+                                                                      "You sustained additional damage."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "dystopia_radiation_zone.asset",
+                       "eventName":  "방사능 오염 지역",
+                       "eventNameEng":  "Radiation Contamination Zone",
+                       "eventDescription":  "방사능 오염 지역",
+                       "eventID":  "dystopia_radiation_zone",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "메탈리온 전쟁의 잔재로 방사능이 새는 지역에 들어섰다.",
+                                                               "여기서 휴식을 취하면 체력을 회복할 수 있지만, 돌연변이 버프나 피해를 입을 수 있다."
+                                                           ],
+                                             "choices":  [
+                                                             "휴식을 취한다(성공확률 50%)",
+                                                             "이더를 채취한다",
+                                                             "즉시 떠난다"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "체력이 회복되었지만, 약간의 피해와 함께 스탯 버프를 얻었다.",
+                                                                   "방사능에서 이더를 추출했다. 유용하다!",
+                                                                   "안전하게 피했다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "You have entered an area where radiation is leaking, a remnant of the Metalion",
+                                                                  "Resting here can restore HP, but you may also receive mutation buffs or sustain"
+                                                              ],
+                                                "choices":  [
+                                                                "Take a rest (Success Rate 50%)",
+                                                                "Harvest Ether",
+                                                                "Leave immediately"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Your HP was restored, but you gained stat buffs along with some damage.",
+                                                                      "You extracted Ether from the radiation. Useful!",
+                                                                      "You avoided it safely."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "dystopia_scavenger_trade.asset",
+                       "eventName":  "안드로이드 청소부 거래",
+                       "eventNameEng":  "Android Scavenger Trade",
+                       "eventDescription":  "안드로이드 청소부 거래",
+                       "eventID":  "dystopia_scavenger_trade",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "부서진 안드로이드 청소부가 카드를 요구하며 거래를 제안한다.",
+                                                               "낡은 카드를 주면 업그레이드해준다.",
+                                                               "거래할까?"
+                                                           ],
+                                             "choices":  [
+                                                             "카드를 업그레이드한다(성공확률 50%)",
+                                                             "카드를 이더로 교환한다(성공확률 100%)",
+                                                             "거래 거부"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "청소부가 카드를 강화해 주었다!",
+                                                                   "카드를 팔아 이더를 얻었다.",
+                                                                   "거래를 피했다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "A broken android scavenger proposes a trade, demanding cards.",
+                                                                  "It will upgrade your old cards if you provide them.",
+                                                                  "Would you like to trade?"
+                                                              ],
+                                                "choices":  [
+                                                                "Upgrade cards (Success Rate 50%)",
+                                                                "Exchange cards for Ether (Success Rate 100%)",
+                                                                "Refuse trade"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "The scavenger has strengthened your cards!",
+                                                                      "You sold the cards and obtained Ether.",
+                                                                      "You avoided the trade."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "dystopia_scrap_heap.asset",
+                       "eventName":  "폐기물 더미",
+                       "eventNameEng":  "Scrap Heap",
+                       "eventDescription":  "폐기물 더미",
+                       "eventID":  "dystopia_scrap_heap",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "네피림의 잔해가 쌓인 폐기물 더미를 발견했다.",
+                                                               "여기서 쓸모없는 카드를 버리고 이더를 얻거나, 카드를 업그레이드할 수 있다.",
+                                                               "어떻게 할까?"
+                                                           ],
+                                             "choices":  [
+                                                             "낡은 카드를 업그레이드한다(성공확률 30%)",
+                                                             "카드를 이더로 교환한다(성공확률 10%)",
+                                                             "아무것도 하지 않는다"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "폐기물에서 에너지를 추출해 카드를 강화했다.",
+                                                                   "쓸모없는 카드를 버리고 이더를 얻었다.",
+                                                                   "그냥 지나쳤다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "You discovered a scrap heap where Nephilim remains are piled up.",
+                                                                  "Here, you can discard useless cards to obtain Ether, or upgrade your cards.",
+                                                                  "What will you do?"
+                                                              ],
+                                                "choices":  [
+                                                                "Upgrade old cards (Success Rate 30%)",
+                                                                "Exchange cards for Ether (Success Rate 10%)",
+                                                                "Do nothing"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "You extracted energy from the scrap to strengthen your cards.",
+                                                                      "You discarded useless cards and obtained Ether.",
+                                                                      "You just passed by."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "eternia_sky_relic.asset",
+                       "eventName":  "하늘 유물",
+                       "eventNameEng":  "Sky Relic",
+                       "eventDescription":  "하늘 유물",
+                       "eventID":  "eternia_sky_relic",
+                       "dialogues":  [
+                                         {
+                                             "character":  "",
+                                             "sentences":  [
+                                                               "지나가던 길에 에테르니아의 윙에 장착될만한 부품이 보였다.",
+                                                               "불안정하지만 사용할 수 있을지도 모른다.",
+                                                               "아니면 상점에 팔아버릴 수도 있겠다."
+                                                           ],
+                                             "choices":  [
+                                                             "윙에 장착해본다.방어력증가(성공확률 70%)",
+                                                             "이더로 교환한다.",
+                                                             "무시하고 지나간다."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "윙에 기기를 장착해본다.",
+                                                                   "장치에서 이더만 추출한다.",
+                                                                   "무시하고 지나간다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "",
+                                                "sentences":  [
+                                                                  "While traveling, you spotted a part that could be equipped to Ethernia\u0027s wings.",
+                                                                  "It seems unstable, but it might be usable.",
+                                                                  "Or, you could just sell it at the shop."
+                                                              ],
+                                                "choices":  [
+                                                                "Equip it to the wings. Increase DEF (Success Rate 70%)",
+                                                                "Exchange for Ether.",
+                                                                "Ignore and pass by."
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "You tried equipping the device to the wings.",
+                                                                      "You extracted only Ether from the device.",
+                                                                      "You ignored it and passed by."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "eternia_wing_repair.asset",
+                       "eventName":  "메카닉 윙 수리 키트",
+                       "eventNameEng":  "Mechanic Wing Repair Kit",
+                       "eventDescription":  "메카닉 윙 수리 키트",
+                       "eventID":  "eternia_wing_repair",
+                       "dialogues":  [
+                                         {
+                                             "character":  "에테르니아",
+                                             "sentences":  [
+                                                               "마스터님, 이 수리 키트로 제 윙을 강화할 수 있어요.",
+                                                               "DEF가 올라가지만, 오작동 위험이 있어요.",
+                                                               "도와주실래요?"
+                                                           ],
+                                             "choices":  [
+                                                             "윙을 수리한다(방어력증가.성공확률 70%)",
+                                                             "이더로 변환한다",
+                                                             "사용하지 않는다"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "윙이 강화되어 DEF 버프를 얻었으나 피해 입음.",
+                                                                   "키트를 분해해 이더 얻음.",
+                                                                   "안전."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Ethernia",
+                                                "sentences":  [
+                                                                  "Master, I can strengthen my wings with this repair kit.",
+                                                                  "My DEF will increase, but there is a risk of malfunction.",
+                                                                  "Will you help me?"
+                                                              ],
+                                                "choices":  [
+                                                                "Repair the wings (Increase DEF. Success Rate 70%)",
+                                                                "Convert to Ether",
+                                                                "Do not use"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "The wings were strengthened and you gained a DEF buff, but you took damage.",
+                                                                      "Dismantled the kit and obtained Ether.",
+                                                                      "Safe."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "glacisia_ice_crystal.asset",
+                       "eventName":  "얼음 수정",
+                       "eventNameEng":  "Ice Crystal",
+                       "eventDescription":  "얼음 수정",
+                       "eventID":  "glacisia_ice_crystal",
+                       "dialogues":  [
+                                         {
+                                             "character":  "글래이시아",
+                                             "sentences":  [
+                                                               "마스터님... 이 수정이 제 힘을 증폭시켜줄 거예요.",
+                                                               " 카드 업그레이드 가능하지만, 냉기 피해가 있을 수 있어요.",
+                                                               "좋을까요?"
+                                                           ],
+                                             "choices":  [
+                                                             "수정을 사용한다(성공확률 70%)",
+                                                             "이더 추출(성공확률 90%)",
+                                                             "파괴"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "수정이 빛나기 시작한다.",
+                                                                   "이더 얻음.",
+                                                                   "무사."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "infernia_flame_ore.asset",
+                       "eventName":  "불꽃 광석",
+                       "eventNameEng":  "Flame Ore",
+                       "eventDescription":  "불꽃 광석",
+                       "eventID":  "infernia_flame_ore",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "와! 이 광석 불타오른다! 내 스킬카드를 강화해줄 거야!",
+                                                               "태워서 쓰자! 하지만 화상 입을 수 있어!",
+                                                               "가자!"
+                                                           ],
+                                             "choices":  [
+                                                             "광석 연소(성공확률 70%)",
+                                                             "이더 추출(성공확률 50%)",
+                                                             "피함"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "광석이 환하게 불타올랐다.",
+                                                                   "이더 얻음.",
+                                                                   "무사."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "Whoa! This ore is blazing hot! It’s gonna power up my skill card!",
+                                                                  "Let’s burn it and use it! But you might get burned!",
+                                                                  "Let’s go!"
+                                                              ],
+                                                "choices":  [
+                                                                "Ignite Ore (Success Rate 70%)",
+                                                                "Extract Ether (Success Rate 50%)",
+                                                                "Avoid"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "The ore burned brightly and successfully.",
+                                                                      "Obtained Ether.",
+                                                                      "No damage."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "infernia_forge.asset",
+                       "eventName":  "불꽃 용광로",
+                       "eventNameEng":  "Flame Forge",
+                       "eventDescription":  "불꽃 용광로",
+                       "eventID":  "infernia_forge",
+                       "dialogues":  [
+                                         {
+                                             "character":  "인페르니아",
+                                             "sentences":  [
+                                                               "오래되보이지만 불이 꺼지지 않은 용광로가 있다.",
+                                                               "용광로의 힘을 흡수하면 인페르니아의 힘을 증폭시킬 수 있을 것 같다.\t",
+                                                               "하지만 실패하면 상처를 입을 수도..."
+                                                           ],
+                                             "choices":  [
+                                                             "용광로의 힘을 흡수한다.힘증가(성공확률 60%)",
+                                                             "돈될만한 것을 찾아본다.",
+                                                             "피해간다."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "용광로의 불꽃이 인페르니아에게 흡수되었다.",
+                                                                   "용광로의 화염석이 이더로 흡수되었다.",
+                                                                   "안전하게 돌아갔다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Infernia",
+                                                "sentences":  [
+                                                                  "It looks ancient, but the forge fire has never gone out.",
+                                                                  "If I absorb the power of this dragon forge, I feel like I could massively boost Infernia’s strength!",
+                                                                  "But if I fail… I might end up with serious burns…"
+                                                              ],
+                                                "choices":  [
+                                                                "Absorb the Dragon Forge’s Power (Power Increase – Success Rate 60%)",
+                                                                "Look for Something Valuable",
+                                                                "Avoid It"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "The dragon forge’s flames were fully absorbed by Infernia.",
+                                                                      "The dragon forge’s flame stones were absorbed as Ether.",
+                                                                      "Safely passed by."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "kranosia_dimension_rift.asset",
+                       "eventName":  "차원 균열",
+                       "eventNameEng":  "Dimension Rift",
+                       "eventDescription":  "차원 균열",
+                       "eventID":  "kranosia_dimension_rift",
+                       "dialogues":  [
+                                         {
+                                             "character":  "크라노시아",
+                                             "sentences":  [
+                                                               "길을 가다가 크라노시아가 공중에 있는 차원 균열을 발견했다.",
+                                                               "마스터님, 이 균열에서 에너지를 끌어올 수 있어요.",
+                                                               "PSY와 DEF 버프 가능하지만, 차원 피해 위험이 있습니다..열어볼까요?"
+                                                           ],
+                                             "choices":  [
+                                                             "균열 탐사(성공확률 80%)",
+                                                             "이더 흡수(성공확률 10%)",
+                                                             "봉인"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "균열이 열리며 크라노시아가 몸에서 빛을 발한다.",
+                                                                   "이더 획득.",
+                                                                   "아무 일도 없었다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Chronosia",
+                                                "sentences":  [
+                                                                  "While traveling, Chronosia discovered a dimension rift floating in mid-air.",
+                                                                  "This is... a dimensional rift. The energy flow is unstable...",
+                                                                  "We can either enter it to explore the other side, or ignore it and move on.",
+                                                                  "But be warned—if we go in, there\u0027s a high chance of encountering powerful entities or anomalies from the other dimension."
+                                                              ],
+                                                "choices":  [
+                                                                "Enter the Dimension Rift",
+                                                                "Ignore it and continue on the path"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Entering the rift... Everyone, prepare for impact!",
+                                                                      "Understood. We’ll bypass it and keep moving."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "luminesia_ancient_rune.asset",
+                       "eventName":  "고대 룬 발견",
+                       "eventNameEng":  "Ancient Rune Discovery",
+                       "eventDescription":  "고대 룬 발견",
+                       "eventID":  "luminesia_ancient_rune",
+                       "dialogues":  [
+                                         {
+                                             "character":  "루미네시아",
+                                             "sentences":  [
+                                                               "마스터여, 이 고대 룬을 보아라. 지혜의 힘이 스며들어 있노라.",
+                                                               "활성화하면 카드가 강화되리라. 하지만 불안정한 마법일 수 있도다. 시도해볼 텐가?"
+                                                           ],
+                                             "choices":  [
+                                                             "룬을 활성화한다(성공확률 70%)",
+                                                             "이더로 변환한다(성공확률 100%)",
+                                                             "무시한다"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "룬의 지혜가 PSY를 강화했으나, 약간의 정신 피해를 입었다.",
+                                                                   "룬을 분해해 이더를 얻었다.",
+                                                                   "위험을 피했다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Luminesia",
+                                                "sentences":  [
+                                                                  "Master, look at this book here. It doesn\u0027t seem like an ordinary tome...",
+                                                                  "This is... a Tome of Wisdom. Ancient knowledge is sealed within it.",
+                                                                  "If we open it, we might gain profound insight... but there\u0027s also a risk that",
+                                                                  "How would you like to proceed?"
+                                                              ],
+                                                "choices":  [
+                                                                "Open the Tome of Wisdom (Success Rate 60%)",
+                                                                "Carefully extract only Ether (Success Rate 85%)",
+                                                                "Leave it untouched"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "The profound wisdom of the tome flows into you. Insight greatly increased!",
+                                                                      "Safely extracted Ether from the tome.",
+                                                                      "Decided to leave the dangerous tome alone and moved on."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "luminesia_wisdom_tome.asset",
+                       "eventName":  "지혜의 서",
+                       "eventNameEng":  "Tome of Wisdom",
+                       "eventDescription":  "지혜의 서",
+                       "eventID":  "luminesia_wisdom_tome",
+                       "dialogues":  [
+                                         {
+                                             "character":  "루미네시아",
+                                             "sentences":  [
+                                                               "마스터여 여기 보이는 이 책이 뜻하지 않게 떨어져 있구나.",
+                                                               "무언가의 힘으로 봉인되었느니라... 봉인을 풀어볼까?",
+                                                               "무슨 함정이 있을 지도 모르기는 하다만... 어떻게 하는게 좋겠느냐?"
+                                                           ],
+                                             "choices":  [
+                                                             "봉인을 풀어본다.",
+                                                             "책을 팔아버린다.",
+                                                             "그대로 둔다."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "루미네시아의 마력으로 봉인을 풀기 시작했다.",
+                                                                   "이더를 획득했다.",
+                                                                   "아무 일도 없었다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Luminesia",
+                                                "sentences":  [
+                                                                  "Master, look at this book here. It doesn\u0027t seem like an ordinary tome...",
+                                                                  "This is... a Tome of Wisdom. Ancient knowledge is sealed within it.",
+                                                                  "If we open it, we might gain profound insight... but there\u0027s also a risk that",
+                                                                  "How would you like to proceed?"
+                                                              ],
+                                                "choices":  [
+                                                                "Open the Tome of Wisdom (Success Rate 60%)",
+                                                                "Carefully extract only Ether (Success Rate 85%)",
+                                                                "Leave it untouched"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "The profound wisdom of the tome flows into you. Insight greatly increased!",
+                                                                      "Safely extracted Ether from the tome.",
+                                                                      "Decided to leave the dangerous tome alone and moved on."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "tempestra_circuit_board.asset",
+                       "eventName":  "고장난 회로판",
+                       "eventNameEng":  "Broken Circuit Board",
+                       "eventDescription":  "고장난 회로판",
+                       "eventID":  "tempestra_circuit_board",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터님. 여기 보이는 회로판 수리할 수 있을지도 모르겠는데?",
+                                                               "수리하면 내 카드에 보탬이 될것 같은데... 실패하면 감전위험이 있어!",
+                                                               "해볼까?"
+                                                           ],
+                                             "choices":  [
+                                                             "수리한다. (성공확률 80%)",
+                                                             "팔아서 이더로 교환한다.",
+                                                             "버린다."
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "수리를 시도한다.",
+                                                                   "이더를 획득했다.",
+                                                                   "아무일도 일어나지 않았다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Master! Look at this junk... the circuit board is completely fried!",
+                                                                  "This thing was probably overloaded during the last dimensional surge.",
+                                                                  "Tch... typical low-quality Nephilim scrap. No wonder it broke so easily.",
+                                                                  "But... if we repair it properly, we might be able to extract some useful data",
+                                                                  "What do you want to do?"
+                                                              ],
+                                                "choices":  [
+                                                                "Try to repair it (Success Rate 65%)",
+                                                                "Extract usable parts only (Success Rate 90%)",
+                                                                "Just throw it away"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Successfully repaired! The circuit board is back online and some old data",
+                                                                      "Safely salvaged usable components and Ether from the board.",
+                                                                      "Threw away the broken circuit board. Nothing gained."
+                                                                  ]
+                                            }
+                                        ]
+                   },
+                   {
+                       "sourceFile":  "tempestra_electric_scrap.asset",
+                       "eventName":  "전기 스크랩 더미",
+                       "eventNameEng":  "Electric Scrap Heap",
+                       "eventDescription":  "전기 스크랩 더미",
+                       "eventID":  "tempestra_electric_scrap",
+                       "dialogues":  [
+                                         {
+                                             "character":  "템페스트라",
+                                             "sentences":  [
+                                                               "마스터님! 이 스크랩에 전기가 흐르고 있어요!",
+                                                               "DEX 카드를 충전할 수 있지만, 과전류로 피해 갈 수 있어요.",
+                                                               "제가 처리해볼까요?"
+                                                           ],
+                                             "choices":  [
+                                                             "스크랩을 충전한다(성공확률 60%)",
+                                                             "이더로 추출한다",
+                                                             "버린다"
+                                                         ],
+                                             "choiceResults":  [
+                                                                   "DEX가 강화되었으나 전기 피해를 입었다.",
+                                                                   "안전하게 이더를 얻었다.",
+                                                                   "아무 일 없었다."
+                                                               ]
+                                         }
+                                     ],
+                       "dialoguesEng":  [
+                                            {
+                                                "character":  "Tempestra",
+                                                "sentences":  [
+                                                                  "Hey, Master! Look at this mountain of junk over here!",
+                                                                  "It\u0027s all electric scrap... probably dumped after some Nephilim experiment went",
+                                                                  "Tch, what a waste. But there\u0027s definitely some good stuff buried in there.",
+                                                                  "We could dig through it and try to salvage something useful... or just zap",
+                                                                  "What do you say?"
+                                                              ],
+                                                "choices":  [
+                                                                "Search the scrap pile (Success Rate 70%)",
+                                                                "Discharge electricity to sort it (Success Rate 55%)",
+                                                                "Leave the scrap pile alone"
+                                                            ],
+                                                "choiceResults":  [
+                                                                      "Found some intact components! Gained useful materials and Ether.",
+                                                                      "Zapped the pile... some parts survived and were recovered!",
+                                                                      "Didn\u0027t bother with the scrap pile. Moved on."
+                                                                  ]
+                                            }
+                                        ]
+                   }
+               ]
+}
